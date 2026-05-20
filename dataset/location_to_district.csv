@@ -1,0 +1,167 @@
+﻿Location,District
+Dublin 1,D1
+"I.F.S.C., Dublin 1",D1
+"Parnell Street, Dublin 1",D1
+"Spencer Dock, Dublin 1",D1
+"Summerhill, Dublin 1",D1
+Dublin 2,D2
+"Aungier Street, Dublin 2",D2
+"Charlemont Street, Dublin 2",D2
+"Grand Canal Dock, Dublin 2",D2
+"Grand Canal Square, Dublin 2",D2
+"Hanover Quay, Dublin 2",D2
+"Lower Mount Street, Dublin 2",D2
+"Pearse Street, Dublin 2",D2
+"Tara Street, Dublin 2",D2
+"Temple Bar, Dublin 2",D2
+"Townsend Street, Dublin 2",D2
+Dublin 3,D3
+"Clonliffe, Dublin 3",D3
+"Clontarf, Dublin 3",D3
+"Drumcondra, Dublin 3",D3
+"East Wall, Dublin 3",D3
+"Eastwall, Dublin 3",D3
+"Fairview, Dublin 3",D3
+"Marino, Dublin 3",D3
+"North Strand, Dublin 3",D3
+Dublin 4,D4
+"Ballsbridge, Dublin 4",D4
+"Donnybrook, Dublin 4",D4
+"Irishtown, Dublin 4",D4
+"Merrion, Dublin 4",D4
+"Pembroke, Dublin 4",D4
+"Ringsend, Dublin 4",D4
+"Sandymount, Dublin 4",D4
+Dublin 5,D5
+"Artane, Dublin 5",D5
+"Killester, Dublin 5",D5
+"Raheny, Dublin 5",D5
+Dublin 6,D6
+"Dartry, Dublin 6",D6
+"Harolds Cross, Dublin 6",D6
+"Milltown, Dublin 6",D6
+"Ranelagh, Dublin 6",D6
+"Rathgar, Dublin 6",D6
+"Rathmines, Dublin 6",D6
+"Terenure, Dublin 6",D6
+Dublin 6W,D6W
+"Harolds Cross, Dublin 6W",D6W
+"Templeogue, Dublin 6W",D6W
+"Terenure, Dublin 6W",D6W
+Dublin 7,D7
+"Arbour Hill, Dublin 7",D7
+"Cabra, Dublin 7",D7
+"Navan Road, Dublin 7",D7
+"North Circular Road, Dublin 7",D7
+"Phibsboro, Dublin 7",D7
+"Smithfield, Dublin 7",D7
+"Stoneybatter, Dublin 7",D7
+Dublin 8,D8
+"Christchurch, Dublin 8",D8
+"Cork Street, Dublin 8",D8
+"Dolphins Barn, Dublin 8",D8
+"Inchicore, Dublin 8",D8
+"Islandbridge, Dublin 8",D8
+"Kilmainham , Dublin 8",D8
+"Portobello, Dublin 8",D8
+"Rialto, Dublin 8",D8
+"South Circular Road, Dublin 8",D8
+"The Coombe, Dublin 8",D8
+Dublin 9,D9
+"Ballymun, Dublin 9",D9
+"Beaumont, Dublin 9",D9
+"Drumcondra, Dublin 9",D9
+"Glasnevin, Dublin 9",D9
+"Santry, Dublin 9",D9
+"Whitehall, Dublin 9",D9
+Dublin 10,D10
+"Ballyfermot, Dublin 10",D10
+"Cherry Orchard, Dublin 10",D10
+Dublin 11,D11
+"Ballymun, Dublin 11",D11
+"Finglas, Dublin 11",D11
+"Glasnevin, Dublin 11",D11
+"Meakstown, Dublin 11",D11
+"St Margarets Road, Dublin 11",D11
+Dublin 12,D12
+"Crumlin, Dublin 12",D12
+"Drimnagh, Dublin 12",D12
+"Kimmage, Dublin 12",D12
+"Walkinstown, Dublin 12",D12
+Dublin 13,D13
+"Baldoyle, Dublin 13",D13
+"Balgriffin, Dublin 13",D13
+"Clongriffin, Dublin 13",D13
+"Donaghmede, Dublin 13",D13
+"Sutton, Dublin 13",D13
+Dublin 14,D14
+"Churchtown, Dublin 14",D14
+"Clonskeagh, Dublin 14",D14
+"Dundrum, Dublin 14",D14
+"Goatstown, Dublin 14",D14
+"Rathfarnham, Dublin 14",D14
+Dublin 15,D15
+"Ashtown, Dublin 15",D15
+"Blanchardstown, Dublin 15",D15
+"Carpenterstown, Dublin 15",D15
+"Castleknock, Dublin 15",D15
+"Clonee, Dublin 15",D15
+"Clonsilla, Dublin 15",D15
+"Coolmine, Dublin 15",D15
+"Mulhuddart, Dublin 15",D15
+"Ongar, Dublin 15",D15
+"Porterstown, Dublin 15",D15
+"Royal Canal Park, Dublin 15",D15
+"Tyrrelstown, Dublin 15",D15
+Dublin 16,D16
+"Ballinteer, Dublin 16",D16
+"Dundrum, Dublin 16",D16
+"Knocklyon, Dublin 16",D16
+"Rathfarnham, Dublin 16",D16
+"Sandyford, Dublin 16",D16
+Dublin 17,D17
+"Malahide Road, Dublin 17",D17
+"Northern Cross, Dublin 17",D17
+Dublin 18,D18
+"Cabinteely, Dublin 18",D18
+"Carrickmines, Dublin 18",D18
+"Foxrock, Dublin 18",D18
+"Leopardstown, Dublin 18",D18
+"Sandyford, Dublin 18",D18
+"Stepaside, Dublin 18",D18
+Dublin 20,D20
+"Chapelizod, Dublin 20",D20
+"Palmerstown, Dublin 20",D20
+Dublin 24,D24
+"Ballycullen, Dublin 24",D24
+"Citywest, Dublin 24",D24
+"Firhouse, Dublin 24",D24
+"Tallaght, Dublin 24",D24
+Dublin,
+"Balbriggan, Dublin",D1
+"Blackrock, Dublin",D18
+"Booterstown, Dublin",D4
+"Cabinteely, Dublin",D18
+"Citywest, Dublin",D24
+"Dalkey, Dublin",D18
+"Donabate, Dublin",D13
+"Dun Laoghaire, Dublin",D18
+"Glenageary, Dublin",D18
+"Howth, Dublin",D13
+"Killiney, Dublin",D18
+"Kinsealy, Dublin",D17
+"Lucan, Dublin",D20
+"Lusk, Dublin",D1
+"Malahide, Dublin",D17
+"Monkstown, Dublin",D18
+"Mount Merrion, Dublin",D14
+"Portmarnock, Dublin",D13
+"Rathcoole, Dublin",D24
+"Rush, Dublin",D1
+"Saggart, Dublin",D24
+"Sandycove, Dublin",D18
+"Shankill, Dublin",D18
+"Skerries, Dublin",D1
+"Stepaside, Dublin",D18
+"Stillorgan, Dublin",D18
+"Swords, Dublin",D17

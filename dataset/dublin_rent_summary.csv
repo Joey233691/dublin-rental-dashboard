@@ -1,0 +1,2611 @@
+Year,Location,Bedrooms,Property_type,Rent
+2008,Dublin,All bedrooms,All property types,1271.29
+2008,"Balbriggan, Dublin",All bedrooms,All property types,1033.33
+2008,"Blackrock, Dublin",All bedrooms,All property types,1587.1
+2008,"Booterstown, Dublin",All bedrooms,All property types,1656.82
+2008,"Dalkey, Dublin",All bedrooms,All property types,1655.47
+2008,"Donabate, Dublin",All bedrooms,All property types,1146.57
+2008,"Dun Laoghaire, Dublin",All bedrooms,All property types,1317.62
+2008,"Glenageary, Dublin",All bedrooms,All property types,1711.18
+2008,"Howth, Dublin",All bedrooms,All property types,1554.78
+2008,"Killiney, Dublin",All bedrooms,All property types,1709.93
+2008,"Kinsealy, Dublin",All bedrooms,All property types,1215.97
+2008,"Lucan, Dublin",All bedrooms,All property types,1222.91
+2008,"Lusk, Dublin",All bedrooms,All property types,1153.0
+2008,"Malahide, Dublin",All bedrooms,All property types,1549.75
+2008,"Monkstown, Dublin",All bedrooms,All property types,1307.37
+2008,"Mount Merrion, Dublin",All bedrooms,All property types,1812.87
+2008,"Portmarnock, Dublin",All bedrooms,All property types,1335.71
+2008,"Rathcoole, Dublin",All bedrooms,All property types,1075.32
+2008,"Rush, Dublin",All bedrooms,All property types,1075.08
+2008,"Saggart, Dublin",All bedrooms,All property types,1290.94
+2008,"Sandycove, Dublin",All bedrooms,All property types,1574.68
+2008,"Shankill, Dublin",All bedrooms,All property types,1382.3
+2008,"Skerries, Dublin",All bedrooms,All property types,1106.63
+2008,"Stillorgan, Dublin",All bedrooms,All property types,1569.16
+2008,"Swords, Dublin",All bedrooms,All property types,1199.34
+2008,Dublin 1,All bedrooms,All property types,1188.25
+2008,"I.F.S.C., Dublin 1",All bedrooms,All property types,1432.67
+2008,"Parnell Street, Dublin 1",All bedrooms,All property types,1350.73
+2008,"Spencer Dock, Dublin 1",All bedrooms,All property types,1577.19
+2008,"Summerhill, Dublin 1",All bedrooms,All property types,1152.31
+2008,Dublin 2,All bedrooms,All property types,1411.67
+2008,"Aungier Street, Dublin 2",All bedrooms,All property types,1167.63
+2008,"Charlemont Street, Dublin 2",All bedrooms,All property types,1506.83
+2008,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1730.83
+2008,"Hanover Quay, Dublin 2",All bedrooms,All property types,1900.14
+2008,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1250.05
+2008,"Pearse Street, Dublin 2",All bedrooms,All property types,1326.09
+2008,"Tara Street, Dublin 2",All bedrooms,All property types,1282.37
+2008,"Temple Bar, Dublin 2",All bedrooms,All property types,1433.04
+2008,"Townsend Street, Dublin 2",All bedrooms,All property types,1380.49
+2008,Dublin 3,All bedrooms,All property types,1223.11
+2008,"Clonliffe, Dublin 3",All bedrooms,All property types,1090.18
+2008,"Clontarf, Dublin 3",All bedrooms,All property types,1296.43
+2008,"Drumcondra, Dublin 3",All bedrooms,All property types,1180.75
+2008,"East Wall, Dublin 3",All bedrooms,All property types,1248.92
+2008,"Fairview, Dublin 3",All bedrooms,All property types,1027.2
+2008,"Marino, Dublin 3",All bedrooms,All property types,1402.29
+2008,"North Strand, Dublin 3",All bedrooms,All property types,1205.83
+2008,Dublin 4,All bedrooms,All property types,1560.94
+2008,"Ballsbridge, Dublin 4",All bedrooms,All property types,1663.48
+2008,"Donnybrook, Dublin 4",All bedrooms,All property types,1596.87
+2008,"Irishtown, Dublin 4",All bedrooms,All property types,1448.67
+2008,"Merrion, Dublin 4",All bedrooms,All property types,1537.82
+2008,"Pembroke, Dublin 4",All bedrooms,All property types,1486.65
+2008,"Ringsend, Dublin 4",All bedrooms,All property types,1388.12
+2008,"Sandymount, Dublin 4",All bedrooms,All property types,1699.94
+2008,Dublin 5,All bedrooms,All property types,1310.33
+2008,"Artane, Dublin 5",All bedrooms,All property types,1311.11
+2008,"Killester, Dublin 5",All bedrooms,All property types,1355.05
+2008,"Raheny, Dublin 5",All bedrooms,All property types,1364.24
+2008,Dublin 6,All bedrooms,All property types,1144.6
+2008,"Dartry, Dublin 6",All bedrooms,All property types,1617.24
+2008,"Harolds Cross, Dublin 6",All bedrooms,All property types,1257.4
+2008,"Milltown, Dublin 6",All bedrooms,All property types,1571.02
+2008,"Ranelagh, Dublin 6",All bedrooms,All property types,1214.98
+2008,"Rathgar, Dublin 6",All bedrooms,All property types,1087.8
+2008,"Rathmines, Dublin 6",All bedrooms,All property types,1020.72
+2008,"Terenure, Dublin 6",All bedrooms,All property types,1209.66
+2008,Dublin 6W,All bedrooms,All property types,1305.75
+2008,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1266.89
+2008,"Templeogue, Dublin 6W",All bedrooms,All property types,1398.68
+2008,"Terenure, Dublin 6W",All bedrooms,All property types,1377.96
+2008,Dublin 7,All bedrooms,All property types,1072.03
+2008,"Cabra, Dublin 7",All bedrooms,All property types,975.62
+2008,"Navan Road, Dublin 7",All bedrooms,All property types,1257.82
+2008,"North Circular Road, Dublin 7",All bedrooms,All property types,1054.26
+2008,"Phibsboro, Dublin 7",All bedrooms,All property types,923.23
+2008,"Smithfield, Dublin 7",All bedrooms,All property types,1350.53
+2008,"Stoneybatter, Dublin 7",All bedrooms,All property types,1121.28
+2008,Dublin 8,All bedrooms,All property types,1137.82
+2008,"Christchurch, Dublin 8",All bedrooms,All property types,1205.7
+2008,"Cork Street, Dublin 8",All bedrooms,All property types,1252.24
+2008,"Inchicore, Dublin 8",All bedrooms,All property types,1167.92
+2008,"Islandbridge, Dublin 8",All bedrooms,All property types,1126.94
+2008,"Kilmainham , Dublin 8",All bedrooms,All property types,1186.22
+2008,"Portobello, Dublin 8",All bedrooms,All property types,1061.42
+2008,"Rialto, Dublin 8",All bedrooms,All property types,1163.81
+2008,"South Circular Road, Dublin 8",All bedrooms,All property types,999.71
+2008,Dublin 9,All bedrooms,All property types,1200.94
+2008,"Ballymun, Dublin 9",All bedrooms,All property types,1062.82
+2008,"Beaumont, Dublin 9",All bedrooms,All property types,1270.22
+2008,"Drumcondra, Dublin 9",All bedrooms,All property types,1185.45
+2008,"Glasnevin, Dublin 9",All bedrooms,All property types,1180.05
+2008,"Santry, Dublin 9",All bedrooms,All property types,1209.37
+2008,"Whitehall, Dublin 9",All bedrooms,All property types,1329.95
+2008,Dublin 10,All bedrooms,All property types,1118.12
+2008,"Ballyfermot, Dublin 10",All bedrooms,All property types,1142.93
+2008,Dublin 11,All bedrooms,All property types,1165.29
+2008,"Ballymun, Dublin 11",All bedrooms,All property types,1053.47
+2008,"Finglas, Dublin 11",All bedrooms,All property types,1162.89
+2008,"Glasnevin, Dublin 11",All bedrooms,All property types,1283.6
+2008,"Meakstown, Dublin 11",All bedrooms,All property types,1220.22
+2008,"St Margarets Road, Dublin 11",All bedrooms,All property types,1121.14
+2008,Dublin 12,All bedrooms,All property types,1250.85
+2008,"Crumlin, Dublin 12",All bedrooms,All property types,1202.99
+2008,"Drimnagh, Dublin 12",All bedrooms,All property types,1314.96
+2008,"Kimmage, Dublin 12",All bedrooms,All property types,1219.7
+2008,"Walkinstown, Dublin 12",All bedrooms,All property types,1255.35
+2008,Dublin 13,All bedrooms,All property types,1326.09
+2008,"Baldoyle, Dublin 13",All bedrooms,All property types,1353.86
+2008,"Balgriffin, Dublin 13",All bedrooms,All property types,1367.45
+2008,"Clongriffin, Dublin 13",All bedrooms,All property types,1225.21
+2008,"Donaghmede, Dublin 13",All bedrooms,All property types,1248.36
+2008,"Sutton, Dublin 13",All bedrooms,All property types,1520.74
+2008,Dublin 14,All bedrooms,All property types,1540.92
+2008,"Churchtown, Dublin 14",All bedrooms,All property types,1609.69
+2008,"Clonskeagh, Dublin 14",All bedrooms,All property types,1668.72
+2008,"Dundrum, Dublin 14",All bedrooms,All property types,1508.56
+2008,"Goatstown, Dublin 14",All bedrooms,All property types,1723.53
+2008,"Rathfarnham, Dublin 14",All bedrooms,All property types,1405.11
+2008,Dublin 15,All bedrooms,All property types,1238.67
+2008,"Ashtown, Dublin 15",All bedrooms,All property types,1264.46
+2008,"Blanchardstown, Dublin 15",All bedrooms,All property types,1173.63
+2008,"Carpenterstown, Dublin 15",All bedrooms,All property types,1206.77
+2008,"Castleknock, Dublin 15",All bedrooms,All property types,1329.97
+2008,"Clonee, Dublin 15",All bedrooms,All property types,1184.51
+2008,"Clonsilla, Dublin 15",All bedrooms,All property types,1237.5
+2008,"Coolmine, Dublin 15",All bedrooms,All property types,1128.62
+2008,"Mulhuddart, Dublin 15",All bedrooms,All property types,1130.96
+2008,"Ongar, Dublin 15",All bedrooms,All property types,1150.17
+2008,"Porterstown, Dublin 15",All bedrooms,All property types,1164.3
+2008,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1229.28
+2008,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1280.1
+2008,Dublin 16,All bedrooms,All property types,1433.48
+2008,"Ballinteer, Dublin 16",All bedrooms,All property types,1449.51
+2008,"Dundrum, Dublin 16",All bedrooms,All property types,1511.46
+2008,"Knocklyon, Dublin 16",All bedrooms,All property types,1382.82
+2008,"Rathfarnham, Dublin 16",All bedrooms,All property types,1408.48
+2008,"Sandyford, Dublin 16",All bedrooms,All property types,1444.15
+2008,Dublin 17,All bedrooms,All property types,1257.57
+2008,"Malahide Road, Dublin 17",All bedrooms,All property types,1274.2
+2008,Dublin 18,All bedrooms,All property types,1511.58
+2008,"Cabinteely, Dublin 18",All bedrooms,All property types,1417.59
+2008,"Carrickmines, Dublin 18",All bedrooms,All property types,1585.89
+2008,"Foxrock, Dublin 18",All bedrooms,All property types,2145.79
+2008,"Leopardstown, Dublin 18",All bedrooms,All property types,1599.26
+2008,"Sandyford, Dublin 18",All bedrooms,All property types,1456.24
+2008,"Stepaside, Dublin 18",All bedrooms,All property types,1418.47
+2008,Dublin 20,All bedrooms,All property types,1198.25
+2008,"Chapelizod, Dublin 20",All bedrooms,All property types,1196.82
+2008,"Palmerstown, Dublin 20",All bedrooms,All property types,1194.53
+2008,"Clondalkin, Dublin 22",All bedrooms,All property types,1135.76
+2008,Dublin 24,All bedrooms,All property types,1200.92
+2008,"Ballycullen, Dublin 24",All bedrooms,All property types,1304.91
+2008,"Citywest, Dublin 24",All bedrooms,All property types,1211.98
+2008,"Firhouse, Dublin 24",All bedrooms,All property types,1267.57
+2008,"Tallaght, Dublin 24",All bedrooms,All property types,1176.39
+2009,Dublin,All bedrooms,All property types,1157.72
+2009,"Balbriggan, Dublin",All bedrooms,All property types,925.26
+2009,"Blackrock, Dublin",All bedrooms,All property types,1419.6
+2009,"Booterstown, Dublin",All bedrooms,All property types,1549.14
+2009,"Dalkey, Dublin",All bedrooms,All property types,1567.31
+2009,"Donabate, Dublin",All bedrooms,All property types,994.55
+2009,"Dun Laoghaire, Dublin",All bedrooms,All property types,1221.9
+2009,"Glenageary, Dublin",All bedrooms,All property types,1551.99
+2009,"Howth, Dublin",All bedrooms,All property types,1341.46
+2009,"Killiney, Dublin",All bedrooms,All property types,1519.65
+2009,"Kinsealy, Dublin",All bedrooms,All property types,1105.49
+2009,"Lucan, Dublin",All bedrooms,All property types,1116.54
+2009,"Lusk, Dublin",All bedrooms,All property types,1054.74
+2009,"Malahide, Dublin",All bedrooms,All property types,1375.5
+2009,"Monkstown, Dublin",All bedrooms,All property types,1192.12
+2009,"Mount Merrion, Dublin",All bedrooms,All property types,1734.82
+2009,"Portmarnock, Dublin",All bedrooms,All property types,1248.31
+2009,"Rathcoole, Dublin",All bedrooms,All property types,955.04
+2009,"Rush, Dublin",All bedrooms,All property types,1002.14
+2009,"Saggart, Dublin",All bedrooms,All property types,1160.58
+2009,"Sandycove, Dublin",All bedrooms,All property types,1452.79
+2009,"Shankill, Dublin",All bedrooms,All property types,1238.71
+2009,"Skerries, Dublin",All bedrooms,All property types,1033.73
+2009,"Stillorgan, Dublin",All bedrooms,All property types,1419.23
+2009,"Swords, Dublin",All bedrooms,All property types,1090.9
+2009,Dublin 1,All bedrooms,All property types,1098.59
+2009,"I.F.S.C., Dublin 1",All bedrooms,All property types,1254.41
+2009,"Parnell Street, Dublin 1",All bedrooms,All property types,1238.22
+2009,"Spencer Dock, Dublin 1",All bedrooms,All property types,1461.25
+2009,"Summerhill, Dublin 1",All bedrooms,All property types,1144.47
+2009,Dublin 2,All bedrooms,All property types,1300.05
+2009,"Aungier Street, Dublin 2",All bedrooms,All property types,1027.79
+2009,"Charlemont Street, Dublin 2",All bedrooms,All property types,1366.88
+2009,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1585.25
+2009,"Grand Canal Square, Dublin 2",All bedrooms,All property types,1601.47
+2009,"Hanover Quay, Dublin 2",All bedrooms,All property types,1753.07
+2009,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1146.99
+2009,"Pearse Street, Dublin 2",All bedrooms,All property types,1175.94
+2009,"Tara Street, Dublin 2",All bedrooms,All property types,1149.61
+2009,"Temple Bar, Dublin 2",All bedrooms,All property types,1250.98
+2009,"Townsend Street, Dublin 2",All bedrooms,All property types,1244.08
+2009,Dublin 3,All bedrooms,All property types,1097.58
+2009,"Clonliffe, Dublin 3",All bedrooms,All property types,984.24
+2009,"Clontarf, Dublin 3",All bedrooms,All property types,1157.61
+2009,"Drumcondra, Dublin 3",All bedrooms,All property types,1087.19
+2009,"East Wall, Dublin 3",All bedrooms,All property types,1099.17
+2009,"Fairview, Dublin 3",All bedrooms,All property types,951.54
+2009,"Marino, Dublin 3",All bedrooms,All property types,1264.35
+2009,"North Strand, Dublin 3",All bedrooms,All property types,1025.4
+2009,Dublin 4,All bedrooms,All property types,1401.59
+2009,"Ballsbridge, Dublin 4",All bedrooms,All property types,1502.95
+2009,"Donnybrook, Dublin 4",All bedrooms,All property types,1408.83
+2009,"Irishtown, Dublin 4",All bedrooms,All property types,1238.43
+2009,"Merrion, Dublin 4",All bedrooms,All property types,1380.88
+2009,"Pembroke, Dublin 4",All bedrooms,All property types,1327.71
+2009,"Ringsend, Dublin 4",All bedrooms,All property types,1257.6
+2009,"Sandymount, Dublin 4",All bedrooms,All property types,1513.35
+2009,Dublin 5,All bedrooms,All property types,1193.23
+2009,"Artane, Dublin 5",All bedrooms,All property types,1202.74
+2009,"Killester, Dublin 5",All bedrooms,All property types,1180.67
+2009,"Raheny, Dublin 5",All bedrooms,All property types,1221.59
+2009,Dublin 6,All bedrooms,All property types,1073.83
+2009,"Dartry, Dublin 6",All bedrooms,All property types,1431.01
+2009,"Harolds Cross, Dublin 6",All bedrooms,All property types,1126.88
+2009,"Milltown, Dublin 6",All bedrooms,All property types,1417.4
+2009,"Ranelagh, Dublin 6",All bedrooms,All property types,1167.08
+2009,"Rathgar, Dublin 6",All bedrooms,All property types,1037.64
+2009,"Rathmines, Dublin 6",All bedrooms,All property types,941.52
+2009,"Terenure, Dublin 6",All bedrooms,All property types,1172.02
+2009,Dublin 6W,All bedrooms,All property types,1210.04
+2009,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1149.25
+2009,"Templeogue, Dublin 6W",All bedrooms,All property types,1249.89
+2009,"Terenure, Dublin 6W",All bedrooms,All property types,1280.25
+2009,Dublin 7,All bedrooms,All property types,996.91
+2009,"Arbour Hill, Dublin 7",All bedrooms,All property types,1200.19
+2009,"Cabra, Dublin 7",All bedrooms,All property types,943.88
+2009,"Navan Road, Dublin 7",All bedrooms,All property types,1156.67
+2009,"North Circular Road, Dublin 7",All bedrooms,All property types,1002.58
+2009,"Phibsboro, Dublin 7",All bedrooms,All property types,880.49
+2009,"Smithfield, Dublin 7",All bedrooms,All property types,1215.81
+2009,"Stoneybatter, Dublin 7",All bedrooms,All property types,1054.9
+2009,Dublin 8,All bedrooms,All property types,1042.88
+2009,"Christchurch, Dublin 8",All bedrooms,All property types,1049.4
+2009,"Cork Street, Dublin 8",All bedrooms,All property types,1122.85
+2009,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1080.0
+2009,"Inchicore, Dublin 8",All bedrooms,All property types,1077.71
+2009,"Islandbridge, Dublin 8",All bedrooms,All property types,1056.27
+2009,"Kilmainham , Dublin 8",All bedrooms,All property types,1091.53
+2009,"Portobello, Dublin 8",All bedrooms,All property types,968.36
+2009,"Rialto, Dublin 8",All bedrooms,All property types,1018.39
+2009,"South Circular Road, Dublin 8",All bedrooms,All property types,980.98
+2009,"The Coombe, Dublin 8",All bedrooms,All property types,1073.24
+2009,Dublin 9,All bedrooms,All property types,1097.65
+2009,"Ballymun, Dublin 9",All bedrooms,All property types,927.26
+2009,"Beaumont, Dublin 9",All bedrooms,All property types,1138.97
+2009,"Drumcondra, Dublin 9",All bedrooms,All property types,1093.09
+2009,"Glasnevin, Dublin 9",All bedrooms,All property types,1095.15
+2009,"Santry, Dublin 9",All bedrooms,All property types,1113.59
+2009,"Whitehall, Dublin 9",All bedrooms,All property types,1091.48
+2009,Dublin 10,All bedrooms,All property types,1036.16
+2009,"Ballyfermot, Dublin 10",All bedrooms,All property types,1047.84
+2009,"Cherry Orchard, Dublin 10",All bedrooms,All property types,972.36
+2009,Dublin 11,All bedrooms,All property types,1052.94
+2009,"Ballymun, Dublin 11",All bedrooms,All property types,921.75
+2009,"Finglas, Dublin 11",All bedrooms,All property types,1057.25
+2009,"Glasnevin, Dublin 11",All bedrooms,All property types,1157.55
+2009,"Meakstown, Dublin 11",All bedrooms,All property types,1112.65
+2009,"St Margarets Road, Dublin 11",All bedrooms,All property types,1061.88
+2009,Dublin 12,All bedrooms,All property types,1132.75
+2009,"Crumlin, Dublin 12",All bedrooms,All property types,1084.23
+2009,"Drimnagh, Dublin 12",All bedrooms,All property types,1197.15
+2009,"Kimmage, Dublin 12",All bedrooms,All property types,1129.34
+2009,"Walkinstown, Dublin 12",All bedrooms,All property types,1157.73
+2009,Dublin 13,All bedrooms,All property types,1187.97
+2009,"Baldoyle, Dublin 13",All bedrooms,All property types,1199.65
+2009,"Balgriffin, Dublin 13",All bedrooms,All property types,1229.36
+2009,"Clongriffin, Dublin 13",All bedrooms,All property types,1113.57
+2009,"Donaghmede, Dublin 13",All bedrooms,All property types,1098.8
+2009,"Sutton, Dublin 13",All bedrooms,All property types,1385.56
+2009,Dublin 14,All bedrooms,All property types,1401.06
+2009,"Churchtown, Dublin 14",All bedrooms,All property types,1476.01
+2009,"Clonskeagh, Dublin 14",All bedrooms,All property types,1549.08
+2009,"Dundrum, Dublin 14",All bedrooms,All property types,1363.58
+2009,"Goatstown, Dublin 14",All bedrooms,All property types,1602.71
+2009,"Rathfarnham, Dublin 14",All bedrooms,All property types,1269.07
+2009,Dublin 15,All bedrooms,All property types,1122.39
+2009,"Ashtown, Dublin 15",All bedrooms,All property types,1113.53
+2009,"Blanchardstown, Dublin 15",All bedrooms,All property types,1077.97
+2009,"Carpenterstown, Dublin 15",All bedrooms,All property types,1119.65
+2009,"Castleknock, Dublin 15",All bedrooms,All property types,1205.1
+2009,"Clonee, Dublin 15",All bedrooms,All property types,1077.45
+2009,"Clonsilla, Dublin 15",All bedrooms,All property types,1122.84
+2009,"Coolmine, Dublin 15",All bedrooms,All property types,1025.63
+2009,"Mulhuddart, Dublin 15",All bedrooms,All property types,1041.81
+2009,"Ongar, Dublin 15",All bedrooms,All property types,1035.57
+2009,"Porterstown, Dublin 15",All bedrooms,All property types,1123.06
+2009,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1107.62
+2009,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1117.74
+2009,Dublin 16,All bedrooms,All property types,1302.34
+2009,"Ballinteer, Dublin 16",All bedrooms,All property types,1310.06
+2009,"Dundrum, Dublin 16",All bedrooms,All property types,1372.24
+2009,"Knocklyon, Dublin 16",All bedrooms,All property types,1263.7
+2009,"Rathfarnham, Dublin 16",All bedrooms,All property types,1274.57
+2009,"Sandyford, Dublin 16",All bedrooms,All property types,1305.99
+2009,Dublin 17,All bedrooms,All property types,1121.66
+2009,"Malahide Road, Dublin 17",All bedrooms,All property types,1160.27
+2009,"Northern Cross, Dublin 17",All bedrooms,All property types,1026.81
+2009,Dublin 18,All bedrooms,All property types,1343.78
+2009,"Cabinteely, Dublin 18",All bedrooms,All property types,1299.62
+2009,"Carrickmines, Dublin 18",All bedrooms,All property types,1337.64
+2009,"Foxrock, Dublin 18",All bedrooms,All property types,1825.41
+2009,"Leopardstown, Dublin 18",All bedrooms,All property types,1394.18
+2009,"Sandyford, Dublin 18",All bedrooms,All property types,1293.2
+2009,"Stepaside, Dublin 18",All bedrooms,All property types,1232.43
+2009,Dublin 20,All bedrooms,All property types,1096.6
+2009,"Chapelizod, Dublin 20",All bedrooms,All property types,1084.42
+2009,"Palmerstown, Dublin 20",All bedrooms,All property types,1119.22
+2009,"Clondalkin, Dublin 22",All bedrooms,All property types,1037.33
+2009,Dublin 24,All bedrooms,All property types,1063.0
+2009,"Ballycullen, Dublin 24",All bedrooms,All property types,1176.45
+2009,"Citywest, Dublin 24",All bedrooms,All property types,1096.84
+2009,"Firhouse, Dublin 24",All bedrooms,All property types,1153.96
+2009,"Tallaght, Dublin 24",All bedrooms,All property types,1038.24
+2010,Dublin,All bedrooms,All property types,1042.41
+2010,"Balbriggan, Dublin",All bedrooms,All property types,806.6
+2010,"Blackrock, Dublin",All bedrooms,All property types,1271.66
+2010,"Booterstown, Dublin",All bedrooms,All property types,1421.54
+2010,"Dalkey, Dublin",All bedrooms,All property types,1481.72
+2010,"Donabate, Dublin",All bedrooms,All property types,859.29
+2010,"Dun Laoghaire, Dublin",All bedrooms,All property types,1106.64
+2010,"Glenageary, Dublin",All bedrooms,All property types,1379.01
+2010,"Howth, Dublin",All bedrooms,All property types,1213.82
+2010,"Killiney, Dublin",All bedrooms,All property types,1404.48
+2010,"Kinsealy, Dublin",All bedrooms,All property types,1009.07
+2010,"Lucan, Dublin",All bedrooms,All property types,1004.9
+2010,"Lusk, Dublin",All bedrooms,All property types,945.85
+2010,"Malahide, Dublin",All bedrooms,All property types,1234.85
+2010,"Monkstown, Dublin",All bedrooms,All property types,1060.78
+2010,"Mount Merrion, Dublin",All bedrooms,All property types,1612.44
+2010,"Portmarnock, Dublin",All bedrooms,All property types,1113.54
+2010,"Rathcoole, Dublin",All bedrooms,All property types,880.39
+2010,"Rush, Dublin",All bedrooms,All property types,921.38
+2010,"Saggart, Dublin",All bedrooms,All property types,999.72
+2010,"Sandycove, Dublin",All bedrooms,All property types,1305.79
+2010,"Shankill, Dublin",All bedrooms,All property types,1127.69
+2010,"Skerries, Dublin",All bedrooms,All property types,929.14
+2010,"Stillorgan, Dublin",All bedrooms,All property types,1277.94
+2010,"Swords, Dublin",All bedrooms,All property types,966.86
+2010,Dublin 1,All bedrooms,All property types,976.84
+2010,"I.F.S.C., Dublin 1",All bedrooms,All property types,1136.43
+2010,"Parnell Street, Dublin 1",All bedrooms,All property types,1073.66
+2010,"Spencer Dock, Dublin 1",All bedrooms,All property types,1288.72
+2010,"Summerhill, Dublin 1",All bedrooms,All property types,1013.79
+2010,Dublin 2,All bedrooms,All property types,1171.63
+2010,"Aungier Street, Dublin 2",All bedrooms,All property types,930.18
+2010,"Charlemont Street, Dublin 2",All bedrooms,All property types,1237.5
+2010,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1435.05
+2010,"Grand Canal Square, Dublin 2",All bedrooms,All property types,1511.7
+2010,"Hanover Quay, Dublin 2",All bedrooms,All property types,1628.45
+2010,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1047.7
+2010,"Pearse Street, Dublin 2",All bedrooms,All property types,1061.06
+2010,"Tara Street, Dublin 2",All bedrooms,All property types,1021.1
+2010,"Temple Bar, Dublin 2",All bedrooms,All property types,1134.14
+2010,"Townsend Street, Dublin 2",All bedrooms,All property types,1094.57
+2010,Dublin 3,All bedrooms,All property types,972.47
+2010,"Clonliffe, Dublin 3",All bedrooms,All property types,890.32
+2010,"Clontarf, Dublin 3",All bedrooms,All property types,1022.58
+2010,"Drumcondra, Dublin 3",All bedrooms,All property types,980.1
+2010,"East Wall, Dublin 3",All bedrooms,All property types,943.73
+2010,"Fairview, Dublin 3",All bedrooms,All property types,873.26
+2010,"Marino, Dublin 3",All bedrooms,All property types,1117.26
+2010,"North Strand, Dublin 3",All bedrooms,All property types,914.06
+2010,Dublin 4,All bedrooms,All property types,1284.2
+2010,"Ballsbridge, Dublin 4",All bedrooms,All property types,1362.4
+2010,"Donnybrook, Dublin 4",All bedrooms,All property types,1306.79
+2010,"Irishtown, Dublin 4",All bedrooms,All property types,1132.22
+2010,"Merrion, Dublin 4",All bedrooms,All property types,1217.82
+2010,"Pembroke, Dublin 4",All bedrooms,All property types,1251.27
+2010,"Ringsend, Dublin 4",All bedrooms,All property types,1168.8
+2010,"Sandymount, Dublin 4",All bedrooms,All property types,1429.71
+2010,Dublin 5,All bedrooms,All property types,1053.89
+2010,"Artane, Dublin 5",All bedrooms,All property types,1053.18
+2010,"Killester, Dublin 5",All bedrooms,All property types,1043.77
+2010,"Raheny, Dublin 5",All bedrooms,All property types,1091.04
+2010,Dublin 6,All bedrooms,All property types,992.25
+2010,"Dartry, Dublin 6",All bedrooms,All property types,1315.01
+2010,"Harolds Cross, Dublin 6",All bedrooms,All property types,1037.59
+2010,"Milltown, Dublin 6",All bedrooms,All property types,1250.95
+2010,"Ranelagh, Dublin 6",All bedrooms,All property types,1081.66
+2010,"Rathgar, Dublin 6",All bedrooms,All property types,959.78
+2010,"Rathmines, Dublin 6",All bedrooms,All property types,870.83
+2010,"Terenure, Dublin 6",All bedrooms,All property types,1079.86
+2010,Dublin 6W,All bedrooms,All property types,1120.37
+2010,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1058.22
+2010,"Templeogue, Dublin 6W",All bedrooms,All property types,1188.78
+2010,"Terenure, Dublin 6W",All bedrooms,All property types,1197.78
+2010,Dublin 7,All bedrooms,All property types,908.21
+2010,"Arbour Hill, Dublin 7",All bedrooms,All property types,1085.51
+2010,"Cabra, Dublin 7",All bedrooms,All property types,894.86
+2010,"Navan Road, Dublin 7",All bedrooms,All property types,1042.44
+2010,"North Circular Road, Dublin 7",All bedrooms,All property types,979.35
+2010,"Phibsboro, Dublin 7",All bedrooms,All property types,818.79
+2010,"Smithfield, Dublin 7",All bedrooms,All property types,1089.5
+2010,"Stoneybatter, Dublin 7",All bedrooms,All property types,968.09
+2010,Dublin 8,All bedrooms,All property types,939.11
+2010,"Christchurch, Dublin 8",All bedrooms,All property types,935.22
+2010,"Cork Street, Dublin 8",All bedrooms,All property types,992.75
+2010,"Dolphins Barn, Dublin 8",All bedrooms,All property types,965.58
+2010,"Inchicore, Dublin 8",All bedrooms,All property types,966.37
+2010,"Islandbridge, Dublin 8",All bedrooms,All property types,964.76
+2010,"Kilmainham , Dublin 8",All bedrooms,All property types,1005.61
+2010,"Portobello, Dublin 8",All bedrooms,All property types,894.91
+2010,"Rialto, Dublin 8",All bedrooms,All property types,902.7
+2010,"South Circular Road, Dublin 8",All bedrooms,All property types,941.56
+2010,"The Coombe, Dublin 8",All bedrooms,All property types,932.2
+2010,Dublin 9,All bedrooms,All property types,982.39
+2010,"Ballymun, Dublin 9",All bedrooms,All property types,803.55
+2010,"Beaumont, Dublin 9",All bedrooms,All property types,988.28
+2010,"Drumcondra, Dublin 9",All bedrooms,All property types,998.53
+2010,"Glasnevin, Dublin 9",All bedrooms,All property types,1000.94
+2010,"Santry, Dublin 9",All bedrooms,All property types,974.35
+2010,"Whitehall, Dublin 9",All bedrooms,All property types,977.3
+2010,Dublin 10,All bedrooms,All property types,925.73
+2010,"Ballyfermot, Dublin 10",All bedrooms,All property types,945.3
+2010,"Cherry Orchard, Dublin 10",All bedrooms,All property types,860.03
+2010,Dublin 11,All bedrooms,All property types,942.34
+2010,"Ballymun, Dublin 11",All bedrooms,All property types,804.45
+2010,"Finglas, Dublin 11",All bedrooms,All property types,948.47
+2010,"Glasnevin, Dublin 11",All bedrooms,All property types,1030.48
+2010,"Meakstown, Dublin 11",All bedrooms,All property types,1015.63
+2010,"St Margarets Road, Dublin 11",All bedrooms,All property types,980.48
+2010,Dublin 12,All bedrooms,All property types,1003.17
+2010,"Crumlin, Dublin 12",All bedrooms,All property types,966.4
+2010,"Drimnagh, Dublin 12",All bedrooms,All property types,1036.83
+2010,"Kimmage, Dublin 12",All bedrooms,All property types,992.3
+2010,"Walkinstown, Dublin 12",All bedrooms,All property types,1074.8
+2010,Dublin 13,All bedrooms,All property types,1051.67
+2010,"Baldoyle, Dublin 13",All bedrooms,All property types,1046.06
+2010,"Balgriffin, Dublin 13",All bedrooms,All property types,1043.12
+2010,"Clongriffin, Dublin 13",All bedrooms,All property types,1008.47
+2010,"Donaghmede, Dublin 13",All bedrooms,All property types,1004.2
+2010,"Sutton, Dublin 13",All bedrooms,All property types,1249.71
+2010,Dublin 14,All bedrooms,All property types,1262.1
+2010,"Churchtown, Dublin 14",All bedrooms,All property types,1352.37
+2010,"Clonskeagh, Dublin 14",All bedrooms,All property types,1394.21
+2010,"Dundrum, Dublin 14",All bedrooms,All property types,1201.9
+2010,"Goatstown, Dublin 14",All bedrooms,All property types,1492.28
+2010,"Rathfarnham, Dublin 14",All bedrooms,All property types,1162.16
+2010,Dublin 15,All bedrooms,All property types,999.7
+2010,"Ashtown, Dublin 15",All bedrooms,All property types,996.63
+2010,"Blanchardstown, Dublin 15",All bedrooms,All property types,957.55
+2010,"Carpenterstown, Dublin 15",All bedrooms,All property types,1000.43
+2010,"Castleknock, Dublin 15",All bedrooms,All property types,1075.05
+2010,"Clonee, Dublin 15",All bedrooms,All property types,972.33
+2010,"Clonsilla, Dublin 15",All bedrooms,All property types,1006.06
+2010,"Coolmine, Dublin 15",All bedrooms,All property types,987.81
+2010,"Mulhuddart, Dublin 15",All bedrooms,All property types,942.24
+2010,"Ongar, Dublin 15",All bedrooms,All property types,900.33
+2010,"Porterstown, Dublin 15",All bedrooms,All property types,979.49
+2010,"Royal Canal Park, Dublin 15",All bedrooms,All property types,987.09
+2010,"Tyrrelstown, Dublin 15",All bedrooms,All property types,977.9
+2010,Dublin 16,All bedrooms,All property types,1174.18
+2010,"Ballinteer, Dublin 16",All bedrooms,All property types,1184.34
+2010,"Dundrum, Dublin 16",All bedrooms,All property types,1209.63
+2010,"Knocklyon, Dublin 16",All bedrooms,All property types,1143.98
+2010,"Rathfarnham, Dublin 16",All bedrooms,All property types,1157.04
+2010,"Sandyford, Dublin 16",All bedrooms,All property types,1193.5
+2010,Dublin 17,All bedrooms,All property types,990.78
+2010,"Malahide Road, Dublin 17",All bedrooms,All property types,1003.15
+2010,"Northern Cross, Dublin 17",All bedrooms,All property types,984.36
+2010,Dublin 18,All bedrooms,All property types,1210.15
+2010,"Cabinteely, Dublin 18",All bedrooms,All property types,1158.27
+2010,"Carrickmines, Dublin 18",All bedrooms,All property types,1228.45
+2010,"Foxrock, Dublin 18",All bedrooms,All property types,1726.47
+2010,"Leopardstown, Dublin 18",All bedrooms,All property types,1268.19
+2010,"Sandyford, Dublin 18",All bedrooms,All property types,1133.07
+2010,"Stepaside, Dublin 18",All bedrooms,All property types,1109.22
+2010,Dublin 20,All bedrooms,All property types,978.53
+2010,"Chapelizod, Dublin 20",All bedrooms,All property types,948.03
+2010,"Palmerstown, Dublin 20",All bedrooms,All property types,1023.86
+2010,"Clondalkin, Dublin 22",All bedrooms,All property types,917.97
+2010,Dublin 24,All bedrooms,All property types,948.14
+2010,"Ballycullen, Dublin 24",All bedrooms,All property types,1058.89
+2010,"Citywest, Dublin 24",All bedrooms,All property types,952.02
+2010,"Firhouse, Dublin 24",All bedrooms,All property types,1059.61
+2010,"Tallaght, Dublin 24",All bedrooms,All property types,926.21
+2011,Dublin,All bedrooms,All property types,1011.91
+2011,"Balbriggan, Dublin",All bedrooms,All property types,769.42
+2011,"Blackrock, Dublin",All bedrooms,All property types,1257.14
+2011,"Booterstown, Dublin",All bedrooms,All property types,1325.14
+2011,"Dalkey, Dublin",All bedrooms,All property types,1459.08
+2011,"Donabate, Dublin",All bedrooms,All property types,861.21
+2011,"Dun Laoghaire, Dublin",All bedrooms,All property types,1058.58
+2011,"Glenageary, Dublin",All bedrooms,All property types,1290.75
+2011,"Howth, Dublin",All bedrooms,All property types,1141.01
+2011,"Killiney, Dublin",All bedrooms,All property types,1430.06
+2011,"Kinsealy, Dublin",All bedrooms,All property types,984.29
+2011,"Lucan, Dublin",All bedrooms,All property types,979.91
+2011,"Lusk, Dublin",All bedrooms,All property types,916.09
+2011,"Malahide, Dublin",All bedrooms,All property types,1217.36
+2011,"Monkstown, Dublin",All bedrooms,All property types,1052.25
+2011,"Mount Merrion, Dublin",All bedrooms,All property types,1608.93
+2011,"Portmarnock, Dublin",All bedrooms,All property types,1101.83
+2011,"Rathcoole, Dublin",All bedrooms,All property types,895.11
+2011,"Rush, Dublin",All bedrooms,All property types,878.65
+2011,"Saggart, Dublin",All bedrooms,All property types,948.34
+2011,"Sandycove, Dublin",All bedrooms,All property types,1207.01
+2011,"Shankill, Dublin",All bedrooms,All property types,1116.76
+2011,"Skerries, Dublin",All bedrooms,All property types,893.46
+2011,"Stillorgan, Dublin",All bedrooms,All property types,1252.93
+2011,"Swords, Dublin",All bedrooms,All property types,935.66
+2011,Dublin 1,All bedrooms,All property types,982.93
+2011,"I.F.S.C., Dublin 1",All bedrooms,All property types,1522.4
+2011,"Parnell Street, Dublin 1",All bedrooms,All property types,1033.06
+2011,"Spencer Dock, Dublin 1",All bedrooms,All property types,1304.55
+2011,"Summerhill, Dublin 1",All bedrooms,All property types,942.3
+2011,Dublin 2,All bedrooms,All property types,1133.45
+2011,"Aungier Street, Dublin 2",All bedrooms,All property types,934.92
+2011,"Charlemont Street, Dublin 2",All bedrooms,All property types,1204.72
+2011,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1451.33
+2011,"Grand Canal Square, Dublin 2",All bedrooms,All property types,1513.9
+2011,"Hanover Quay, Dublin 2",All bedrooms,All property types,1585.83
+2011,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1002.98
+2011,"Pearse Street, Dublin 2",All bedrooms,All property types,1018.07
+2011,"Tara Street, Dublin 2",All bedrooms,All property types,946.18
+2011,"Temple Bar, Dublin 2",All bedrooms,All property types,1103.99
+2011,"Townsend Street, Dublin 2",All bedrooms,All property types,1072.12
+2011,Dublin 3,All bedrooms,All property types,932.53
+2011,"Clonliffe, Dublin 3",All bedrooms,All property types,795.77
+2011,"Clontarf, Dublin 3",All bedrooms,All property types,988.79
+2011,"Drumcondra, Dublin 3",All bedrooms,All property types,948.29
+2011,"East Wall, Dublin 3",All bedrooms,All property types,915.19
+2011,"Fairview, Dublin 3",All bedrooms,All property types,873.56
+2011,"Marino, Dublin 3",All bedrooms,All property types,1073.64
+2011,"North Strand, Dublin 3",All bedrooms,All property types,856.86
+2011,Dublin 4,All bedrooms,All property types,1272.03
+2011,"Ballsbridge, Dublin 4",All bedrooms,All property types,1358.76
+2011,"Donnybrook, Dublin 4",All bedrooms,All property types,1297.8
+2011,"Irishtown, Dublin 4",All bedrooms,All property types,1116.89
+2011,"Merrion, Dublin 4",All bedrooms,All property types,1199.31
+2011,"Pembroke, Dublin 4",All bedrooms,All property types,1217.07
+2011,"Ringsend, Dublin 4",All bedrooms,All property types,1174.69
+2011,"Sandymount, Dublin 4",All bedrooms,All property types,1380.54
+2011,Dublin 5,All bedrooms,All property types,1011.68
+2011,"Artane, Dublin 5",All bedrooms,All property types,999.26
+2011,"Killester, Dublin 5",All bedrooms,All property types,1019.89
+2011,"Raheny, Dublin 5",All bedrooms,All property types,1038.7
+2011,Dublin 6,All bedrooms,All property types,955.32
+2011,"Dartry, Dublin 6",All bedrooms,All property types,1269.41
+2011,"Harolds Cross, Dublin 6",All bedrooms,All property types,1000.08
+2011,"Milltown, Dublin 6",All bedrooms,All property types,1251.83
+2011,"Ranelagh, Dublin 6",All bedrooms,All property types,1007.92
+2011,"Rathgar, Dublin 6",All bedrooms,All property types,911.78
+2011,"Rathmines, Dublin 6",All bedrooms,All property types,849.14
+2011,"Terenure, Dublin 6",All bedrooms,All property types,1030.81
+2011,Dublin 6W,All bedrooms,All property types,1087.2
+2011,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1027.65
+2011,"Templeogue, Dublin 6W",All bedrooms,All property types,1215.91
+2011,"Terenure, Dublin 6W",All bedrooms,All property types,1140.41
+2011,Dublin 7,All bedrooms,All property types,856.39
+2011,"Arbour Hill, Dublin 7",All bedrooms,All property types,1023.0
+2011,"Cabra, Dublin 7",All bedrooms,All property types,830.0
+2011,"Navan Road, Dublin 7",All bedrooms,All property types,983.5
+2011,"North Circular Road, Dublin 7",All bedrooms,All property types,924.27
+2011,"Phibsboro, Dublin 7",All bedrooms,All property types,760.44
+2011,"Smithfield, Dublin 7",All bedrooms,All property types,1011.86
+2011,"Stoneybatter, Dublin 7",All bedrooms,All property types,923.26
+2011,Dublin 8,All bedrooms,All property types,907.12
+2011,"Christchurch, Dublin 8",All bedrooms,All property types,906.93
+2011,"Cork Street, Dublin 8",All bedrooms,All property types,945.04
+2011,"Dolphins Barn, Dublin 8",All bedrooms,All property types,900.64
+2011,"Inchicore, Dublin 8",All bedrooms,All property types,906.81
+2011,"Islandbridge, Dublin 8",All bedrooms,All property types,1012.82
+2011,"Kilmainham , Dublin 8",All bedrooms,All property types,964.63
+2011,"Portobello, Dublin 8",All bedrooms,All property types,866.94
+2011,"Rialto, Dublin 8",All bedrooms,All property types,885.99
+2011,"South Circular Road, Dublin 8",All bedrooms,All property types,887.31
+2011,"The Coombe, Dublin 8",All bedrooms,All property types,910.31
+2011,Dublin 9,All bedrooms,All property types,945.01
+2011,"Ballymun, Dublin 9",All bedrooms,All property types,773.12
+2011,"Beaumont, Dublin 9",All bedrooms,All property types,949.82
+2011,"Drumcondra, Dublin 9",All bedrooms,All property types,960.79
+2011,"Glasnevin, Dublin 9",All bedrooms,All property types,943.61
+2011,"Santry, Dublin 9",All bedrooms,All property types,927.14
+2011,"Whitehall, Dublin 9",All bedrooms,All property types,1011.62
+2011,Dublin 10,All bedrooms,All property types,866.6
+2011,"Ballyfermot, Dublin 10",All bedrooms,All property types,902.76
+2011,"Cherry Orchard, Dublin 10",All bedrooms,All property types,819.49
+2011,Dublin 11,All bedrooms,All property types,893.77
+2011,"Ballymun, Dublin 11",All bedrooms,All property types,774.39
+2011,"Finglas, Dublin 11",All bedrooms,All property types,895.61
+2011,"Glasnevin, Dublin 11",All bedrooms,All property types,975.08
+2011,"Meakstown, Dublin 11",All bedrooms,All property types,951.72
+2011,"St Margarets Road, Dublin 11",All bedrooms,All property types,941.22
+2011,Dublin 12,All bedrooms,All property types,958.16
+2011,"Crumlin, Dublin 12",All bedrooms,All property types,938.43
+2011,"Drimnagh, Dublin 12",All bedrooms,All property types,983.51
+2011,"Kimmage, Dublin 12",All bedrooms,All property types,941.61
+2011,"Walkinstown, Dublin 12",All bedrooms,All property types,1014.99
+2011,Dublin 13,All bedrooms,All property types,1035.08
+2011,"Baldoyle, Dublin 13",All bedrooms,All property types,1004.25
+2011,"Balgriffin, Dublin 13",All bedrooms,All property types,1052.85
+2011,"Clongriffin, Dublin 13",All bedrooms,All property types,966.49
+2011,"Donaghmede, Dublin 13",All bedrooms,All property types,977.98
+2011,"Sutton, Dublin 13",All bedrooms,All property types,1299.38
+2011,Dublin 14,All bedrooms,All property types,1235.1
+2011,"Churchtown, Dublin 14",All bedrooms,All property types,1281.49
+2011,"Clonskeagh, Dublin 14",All bedrooms,All property types,1319.45
+2011,"Dundrum, Dublin 14",All bedrooms,All property types,1176.65
+2011,"Goatstown, Dublin 14",All bedrooms,All property types,1462.42
+2011,"Rathfarnham, Dublin 14",All bedrooms,All property types,1136.04
+2011,Dublin 15,All bedrooms,All property types,955.74
+2011,"Ashtown, Dublin 15",All bedrooms,All property types,960.01
+2011,"Blanchardstown, Dublin 15",All bedrooms,All property types,903.86
+2011,"Carpenterstown, Dublin 15",All bedrooms,All property types,956.23
+2011,"Castleknock, Dublin 15",All bedrooms,All property types,1037.79
+2011,"Clonee, Dublin 15",All bedrooms,All property types,936.6
+2011,"Clonsilla, Dublin 15",All bedrooms,All property types,967.7
+2011,"Coolmine, Dublin 15",All bedrooms,All property types,964.11
+2011,"Mulhuddart, Dublin 15",All bedrooms,All property types,887.0
+2011,"Ongar, Dublin 15",All bedrooms,All property types,861.64
+2011,"Porterstown, Dublin 15",All bedrooms,All property types,849.77
+2011,"Royal Canal Park, Dublin 15",All bedrooms,All property types,947.24
+2011,"Tyrrelstown, Dublin 15",All bedrooms,All property types,938.16
+2011,Dublin 16,All bedrooms,All property types,1142.35
+2011,"Ballinteer, Dublin 16",All bedrooms,All property types,1179.61
+2011,"Dundrum, Dublin 16",All bedrooms,All property types,1186.2
+2011,"Knocklyon, Dublin 16",All bedrooms,All property types,1104.05
+2011,"Rathfarnham, Dublin 16",All bedrooms,All property types,1124.54
+2011,"Sandyford, Dublin 16",All bedrooms,All property types,1153.02
+2011,Dublin 17,All bedrooms,All property types,939.35
+2011,"Malahide Road, Dublin 17",All bedrooms,All property types,938.57
+2011,"Northern Cross, Dublin 17",All bedrooms,All property types,963.08
+2011,Dublin 18,All bedrooms,All property types,1184.82
+2011,"Cabinteely, Dublin 18",All bedrooms,All property types,1123.03
+2011,"Carrickmines, Dublin 18",All bedrooms,All property types,1203.01
+2011,"Foxrock, Dublin 18",All bedrooms,All property types,1746.44
+2011,"Leopardstown, Dublin 18",All bedrooms,All property types,1231.52
+2011,"Sandyford, Dublin 18",All bedrooms,All property types,1112.55
+2011,"Stepaside, Dublin 18",All bedrooms,All property types,1063.35
+2011,Dublin 20,All bedrooms,All property types,932.46
+2011,"Chapelizod, Dublin 20",All bedrooms,All property types,902.54
+2011,"Palmerstown, Dublin 20",All bedrooms,All property types,957.32
+2011,"Clondalkin, Dublin 22",All bedrooms,All property types,884.09
+2011,Dublin 24,All bedrooms,All property types,911.3
+2011,"Ballycullen, Dublin 24",All bedrooms,All property types,1017.63
+2011,"Citywest, Dublin 24",All bedrooms,All property types,924.92
+2011,"Firhouse, Dublin 24",All bedrooms,All property types,1011.52
+2011,"Tallaght, Dublin 24",All bedrooms,All property types,895.87
+2012,Dublin,All bedrooms,All property types,1027.36
+2012,"Balbriggan, Dublin",All bedrooms,All property types,769.47
+2012,"Blackrock, Dublin",All bedrooms,All property types,1297.64
+2012,"Booterstown, Dublin",All bedrooms,All property types,1328.88
+2012,"Dalkey, Dublin",All bedrooms,All property types,1513.39
+2012,"Donabate, Dublin",All bedrooms,All property types,875.49
+2012,"Dun Laoghaire, Dublin",All bedrooms,All property types,1076.63
+2012,"Glenageary, Dublin",All bedrooms,All property types,1454.19
+2012,"Howth, Dublin",All bedrooms,All property types,1140.21
+2012,"Killiney, Dublin",All bedrooms,All property types,1481.27
+2012,"Kinsealy, Dublin",All bedrooms,All property types,972.25
+2012,"Lucan, Dublin",All bedrooms,All property types,986.34
+2012,"Lusk, Dublin",All bedrooms,All property types,901.03
+2012,"Malahide, Dublin",All bedrooms,All property types,1270.55
+2012,"Monkstown, Dublin",All bedrooms,All property types,1086.87
+2012,"Mount Merrion, Dublin",All bedrooms,All property types,1693.96
+2012,"Portmarnock, Dublin",All bedrooms,All property types,1094.65
+2012,"Rathcoole, Dublin",All bedrooms,All property types,870.92
+2012,"Rush, Dublin",All bedrooms,All property types,877.85
+2012,"Saggart, Dublin",All bedrooms,All property types,941.53
+2012,"Sandycove, Dublin",All bedrooms,All property types,1445.58
+2012,"Shankill, Dublin",All bedrooms,All property types,1105.33
+2012,"Skerries, Dublin",All bedrooms,All property types,899.34
+2012,"Stillorgan, Dublin",All bedrooms,All property types,1282.2
+2012,"Swords, Dublin",All bedrooms,All property types,946.11
+2012,Dublin 1,All bedrooms,All property types,983.55
+2012,"I.F.S.C., Dublin 1",All bedrooms,All property types,1890.21
+2012,"Parnell Street, Dublin 1",All bedrooms,All property types,1030.81
+2012,"Spencer Dock, Dublin 1",All bedrooms,All property types,1375.41
+2012,"Summerhill, Dublin 1",All bedrooms,All property types,961.3
+2012,Dublin 2,All bedrooms,All property types,1177.31
+2012,"Aungier Street, Dublin 2",All bedrooms,All property types,957.42
+2012,"Charlemont Street, Dublin 2",All bedrooms,All property types,1233.21
+2012,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1525.98
+2012,"Grand Canal Square, Dublin 2",All bedrooms,All property types,1782.96
+2012,"Hanover Quay, Dublin 2",All bedrooms,All property types,1543.75
+2012,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1065.45
+2012,"Pearse Street, Dublin 2",All bedrooms,All property types,1050.51
+2012,"Tara Street, Dublin 2",All bedrooms,All property types,951.08
+2012,"Temple Bar, Dublin 2",All bedrooms,All property types,1103.31
+2012,"Townsend Street, Dublin 2",All bedrooms,All property types,1108.38
+2012,Dublin 3,All bedrooms,All property types,945.65
+2012,"Clonliffe, Dublin 3",All bedrooms,All property types,803.28
+2012,"Clontarf, Dublin 3",All bedrooms,All property types,1017.96
+2012,"Drumcondra, Dublin 3",All bedrooms,All property types,961.43
+2012,"East Wall, Dublin 3",All bedrooms,All property types,945.33
+2012,"Fairview, Dublin 3",All bedrooms,All property types,890.19
+2012,"Marino, Dublin 3",All bedrooms,All property types,1104.47
+2012,"North Strand, Dublin 3",All bedrooms,All property types,843.41
+2012,Dublin 4,All bedrooms,All property types,1297.5
+2012,"Ballsbridge, Dublin 4",All bedrooms,All property types,1391.64
+2012,"Donnybrook, Dublin 4",All bedrooms,All property types,1290.59
+2012,"Irishtown, Dublin 4",All bedrooms,All property types,1170.03
+2012,"Merrion, Dublin 4",All bedrooms,All property types,1234.68
+2012,"Pembroke, Dublin 4",All bedrooms,All property types,1216.17
+2012,"Ringsend, Dublin 4",All bedrooms,All property types,1177.66
+2012,"Sandymount, Dublin 4",All bedrooms,All property types,1392.58
+2012,Dublin 5,All bedrooms,All property types,1011.84
+2012,"Artane, Dublin 5",All bedrooms,All property types,990.64
+2012,"Killester, Dublin 5",All bedrooms,All property types,1033.65
+2012,"Raheny, Dublin 5",All bedrooms,All property types,1036.55
+2012,Dublin 6,All bedrooms,All property types,972.86
+2012,"Dartry, Dublin 6",All bedrooms,All property types,1290.2
+2012,"Harolds Cross, Dublin 6",All bedrooms,All property types,987.98
+2012,"Milltown, Dublin 6",All bedrooms,All property types,1332.18
+2012,"Ranelagh, Dublin 6",All bedrooms,All property types,1030.46
+2012,"Rathgar, Dublin 6",All bedrooms,All property types,903.91
+2012,"Rathmines, Dublin 6",All bedrooms,All property types,839.16
+2012,"Terenure, Dublin 6",All bedrooms,All property types,1025.47
+2012,Dublin 6W,All bedrooms,All property types,1073.99
+2012,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1008.74
+2012,"Templeogue, Dublin 6W",All bedrooms,All property types,1257.67
+2012,"Terenure, Dublin 6W",All bedrooms,All property types,1149.63
+2012,Dublin 7,All bedrooms,All property types,845.07
+2012,"Arbour Hill, Dublin 7",All bedrooms,All property types,1060.21
+2012,"Cabra, Dublin 7",All bedrooms,All property types,775.24
+2012,"Navan Road, Dublin 7",All bedrooms,All property types,998.93
+2012,"North Circular Road, Dublin 7",All bedrooms,All property types,828.21
+2012,"Phibsboro, Dublin 7",All bedrooms,All property types,750.39
+2012,"Smithfield, Dublin 7",All bedrooms,All property types,990.84
+2012,"Stoneybatter, Dublin 7",All bedrooms,All property types,906.04
+2012,Dublin 8,All bedrooms,All property types,919.66
+2012,"Christchurch, Dublin 8",All bedrooms,All property types,920.99
+2012,"Cork Street, Dublin 8",All bedrooms,All property types,953.89
+2012,"Dolphins Barn, Dublin 8",All bedrooms,All property types,889.19
+2012,"Inchicore, Dublin 8",All bedrooms,All property types,904.66
+2012,"Islandbridge, Dublin 8",All bedrooms,All property types,1075.07
+2012,"Kilmainham , Dublin 8",All bedrooms,All property types,944.67
+2012,"Portobello, Dublin 8",All bedrooms,All property types,852.43
+2012,"Rialto, Dublin 8",All bedrooms,All property types,891.66
+2012,"South Circular Road, Dublin 8",All bedrooms,All property types,847.43
+2012,"The Coombe, Dublin 8",All bedrooms,All property types,923.55
+2012,Dublin 9,All bedrooms,All property types,965.68
+2012,"Ballymun, Dublin 9",All bedrooms,All property types,785.75
+2012,"Beaumont, Dublin 9",All bedrooms,All property types,967.68
+2012,"Drumcondra, Dublin 9",All bedrooms,All property types,980.17
+2012,"Glasnevin, Dublin 9",All bedrooms,All property types,966.66
+2012,"Santry, Dublin 9",All bedrooms,All property types,945.69
+2012,"Whitehall, Dublin 9",All bedrooms,All property types,1061.83
+2012,Dublin 10,All bedrooms,All property types,872.3
+2012,"Ballyfermot, Dublin 10",All bedrooms,All property types,900.92
+2012,"Cherry Orchard, Dublin 10",All bedrooms,All property types,839.49
+2012,Dublin 11,All bedrooms,All property types,904.29
+2012,"Ballymun, Dublin 11",All bedrooms,All property types,791.8
+2012,"Finglas, Dublin 11",All bedrooms,All property types,890.99
+2012,"Glasnevin, Dublin 11",All bedrooms,All property types,1000.24
+2012,"Meakstown, Dublin 11",All bedrooms,All property types,936.98
+2012,"St Margarets Road, Dublin 11",All bedrooms,All property types,950.5
+2012,Dublin 12,All bedrooms,All property types,956.5
+2012,"Crumlin, Dublin 12",All bedrooms,All property types,940.4
+2012,"Drimnagh, Dublin 12",All bedrooms,All property types,984.41
+2012,"Kimmage, Dublin 12",All bedrooms,All property types,952.21
+2012,"Walkinstown, Dublin 12",All bedrooms,All property types,998.72
+2012,Dublin 13,All bedrooms,All property types,1051.58
+2012,"Baldoyle, Dublin 13",All bedrooms,All property types,1006.36
+2012,"Balgriffin, Dublin 13",All bedrooms,All property types,1096.48
+2012,"Clongriffin, Dublin 13",All bedrooms,All property types,986.52
+2012,"Donaghmede, Dublin 13",All bedrooms,All property types,981.03
+2012,"Sutton, Dublin 13",All bedrooms,All property types,1310.85
+2012,Dublin 14,All bedrooms,All property types,1262.81
+2012,"Churchtown, Dublin 14",All bedrooms,All property types,1295.91
+2012,"Clonskeagh, Dublin 14",All bedrooms,All property types,1403.48
+2012,"Dundrum, Dublin 14",All bedrooms,All property types,1190.49
+2012,"Goatstown, Dublin 14",All bedrooms,All property types,1467.04
+2012,"Rathfarnham, Dublin 14",All bedrooms,All property types,1155.19
+2012,Dublin 15,All bedrooms,All property types,954.78
+2012,"Ashtown, Dublin 15",All bedrooms,All property types,958.58
+2012,"Blanchardstown, Dublin 15",All bedrooms,All property types,919.25
+2012,"Carpenterstown, Dublin 15",All bedrooms,All property types,974.49
+2012,"Castleknock, Dublin 15",All bedrooms,All property types,1045.93
+2012,"Clonee, Dublin 15",All bedrooms,All property types,934.7
+2012,"Clonsilla, Dublin 15",All bedrooms,All property types,961.65
+2012,"Coolmine, Dublin 15",All bedrooms,All property types,922.94
+2012,"Mulhuddart, Dublin 15",All bedrooms,All property types,861.6
+2012,"Ongar, Dublin 15",All bedrooms,All property types,857.67
+2012,"Porterstown, Dublin 15",All bedrooms,All property types,829.67
+2012,"Royal Canal Park, Dublin 15",All bedrooms,All property types,947.87
+2012,"Tyrrelstown, Dublin 15",All bedrooms,All property types,951.72
+2012,Dublin 16,All bedrooms,All property types,1144.32
+2012,"Ballinteer, Dublin 16",All bedrooms,All property types,1213.69
+2012,"Dundrum, Dublin 16",All bedrooms,All property types,1208.07
+2012,"Knocklyon, Dublin 16",All bedrooms,All property types,1111.7
+2012,"Rathfarnham, Dublin 16",All bedrooms,All property types,1138.9
+2012,"Sandyford, Dublin 16",All bedrooms,All property types,1156.35
+2012,Dublin 17,All bedrooms,All property types,921.62
+2012,"Malahide Road, Dublin 17",All bedrooms,All property types,929.82
+2012,"Northern Cross, Dublin 17",All bedrooms,All property types,894.81
+2012,Dublin 18,All bedrooms,All property types,1199.69
+2012,"Cabinteely, Dublin 18",All bedrooms,All property types,1147.92
+2012,"Carrickmines, Dublin 18",All bedrooms,All property types,1223.71
+2012,"Foxrock, Dublin 18",All bedrooms,All property types,1795.43
+2012,"Leopardstown, Dublin 18",All bedrooms,All property types,1239.11
+2012,"Sandyford, Dublin 18",All bedrooms,All property types,1143.65
+2012,"Stepaside, Dublin 18",All bedrooms,All property types,1097.09
+2012,Dublin 20,All bedrooms,All property types,922.34
+2012,"Chapelizod, Dublin 20",All bedrooms,All property types,903.24
+2012,"Palmerstown, Dublin 20",All bedrooms,All property types,942.28
+2012,"Clondalkin, Dublin 22",All bedrooms,All property types,894.56
+2012,Dublin 24,All bedrooms,All property types,908.31
+2012,"Ballycullen, Dublin 24",All bedrooms,All property types,1037.43
+2012,"Citywest, Dublin 24",All bedrooms,All property types,931.61
+2012,"Firhouse, Dublin 24",All bedrooms,All property types,1010.34
+2012,"Tallaght, Dublin 24",All bedrooms,All property types,891.84
+2013,Dublin,All bedrooms,All property types,1069.74
+2013,"Balbriggan, Dublin",All bedrooms,All property types,781.77
+2013,"Blackrock, Dublin",All bedrooms,All property types,1366.73
+2013,"Booterstown, Dublin",All bedrooms,All property types,1422.12
+2013,"Dalkey, Dublin",All bedrooms,All property types,1630.09
+2013,"Donabate, Dublin",All bedrooms,All property types,902.7
+2013,"Dun Laoghaire, Dublin",All bedrooms,All property types,1156.16
+2013,"Glenageary, Dublin",All bedrooms,All property types,1513.58
+2013,"Howth, Dublin",All bedrooms,All property types,1200.41
+2013,"Killiney, Dublin",All bedrooms,All property types,1533.83
+2013,"Kinsealy, Dublin",All bedrooms,All property types,1028.19
+2013,"Lucan, Dublin",All bedrooms,All property types,1010.72
+2013,"Lusk, Dublin",All bedrooms,All property types,904.95
+2013,"Malahide, Dublin",All bedrooms,All property types,1334.6
+2013,"Monkstown, Dublin",All bedrooms,All property types,1136.64
+2013,"Mount Merrion, Dublin",All bedrooms,All property types,1880.46
+2013,"Portmarnock, Dublin",All bedrooms,All property types,1139.68
+2013,"Rathcoole, Dublin",All bedrooms,All property types,896.11
+2013,"Rush, Dublin",All bedrooms,All property types,880.16
+2013,"Saggart, Dublin",All bedrooms,All property types,984.34
+2013,"Sandycove, Dublin",All bedrooms,All property types,1549.8
+2013,"Shankill, Dublin",All bedrooms,All property types,1131.13
+2013,"Skerries, Dublin",All bedrooms,All property types,935.86
+2013,"Stillorgan, Dublin",All bedrooms,All property types,1315.57
+2013,"Swords, Dublin",All bedrooms,All property types,972.39
+2013,Dublin 1,All bedrooms,All property types,990.54
+2013,"I.F.S.C., Dublin 1",All bedrooms,All property types,1952.07
+2013,"Parnell Street, Dublin 1",All bedrooms,All property types,1054.44
+2013,"Spencer Dock, Dublin 1",All bedrooms,All property types,1470.36
+2013,"Summerhill, Dublin 1",All bedrooms,All property types,917.37
+2013,Dublin 2,All bedrooms,All property types,1237.02
+2013,"Aungier Street, Dublin 2",All bedrooms,All property types,1007.93
+2013,"Charlemont Street, Dublin 2",All bedrooms,All property types,1295.2
+2013,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1636.19
+2013,"Grand Canal Square, Dublin 2",All bedrooms,All property types,1906.24
+2013,"Hanover Quay, Dublin 2",All bedrooms,All property types,1591.89
+2013,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1130.35
+2013,"Pearse Street, Dublin 2",All bedrooms,All property types,1123.57
+2013,"Tara Street, Dublin 2",All bedrooms,All property types,991.67
+2013,"Temple Bar, Dublin 2",All bedrooms,All property types,1151.56
+2013,"Townsend Street, Dublin 2",All bedrooms,All property types,1128.22
+2013,Dublin 3,All bedrooms,All property types,989.8
+2013,"Clonliffe, Dublin 3",All bedrooms,All property types,879.46
+2013,"Clontarf, Dublin 3",All bedrooms,All property types,1058.9
+2013,"Drumcondra, Dublin 3",All bedrooms,All property types,1013.7
+2013,"East Wall, Dublin 3",All bedrooms,All property types,988.26
+2013,"Fairview, Dublin 3",All bedrooms,All property types,921.62
+2013,"Marino, Dublin 3",All bedrooms,All property types,1122.7
+2013,"North Strand, Dublin 3",All bedrooms,All property types,941.86
+2013,Dublin 4,All bedrooms,All property types,1370.32
+2013,"Ballsbridge, Dublin 4",All bedrooms,All property types,1443.35
+2013,"Donnybrook, Dublin 4",All bedrooms,All property types,1375.71
+2013,"Irishtown, Dublin 4",All bedrooms,All property types,1250.7
+2013,"Merrion, Dublin 4",All bedrooms,All property types,1325.97
+2013,"Pembroke, Dublin 4",All bedrooms,All property types,1321.61
+2013,"Ringsend, Dublin 4",All bedrooms,All property types,1209.25
+2013,"Sandymount, Dublin 4",All bedrooms,All property types,1482.43
+2013,Dublin 5,All bedrooms,All property types,1040.61
+2013,"Artane, Dublin 5",All bedrooms,All property types,1023.35
+2013,"Killester, Dublin 5",All bedrooms,All property types,1075.32
+2013,"Raheny, Dublin 5",All bedrooms,All property types,1090.41
+2013,Dublin 6,All bedrooms,All property types,1017.02
+2013,"Dartry, Dublin 6",All bedrooms,All property types,1426.13
+2013,"Harolds Cross, Dublin 6",All bedrooms,All property types,1053.03
+2013,"Milltown, Dublin 6",All bedrooms,All property types,1407.75
+2013,"Ranelagh, Dublin 6",All bedrooms,All property types,1086.0
+2013,"Rathgar, Dublin 6",All bedrooms,All property types,942.64
+2013,"Rathmines, Dublin 6",All bedrooms,All property types,866.32
+2013,"Terenure, Dublin 6",All bedrooms,All property types,1125.11
+2013,Dublin 6W,All bedrooms,All property types,1126.95
+2013,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1073.44
+2013,"Templeogue, Dublin 6W",All bedrooms,All property types,1297.33
+2013,"Terenure, Dublin 6W",All bedrooms,All property types,1227.09
+2013,Dublin 7,All bedrooms,All property types,880.9
+2013,"Arbour Hill, Dublin 7",All bedrooms,All property types,1124.69
+2013,"Cabra, Dublin 7",All bedrooms,All property types,797.98
+2013,"Navan Road, Dublin 7",All bedrooms,All property types,1049.5
+2013,"North Circular Road, Dublin 7",All bedrooms,All property types,855.28
+2013,"Phibsboro, Dublin 7",All bedrooms,All property types,789.33
+2013,"Smithfield, Dublin 7",All bedrooms,All property types,1049.47
+2013,"Stoneybatter, Dublin 7",All bedrooms,All property types,918.92
+2013,Dublin 8,All bedrooms,All property types,965.3
+2013,"Christchurch, Dublin 8",All bedrooms,All property types,958.18
+2013,"Cork Street, Dublin 8",All bedrooms,All property types,1010.51
+2013,"Dolphins Barn, Dublin 8",All bedrooms,All property types,901.08
+2013,"Inchicore, Dublin 8",All bedrooms,All property types,931.7
+2013,"Islandbridge, Dublin 8",All bedrooms,All property types,1161.08
+2013,"Kilmainham , Dublin 8",All bedrooms,All property types,986.07
+2013,"Portobello, Dublin 8",All bedrooms,All property types,898.23
+2013,"Rialto, Dublin 8",All bedrooms,All property types,926.62
+2013,"South Circular Road, Dublin 8",All bedrooms,All property types,900.72
+2013,"The Coombe, Dublin 8",All bedrooms,All property types,965.44
+2013,Dublin 9,All bedrooms,All property types,1062.42
+2013,"Ballymun, Dublin 9",All bedrooms,All property types,808.91
+2013,"Beaumont, Dublin 9",All bedrooms,All property types,1007.17
+2013,"Drumcondra, Dublin 9",All bedrooms,All property types,1045.16
+2013,"Glasnevin, Dublin 9",All bedrooms,All property types,1254.58
+2013,"Santry, Dublin 9",All bedrooms,All property types,987.55
+2013,"Whitehall, Dublin 9",All bedrooms,All property types,1057.09
+2013,Dublin 10,All bedrooms,All property types,889.8
+2013,"Ballyfermot, Dublin 10",All bedrooms,All property types,897.02
+2013,"Cherry Orchard, Dublin 10",All bedrooms,All property types,829.78
+2013,Dublin 11,All bedrooms,All property types,925.04
+2013,"Ballymun, Dublin 11",All bedrooms,All property types,815.74
+2013,"Finglas, Dublin 11",All bedrooms,All property types,912.57
+2013,"Glasnevin, Dublin 11",All bedrooms,All property types,1033.27
+2013,"Meakstown, Dublin 11",All bedrooms,All property types,921.14
+2013,"St Margarets Road, Dublin 11",All bedrooms,All property types,967.46
+2013,Dublin 12,All bedrooms,All property types,982.15
+2013,"Crumlin, Dublin 12",All bedrooms,All property types,943.52
+2013,"Drimnagh, Dublin 12",All bedrooms,All property types,1015.86
+2013,"Kimmage, Dublin 12",All bedrooms,All property types,1019.45
+2013,"Walkinstown, Dublin 12",All bedrooms,All property types,997.82
+2013,Dublin 13,All bedrooms,All property types,1077.1
+2013,"Baldoyle, Dublin 13",All bedrooms,All property types,1049.95
+2013,"Balgriffin, Dublin 13",All bedrooms,All property types,1173.36
+2013,"Clongriffin, Dublin 13",All bedrooms,All property types,1016.5
+2013,"Donaghmede, Dublin 13",All bedrooms,All property types,984.03
+2013,"Sutton, Dublin 13",All bedrooms,All property types,1266.7
+2013,Dublin 14,All bedrooms,All property types,1326.1
+2013,"Churchtown, Dublin 14",All bedrooms,All property types,1342.72
+2013,"Clonskeagh, Dublin 14",All bedrooms,All property types,1489.25
+2013,"Dundrum, Dublin 14",All bedrooms,All property types,1253.36
+2013,"Goatstown, Dublin 14",All bedrooms,All property types,1556.7
+2013,"Rathfarnham, Dublin 14",All bedrooms,All property types,1205.54
+2013,Dublin 15,All bedrooms,All property types,987.05
+2013,"Ashtown, Dublin 15",All bedrooms,All property types,992.86
+2013,"Blanchardstown, Dublin 15",All bedrooms,All property types,945.49
+2013,"Carpenterstown, Dublin 15",All bedrooms,All property types,1009.72
+2013,"Castleknock, Dublin 15",All bedrooms,All property types,1110.04
+2013,"Clonee, Dublin 15",All bedrooms,All property types,954.98
+2013,"Clonsilla, Dublin 15",All bedrooms,All property types,988.84
+2013,"Coolmine, Dublin 15",All bedrooms,All property types,935.23
+2013,"Mulhuddart, Dublin 15",All bedrooms,All property types,865.4
+2013,"Ongar, Dublin 15",All bedrooms,All property types,900.14
+2013,"Porterstown, Dublin 15",All bedrooms,All property types,857.39
+2013,"Royal Canal Park, Dublin 15",All bedrooms,All property types,997.61
+2013,"Tyrrelstown, Dublin 15",All bedrooms,All property types,959.81
+2013,Dublin 16,All bedrooms,All property types,1200.26
+2013,"Ballinteer, Dublin 16",All bedrooms,All property types,1270.48
+2013,"Dundrum, Dublin 16",All bedrooms,All property types,1257.17
+2013,"Knocklyon, Dublin 16",All bedrooms,All property types,1174.19
+2013,"Rathfarnham, Dublin 16",All bedrooms,All property types,1197.9
+2013,"Sandyford, Dublin 16",All bedrooms,All property types,1151.18
+2013,Dublin 17,All bedrooms,All property types,944.38
+2013,"Malahide Road, Dublin 17",All bedrooms,All property types,930.1
+2013,"Northern Cross, Dublin 17",All bedrooms,All property types,911.14
+2013,Dublin 18,All bedrooms,All property types,1245.17
+2013,"Cabinteely, Dublin 18",All bedrooms,All property types,1194.66
+2013,"Carrickmines, Dublin 18",All bedrooms,All property types,1257.56
+2013,"Foxrock, Dublin 18",All bedrooms,All property types,1846.24
+2013,"Leopardstown, Dublin 18",All bedrooms,All property types,1295.08
+2013,"Sandyford, Dublin 18",All bedrooms,All property types,1196.25
+2013,"Stepaside, Dublin 18",All bedrooms,All property types,1129.17
+2013,Dublin 20,All bedrooms,All property types,961.7
+2013,"Chapelizod, Dublin 20",All bedrooms,All property types,948.26
+2013,"Palmerstown, Dublin 20",All bedrooms,All property types,992.91
+2013,"Clondalkin, Dublin 22",All bedrooms,All property types,915.88
+2013,Dublin 24,All bedrooms,All property types,927.56
+2013,"Ballycullen, Dublin 24",All bedrooms,All property types,1039.38
+2013,"Citywest, Dublin 24",All bedrooms,All property types,964.35
+2013,"Firhouse, Dublin 24",All bedrooms,All property types,1052.59
+2013,"Tallaght, Dublin 24",All bedrooms,All property types,907.97
+2014,Dublin,All bedrooms,All property types,1159.41
+2014,"Balbriggan, Dublin",All bedrooms,All property types,820.25
+2014,"Blackrock, Dublin",All bedrooms,All property types,1490.07
+2014,"Booterstown, Dublin",All bedrooms,All property types,1522.73
+2014,"Dalkey, Dublin",All bedrooms,All property types,1834.6
+2014,"Donabate, Dublin",All bedrooms,All property types,960.81
+2014,"Dun Laoghaire, Dublin",All bedrooms,All property types,1246.85
+2014,"Glenageary, Dublin",All bedrooms,All property types,1603.4
+2014,"Howth, Dublin",All bedrooms,All property types,1308.57
+2014,"Killiney, Dublin",All bedrooms,All property types,1593.05
+2014,"Kinsealy, Dublin",All bedrooms,All property types,1080.22
+2014,"Lucan, Dublin",All bedrooms,All property types,1068.54
+2014,"Lusk, Dublin",All bedrooms,All property types,991.38
+2014,"Malahide, Dublin",All bedrooms,All property types,1397.95
+2014,"Monkstown, Dublin",All bedrooms,All property types,1190.44
+2014,"Mount Merrion, Dublin",All bedrooms,All property types,1851.04
+2014,"Portmarnock, Dublin",All bedrooms,All property types,1231.99
+2014,"Rathcoole, Dublin",All bedrooms,All property types,966.15
+2014,"Rush, Dublin",All bedrooms,All property types,955.85
+2014,"Saggart, Dublin",All bedrooms,All property types,1061.01
+2014,"Sandycove, Dublin",All bedrooms,All property types,1612.68
+2014,"Shankill, Dublin",All bedrooms,All property types,1187.5
+2014,"Skerries, Dublin",All bedrooms,All property types,1003.15
+2014,"Stillorgan, Dublin",All bedrooms,All property types,1452.46
+2014,"Swords, Dublin",All bedrooms,All property types,1037.73
+2014,Dublin 1,All bedrooms,All property types,1079.03
+2014,"I.F.S.C., Dublin 1",All bedrooms,All property types,2047.15
+2014,"Parnell Street, Dublin 1",All bedrooms,All property types,1137.29
+2014,"Spencer Dock, Dublin 1",All bedrooms,All property types,1593.42
+2014,"Summerhill, Dublin 1",All bedrooms,All property types,905.97
+2014,Dublin 2,All bedrooms,All property types,1319.57
+2014,"Aungier Street, Dublin 2",All bedrooms,All property types,1103.98
+2014,"Charlemont Street, Dublin 2",All bedrooms,All property types,1381.67
+2014,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,1805.27
+2014,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2053.59
+2014,"Hanover Quay, Dublin 2",All bedrooms,All property types,1766.25
+2014,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1366.22
+2014,"Pearse Street, Dublin 2",All bedrooms,All property types,1221.19
+2014,"Tara Street, Dublin 2",All bedrooms,All property types,1096.28
+2014,"Temple Bar, Dublin 2",All bedrooms,All property types,1248.24
+2014,"Townsend Street, Dublin 2",All bedrooms,All property types,1239.19
+2014,Dublin 3,All bedrooms,All property types,1072.57
+2014,"Clonliffe, Dublin 3",All bedrooms,All property types,876.71
+2014,"Clontarf, Dublin 3",All bedrooms,All property types,1161.3
+2014,"Drumcondra, Dublin 3",All bedrooms,All property types,1086.75
+2014,"East Wall, Dublin 3",All bedrooms,All property types,1066.12
+2014,"Fairview, Dublin 3",All bedrooms,All property types,974.91
+2014,"Marino, Dublin 3",All bedrooms,All property types,1217.99
+2014,"North Strand, Dublin 3",All bedrooms,All property types,1016.33
+2014,Dublin 4,All bedrooms,All property types,1489.55
+2014,"Ballsbridge, Dublin 4",All bedrooms,All property types,1583.1
+2014,"Donnybrook, Dublin 4",All bedrooms,All property types,1552.93
+2014,"Irishtown, Dublin 4",All bedrooms,All property types,1381.98
+2014,"Merrion, Dublin 4",All bedrooms,All property types,1426.65
+2014,"Pembroke, Dublin 4",All bedrooms,All property types,1399.47
+2014,"Ringsend, Dublin 4",All bedrooms,All property types,1307.08
+2014,"Sandymount, Dublin 4",All bedrooms,All property types,1582.38
+2014,Dublin 5,All bedrooms,All property types,1114.59
+2014,"Artane, Dublin 5",All bedrooms,All property types,1112.83
+2014,"Killester, Dublin 5",All bedrooms,All property types,1179.07
+2014,"Raheny, Dublin 5",All bedrooms,All property types,1147.67
+2014,Dublin 6,All bedrooms,All property types,1103.62
+2014,"Dartry, Dublin 6",All bedrooms,All property types,1426.83
+2014,"Harolds Cross, Dublin 6",All bedrooms,All property types,1208.97
+2014,"Milltown, Dublin 6",All bedrooms,All property types,1493.96
+2014,"Ranelagh, Dublin 6",All bedrooms,All property types,1195.5
+2014,"Rathgar, Dublin 6",All bedrooms,All property types,1011.67
+2014,"Rathmines, Dublin 6",All bedrooms,All property types,930.76
+2014,"Terenure, Dublin 6",All bedrooms,All property types,1266.81
+2014,Dublin 6W,All bedrooms,All property types,1231.04
+2014,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1200.35
+2014,"Templeogue, Dublin 6W",All bedrooms,All property types,1346.8
+2014,"Terenure, Dublin 6W",All bedrooms,All property types,1329.55
+2014,Dublin 7,All bedrooms,All property types,964.96
+2014,"Arbour Hill, Dublin 7",All bedrooms,All property types,1196.56
+2014,"Cabra, Dublin 7",All bedrooms,All property types,877.66
+2014,"Navan Road, Dublin 7",All bedrooms,All property types,1118.25
+2014,"North Circular Road, Dublin 7",All bedrooms,All property types,932.01
+2014,"Phibsboro, Dublin 7",All bedrooms,All property types,867.64
+2014,"Smithfield, Dublin 7",All bedrooms,All property types,1179.65
+2014,"Stoneybatter, Dublin 7",All bedrooms,All property types,1005.97
+2014,Dublin 8,All bedrooms,All property types,1039.57
+2014,"Christchurch, Dublin 8",All bedrooms,All property types,1024.07
+2014,"Cork Street, Dublin 8",All bedrooms,All property types,1093.63
+2014,"Inchicore, Dublin 8",All bedrooms,All property types,1036.72
+2014,"Islandbridge, Dublin 8",All bedrooms,All property types,1266.94
+2014,"Kilmainham , Dublin 8",All bedrooms,All property types,1077.45
+2014,"Portobello, Dublin 8",All bedrooms,All property types,999.15
+2014,"Rialto, Dublin 8",All bedrooms,All property types,1031.48
+2014,"South Circular Road, Dublin 8",All bedrooms,All property types,990.39
+2014,"The Coombe, Dublin 8",All bedrooms,All property types,1138.94
+2014,Dublin 9,All bedrooms,All property types,1188.61
+2014,"Ballymun, Dublin 9",All bedrooms,All property types,861.59
+2014,"Beaumont, Dublin 9",All bedrooms,All property types,1064.71
+2014,"Drumcondra, Dublin 9",All bedrooms,All property types,1131.13
+2014,"Glasnevin, Dublin 9",All bedrooms,All property types,1334.4
+2014,"Santry, Dublin 9",All bedrooms,All property types,1068.29
+2014,"Whitehall, Dublin 9",All bedrooms,All property types,1170.77
+2014,Dublin 10,All bedrooms,All property types,921.81
+2014,"Ballyfermot, Dublin 10",All bedrooms,All property types,911.6
+2014,"Cherry Orchard, Dublin 10",All bedrooms,All property types,914.61
+2014,Dublin 11,All bedrooms,All property types,1001.17
+2014,"Ballymun, Dublin 11",All bedrooms,All property types,865.9
+2014,"Finglas, Dublin 11",All bedrooms,All property types,981.06
+2014,"Glasnevin, Dublin 11",All bedrooms,All property types,1129.49
+2014,"Meakstown, Dublin 11",All bedrooms,All property types,967.47
+2014,"St Margarets Road, Dublin 11",All bedrooms,All property types,1039.54
+2014,Dublin 12,All bedrooms,All property types,1057.81
+2014,"Crumlin, Dublin 12",All bedrooms,All property types,1003.61
+2014,"Drimnagh, Dublin 12",All bedrooms,All property types,1100.6
+2014,"Kimmage, Dublin 12",All bedrooms,All property types,1123.46
+2014,"Walkinstown, Dublin 12",All bedrooms,All property types,1075.65
+2014,Dublin 13,All bedrooms,All property types,1157.18
+2014,"Baldoyle, Dublin 13",All bedrooms,All property types,1147.11
+2014,"Balgriffin, Dublin 13",All bedrooms,All property types,1298.01
+2014,"Clongriffin, Dublin 13",All bedrooms,All property types,1071.5
+2014,"Donaghmede, Dublin 13",All bedrooms,All property types,1057.32
+2014,"Sutton, Dublin 13",All bedrooms,All property types,1432.54
+2014,Dublin 14,All bedrooms,All property types,1438.04
+2014,"Churchtown, Dublin 14",All bedrooms,All property types,1436.7
+2014,"Clonskeagh, Dublin 14",All bedrooms,All property types,1642.51
+2014,"Dundrum, Dublin 14",All bedrooms,All property types,1390.95
+2014,"Goatstown, Dublin 14",All bedrooms,All property types,1721.89
+2014,"Rathfarnham, Dublin 14",All bedrooms,All property types,1304.35
+2014,Dublin 15,All bedrooms,All property types,1068.07
+2014,"Ashtown, Dublin 15",All bedrooms,All property types,1095.64
+2014,"Blanchardstown, Dublin 15",All bedrooms,All property types,1020.48
+2014,"Carpenterstown, Dublin 15",All bedrooms,All property types,1060.83
+2014,"Castleknock, Dublin 15",All bedrooms,All property types,1221.92
+2014,"Clonee, Dublin 15",All bedrooms,All property types,1025.99
+2014,"Clonsilla, Dublin 15",All bedrooms,All property types,1058.41
+2014,"Coolmine, Dublin 15",All bedrooms,All property types,1061.15
+2014,"Mulhuddart, Dublin 15",All bedrooms,All property types,935.84
+2014,"Ongar, Dublin 15",All bedrooms,All property types,979.67
+2014,"Porterstown, Dublin 15",All bedrooms,All property types,951.1
+2014,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1078.04
+2014,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1010.69
+2014,Dublin 16,All bedrooms,All property types,1296.17
+2014,"Ballinteer, Dublin 16",All bedrooms,All property types,1388.43
+2014,"Dundrum, Dublin 16",All bedrooms,All property types,1378.17
+2014,"Knocklyon, Dublin 16",All bedrooms,All property types,1296.64
+2014,"Rathfarnham, Dublin 16",All bedrooms,All property types,1297.42
+2014,"Sandyford, Dublin 16",All bedrooms,All property types,1178.5
+2014,Dublin 17,All bedrooms,All property types,1010.84
+2014,"Malahide Road, Dublin 17",All bedrooms,All property types,1024.91
+2014,"Northern Cross, Dublin 17",All bedrooms,All property types,989.79
+2014,Dublin 18,All bedrooms,All property types,1357.18
+2014,"Cabinteely, Dublin 18",All bedrooms,All property types,1291.43
+2014,"Carrickmines, Dublin 18",All bedrooms,All property types,1367.71
+2014,"Foxrock, Dublin 18",All bedrooms,All property types,1939.7
+2014,"Leopardstown, Dublin 18",All bedrooms,All property types,1427.57
+2014,"Sandyford, Dublin 18",All bedrooms,All property types,1316.73
+2014,"Stepaside, Dublin 18",All bedrooms,All property types,1219.04
+2014,Dublin 20,All bedrooms,All property types,1032.51
+2014,"Chapelizod, Dublin 20",All bedrooms,All property types,1019.05
+2014,"Palmerstown, Dublin 20",All bedrooms,All property types,1080.09
+2014,"Clondalkin, Dublin 22",All bedrooms,All property types,972.35
+2014,Dublin 24,All bedrooms,All property types,1011.47
+2014,"Ballycullen, Dublin 24",All bedrooms,All property types,1106.36
+2014,"Citywest, Dublin 24",All bedrooms,All property types,1035.15
+2014,"Firhouse, Dublin 24",All bedrooms,All property types,1110.61
+2014,"Tallaght, Dublin 24",All bedrooms,All property types,1009.68
+2015,Dublin,All bedrooms,All property types,1270.55
+2015,"Balbriggan, Dublin",All bedrooms,All property types,896.9
+2015,"Blackrock, Dublin",All bedrooms,All property types,1624.27
+2015,"Booterstown, Dublin",All bedrooms,All property types,1667.73
+2015,"Dalkey, Dublin",All bedrooms,All property types,2012.42
+2015,"Donabate, Dublin",All bedrooms,All property types,1044.88
+2015,"Dun Laoghaire, Dublin",All bedrooms,All property types,1373.27
+2015,"Glenageary, Dublin",All bedrooms,All property types,1772.22
+2015,"Howth, Dublin",All bedrooms,All property types,1414.02
+2015,"Killiney, Dublin",All bedrooms,All property types,1738.34
+2015,"Kinsealy, Dublin",All bedrooms,All property types,1171.63
+2015,"Lucan, Dublin",All bedrooms,All property types,1161.63
+2015,"Lusk, Dublin",All bedrooms,All property types,1073.2
+2015,"Malahide, Dublin",All bedrooms,All property types,1494.72
+2015,"Monkstown, Dublin",All bedrooms,All property types,1307.06
+2015,"Mount Merrion, Dublin",All bedrooms,All property types,1921.69
+2015,"Portmarnock, Dublin",All bedrooms,All property types,1285.78
+2015,"Rathcoole, Dublin",All bedrooms,All property types,1054.93
+2015,"Rush, Dublin",All bedrooms,All property types,1045.18
+2015,"Saggart, Dublin",All bedrooms,All property types,1150.09
+2015,"Sandycove, Dublin",All bedrooms,All property types,1687.5
+2015,"Shankill, Dublin",All bedrooms,All property types,1276.04
+2015,"Skerries, Dublin",All bedrooms,All property types,1102.14
+2015,"Stillorgan, Dublin",All bedrooms,All property types,1549.45
+2015,"Swords, Dublin",All bedrooms,All property types,1139.12
+2015,Dublin 1,All bedrooms,All property types,1168.33
+2015,"I.F.S.C., Dublin 1",All bedrooms,All property types,2192.96
+2015,"Parnell Street, Dublin 1",All bedrooms,All property types,1296.07
+2015,"Spencer Dock, Dublin 1",All bedrooms,All property types,1656.1
+2015,"Summerhill, Dublin 1",All bedrooms,All property types,1020.5
+2015,Dublin 2,All bedrooms,All property types,1457.84
+2015,"Aungier Street, Dublin 2",All bedrooms,All property types,1215.45
+2015,"Charlemont Street, Dublin 2",All bedrooms,All property types,1467.68
+2015,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2001.56
+2015,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2243.13
+2015,"Hanover Quay, Dublin 2",All bedrooms,All property types,1884.66
+2015,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1515.8
+2015,"Pearse Street, Dublin 2",All bedrooms,All property types,1316.32
+2015,"Tara Street, Dublin 2",All bedrooms,All property types,1276.74
+2015,"Temple Bar, Dublin 2",All bedrooms,All property types,1361.95
+2015,"Townsend Street, Dublin 2",All bedrooms,All property types,1405.59
+2015,Dublin 3,All bedrooms,All property types,1171.66
+2015,"Clonliffe, Dublin 3",All bedrooms,All property types,898.74
+2015,"Clontarf, Dublin 3",All bedrooms,All property types,1283.3
+2015,"Drumcondra, Dublin 3",All bedrooms,All property types,1214.38
+2015,"East Wall, Dublin 3",All bedrooms,All property types,1175.26
+2015,"Fairview, Dublin 3",All bedrooms,All property types,1043.62
+2015,"Marino, Dublin 3",All bedrooms,All property types,1370.73
+2015,"North Strand, Dublin 3",All bedrooms,All property types,1073.6
+2015,Dublin 4,All bedrooms,All property types,1619.98
+2015,"Ballsbridge, Dublin 4",All bedrooms,All property types,1723.26
+2015,"Donnybrook, Dublin 4",All bedrooms,All property types,1703.5
+2015,"Irishtown, Dublin 4",All bedrooms,All property types,1428.53
+2015,"Merrion, Dublin 4",All bedrooms,All property types,1551.26
+2015,"Pembroke, Dublin 4",All bedrooms,All property types,1665.01
+2015,"Ringsend, Dublin 4",All bedrooms,All property types,1431.36
+2015,"Sandymount, Dublin 4",All bedrooms,All property types,1686.98
+2015,Dublin 5,All bedrooms,All property types,1198.76
+2015,"Artane, Dublin 5",All bedrooms,All property types,1155.82
+2015,"Killester, Dublin 5",All bedrooms,All property types,1288.9
+2015,"Raheny, Dublin 5",All bedrooms,All property types,1229.63
+2015,Dublin 6,All bedrooms,All property types,1212.36
+2015,"Dartry, Dublin 6",All bedrooms,All property types,1469.8
+2015,"Harolds Cross, Dublin 6",All bedrooms,All property types,1311.18
+2015,"Milltown, Dublin 6",All bedrooms,All property types,1612.72
+2015,"Ranelagh, Dublin 6",All bedrooms,All property types,1327.89
+2015,"Rathgar, Dublin 6",All bedrooms,All property types,1139.69
+2015,"Rathmines, Dublin 6",All bedrooms,All property types,1009.83
+2015,"Terenure, Dublin 6",All bedrooms,All property types,1325.3
+2015,Dublin 6W,All bedrooms,All property types,1332.38
+2015,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1257.04
+2015,"Templeogue, Dublin 6W",All bedrooms,All property types,1447.78
+2015,"Terenure, Dublin 6W",All bedrooms,All property types,1437.26
+2015,Dublin 7,All bedrooms,All property types,1062.07
+2015,"Arbour Hill, Dublin 7",All bedrooms,All property types,1203.15
+2015,"Cabra, Dublin 7",All bedrooms,All property types,966.53
+2015,"Navan Road, Dublin 7",All bedrooms,All property types,1214.3
+2015,"North Circular Road, Dublin 7",All bedrooms,All property types,1060.68
+2015,"Phibsboro, Dublin 7",All bedrooms,All property types,932.48
+2015,"Smithfield, Dublin 7",All bedrooms,All property types,1297.09
+2015,"Stoneybatter, Dublin 7",All bedrooms,All property types,1132.76
+2015,Dublin 8,All bedrooms,All property types,1133.89
+2015,"Christchurch, Dublin 8",All bedrooms,All property types,1150.8
+2015,"Cork Street, Dublin 8",All bedrooms,All property types,1130.52
+2015,"Inchicore, Dublin 8",All bedrooms,All property types,1131.06
+2015,"Islandbridge, Dublin 8",All bedrooms,All property types,1418.0
+2015,"Kilmainham , Dublin 8",All bedrooms,All property types,1190.32
+2015,"Portobello, Dublin 8",All bedrooms,All property types,1068.56
+2015,"Rialto, Dublin 8",All bedrooms,All property types,1122.91
+2015,"South Circular Road, Dublin 8",All bedrooms,All property types,1078.74
+2015,"The Coombe, Dublin 8",All bedrooms,All property types,1205.65
+2015,Dublin 9,All bedrooms,All property types,1297.14
+2015,"Ballymun, Dublin 9",All bedrooms,All property types,957.98
+2015,"Beaumont, Dublin 9",All bedrooms,All property types,1201.6
+2015,"Drumcondra, Dublin 9",All bedrooms,All property types,1250.22
+2015,"Glasnevin, Dublin 9",All bedrooms,All property types,1198.4
+2015,"Santry, Dublin 9",All bedrooms,All property types,1179.61
+2015,"Whitehall, Dublin 9",All bedrooms,All property types,1244.13
+2015,Dublin 10,All bedrooms,All property types,991.45
+2015,"Ballyfermot, Dublin 10",All bedrooms,All property types,982.64
+2015,"Cherry Orchard, Dublin 10",All bedrooms,All property types,978.26
+2015,Dublin 11,All bedrooms,All property types,1096.12
+2015,"Ballymun, Dublin 11",All bedrooms,All property types,946.14
+2015,"Finglas, Dublin 11",All bedrooms,All property types,1078.84
+2015,"Glasnevin, Dublin 11",All bedrooms,All property types,1225.54
+2015,"Meakstown, Dublin 11",All bedrooms,All property types,1056.06
+2015,"St Margarets Road, Dublin 11",All bedrooms,All property types,1132.0
+2015,Dublin 12,All bedrooms,All property types,1158.43
+2015,"Crumlin, Dublin 12",All bedrooms,All property types,1148.82
+2015,"Drimnagh, Dublin 12",All bedrooms,All property types,1198.92
+2015,"Kimmage, Dublin 12",All bedrooms,All property types,1260.65
+2015,"Walkinstown, Dublin 12",All bedrooms,All property types,1163.86
+2015,Dublin 13,All bedrooms,All property types,1263.73
+2015,"Baldoyle, Dublin 13",All bedrooms,All property types,1263.44
+2015,"Balgriffin, Dublin 13",All bedrooms,All property types,1426.12
+2015,"Clongriffin, Dublin 13",All bedrooms,All property types,1170.84
+2015,"Donaghmede, Dublin 13",All bedrooms,All property types,1141.74
+2015,"Sutton, Dublin 13",All bedrooms,All property types,1591.87
+2015,Dublin 14,All bedrooms,All property types,1555.99
+2015,"Churchtown, Dublin 14",All bedrooms,All property types,1544.22
+2015,"Clonskeagh, Dublin 14",All bedrooms,All property types,1798.66
+2015,"Dundrum, Dublin 14",All bedrooms,All property types,1491.18
+2015,"Goatstown, Dublin 14",All bedrooms,All property types,1809.23
+2015,"Rathfarnham, Dublin 14",All bedrooms,All property types,1411.72
+2015,Dublin 15,All bedrooms,All property types,1173.71
+2015,"Ashtown, Dublin 15",All bedrooms,All property types,1202.94
+2015,"Blanchardstown, Dublin 15",All bedrooms,All property types,1127.78
+2015,"Carpenterstown, Dublin 15",All bedrooms,All property types,1200.98
+2015,"Castleknock, Dublin 15",All bedrooms,All property types,1336.04
+2015,"Clonee, Dublin 15",All bedrooms,All property types,1136.16
+2015,"Clonsilla, Dublin 15",All bedrooms,All property types,1166.17
+2015,"Coolmine, Dublin 15",All bedrooms,All property types,1167.38
+2015,"Mulhuddart, Dublin 15",All bedrooms,All property types,1006.19
+2015,"Ongar, Dublin 15",All bedrooms,All property types,1056.66
+2015,"Porterstown, Dublin 15",All bedrooms,All property types,1116.43
+2015,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1185.21
+2015,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1135.32
+2015,Dublin 16,All bedrooms,All property types,1443.06
+2015,"Ballinteer, Dublin 16",All bedrooms,All property types,1516.1
+2015,"Dundrum, Dublin 16",All bedrooms,All property types,1574.84
+2015,"Knocklyon, Dublin 16",All bedrooms,All property types,1391.89
+2015,"Rathfarnham, Dublin 16",All bedrooms,All property types,1415.73
+2015,"Sandyford, Dublin 16",All bedrooms,All property types,1244.53
+2015,Dublin 17,All bedrooms,All property types,1087.35
+2015,"Malahide Road, Dublin 17",All bedrooms,All property types,1116.75
+2015,"Northern Cross, Dublin 17",All bedrooms,All property types,1119.63
+2015,Dublin 18,All bedrooms,All property types,1474.35
+2015,"Cabinteely, Dublin 18",All bedrooms,All property types,1385.56
+2015,"Carrickmines, Dublin 18",All bedrooms,All property types,1442.92
+2015,"Foxrock, Dublin 18",All bedrooms,All property types,2082.88
+2015,"Leopardstown, Dublin 18",All bedrooms,All property types,1592.13
+2015,"Sandyford, Dublin 18",All bedrooms,All property types,1435.26
+2015,"Stepaside, Dublin 18",All bedrooms,All property types,1329.21
+2015,Dublin 20,All bedrooms,All property types,1126.23
+2015,"Chapelizod, Dublin 20",All bedrooms,All property types,1115.97
+2015,"Palmerstown, Dublin 20",All bedrooms,All property types,1224.2
+2015,"Clondalkin, Dublin 22",All bedrooms,All property types,1048.76
+2015,Dublin 24,All bedrooms,All property types,1115.97
+2015,"Ballycullen, Dublin 24",All bedrooms,All property types,1231.81
+2015,"Citywest, Dublin 24",All bedrooms,All property types,1131.21
+2015,"Firhouse, Dublin 24",All bedrooms,All property types,1213.47
+2015,"Tallaght, Dublin 24",All bedrooms,All property types,1118.49
+2016,Dublin,All bedrooms,All property types,1365.36
+2016,"Balbriggan, Dublin",All bedrooms,All property types,995.6
+2016,"Blackrock, Dublin",All bedrooms,All property types,1773.2
+2016,"Booterstown, Dublin",All bedrooms,All property types,1769.95
+2016,"Dalkey, Dublin",All bedrooms,All property types,2102.77
+2016,"Donabate, Dublin",All bedrooms,All property types,1138.14
+2016,"Dun Laoghaire, Dublin",All bedrooms,All property types,1479.23
+2016,"Glenageary, Dublin",All bedrooms,All property types,1865.44
+2016,"Howth, Dublin",All bedrooms,All property types,1522.93
+2016,"Killiney, Dublin",All bedrooms,All property types,1835.39
+2016,"Kinsealy, Dublin",All bedrooms,All property types,1262.92
+2016,"Lucan, Dublin",All bedrooms,All property types,1257.99
+2016,"Lusk, Dublin",All bedrooms,All property types,1148.18
+2016,"Malahide, Dublin",All bedrooms,All property types,1588.18
+2016,"Monkstown, Dublin",All bedrooms,All property types,1488.78
+2016,"Mount Merrion, Dublin",All bedrooms,All property types,2083.56
+2016,"Portmarnock, Dublin",All bedrooms,All property types,1386.49
+2016,"Rathcoole, Dublin",All bedrooms,All property types,1177.81
+2016,"Rush, Dublin",All bedrooms,All property types,1073.69
+2016,"Saggart, Dublin",All bedrooms,All property types,1247.2
+2016,"Sandycove, Dublin",All bedrooms,All property types,1977.12
+2016,"Shankill, Dublin",All bedrooms,All property types,1376.31
+2016,"Skerries, Dublin",All bedrooms,All property types,1206.52
+2016,"Stillorgan, Dublin",All bedrooms,All property types,1661.84
+2016,"Swords, Dublin",All bedrooms,All property types,1235.54
+2016,Dublin 1,All bedrooms,All property types,1248.19
+2016,"I.F.S.C., Dublin 1",All bedrooms,All property types,2057.76
+2016,"Parnell Street, Dublin 1",All bedrooms,All property types,1390.88
+2016,"Spencer Dock, Dublin 1",All bedrooms,All property types,1807.69
+2016,"Summerhill, Dublin 1",All bedrooms,All property types,1075.9
+2016,Dublin 2,All bedrooms,All property types,1587.64
+2016,"Aungier Street, Dublin 2",All bedrooms,All property types,1360.06
+2016,"Charlemont Street, Dublin 2",All bedrooms,All property types,1610.84
+2016,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2154.56
+2016,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2519.13
+2016,"Hanover Quay, Dublin 2",All bedrooms,All property types,2063.48
+2016,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1537.4
+2016,"Pearse Street, Dublin 2",All bedrooms,All property types,1460.95
+2016,"Tara Street, Dublin 2",All bedrooms,All property types,1448.31
+2016,"Temple Bar, Dublin 2",All bedrooms,All property types,1436.75
+2016,"Townsend Street, Dublin 2",All bedrooms,All property types,1534.6
+2016,Dublin 3,All bedrooms,All property types,1274.0
+2016,"Clonliffe, Dublin 3",All bedrooms,All property types,1043.19
+2016,"Clontarf, Dublin 3",All bedrooms,All property types,1388.4
+2016,"Drumcondra, Dublin 3",All bedrooms,All property types,1311.37
+2016,"East Wall, Dublin 3",All bedrooms,All property types,1275.35
+2016,"Fairview, Dublin 3",All bedrooms,All property types,1125.37
+2016,"Marino, Dublin 3",All bedrooms,All property types,1466.1
+2016,"North Strand, Dublin 3",All bedrooms,All property types,1216.87
+2016,Dublin 4,All bedrooms,All property types,1722.77
+2016,"Ballsbridge, Dublin 4",All bedrooms,All property types,1826.39
+2016,"Donnybrook, Dublin 4",All bedrooms,All property types,1835.03
+2016,"Irishtown, Dublin 4",All bedrooms,All property types,1586.65
+2016,"Merrion, Dublin 4",All bedrooms,All property types,1602.33
+2016,"Pembroke, Dublin 4",All bedrooms,All property types,1793.32
+2016,"Ringsend, Dublin 4",All bedrooms,All property types,1550.99
+2016,"Sandymount, Dublin 4",All bedrooms,All property types,1785.35
+2016,Dublin 5,All bedrooms,All property types,1297.76
+2016,"Artane, Dublin 5",All bedrooms,All property types,1226.66
+2016,"Killester, Dublin 5",All bedrooms,All property types,1328.49
+2016,"Raheny, Dublin 5",All bedrooms,All property types,1378.69
+2016,Dublin 6,All bedrooms,All property types,1300.25
+2016,"Dartry, Dublin 6",All bedrooms,All property types,1593.4
+2016,"Harolds Cross, Dublin 6",All bedrooms,All property types,1357.56
+2016,"Milltown, Dublin 6",All bedrooms,All property types,1662.87
+2016,"Ranelagh, Dublin 6",All bedrooms,All property types,1412.78
+2016,"Rathgar, Dublin 6",All bedrooms,All property types,1255.34
+2016,"Rathmines, Dublin 6",All bedrooms,All property types,1098.82
+2016,"Terenure, Dublin 6",All bedrooms,All property types,1409.05
+2016,Dublin 6W,All bedrooms,All property types,1443.3
+2016,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1332.42
+2016,"Templeogue, Dublin 6W",All bedrooms,All property types,1643.8
+2016,"Terenure, Dublin 6W",All bedrooms,All property types,1567.51
+2016,Dublin 7,All bedrooms,All property types,1143.27
+2016,"Arbour Hill, Dublin 7",All bedrooms,All property types,1256.88
+2016,"Cabra, Dublin 7",All bedrooms,All property types,1073.38
+2016,"Navan Road, Dublin 7",All bedrooms,All property types,1338.11
+2016,"North Circular Road, Dublin 7",All bedrooms,All property types,1203.5
+2016,"Phibsboro, Dublin 7",All bedrooms,All property types,979.27
+2016,"Smithfield, Dublin 7",All bedrooms,All property types,1386.6
+2016,"Stoneybatter, Dublin 7",All bedrooms,All property types,1284.13
+2016,Dublin 8,All bedrooms,All property types,1237.11
+2016,"Christchurch, Dublin 8",All bedrooms,All property types,1252.86
+2016,"Cork Street, Dublin 8",All bedrooms,All property types,1216.56
+2016,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1175.34
+2016,"Inchicore, Dublin 8",All bedrooms,All property types,1231.09
+2016,"Islandbridge, Dublin 8",All bedrooms,All property types,1543.54
+2016,"Kilmainham , Dublin 8",All bedrooms,All property types,1296.87
+2016,"Portobello, Dublin 8",All bedrooms,All property types,1183.55
+2016,"Rialto, Dublin 8",All bedrooms,All property types,1184.54
+2016,"South Circular Road, Dublin 8",All bedrooms,All property types,1194.04
+2016,"The Coombe, Dublin 8",All bedrooms,All property types,1263.21
+2016,Dublin 9,All bedrooms,All property types,1336.18
+2016,"Ballymun, Dublin 9",All bedrooms,All property types,1061.26
+2016,"Beaumont, Dublin 9",All bedrooms,All property types,1318.51
+2016,"Drumcondra, Dublin 9",All bedrooms,All property types,1336.86
+2016,"Glasnevin, Dublin 9",All bedrooms,All property types,1311.93
+2016,"Santry, Dublin 9",All bedrooms,All property types,1287.81
+2016,"Whitehall, Dublin 9",All bedrooms,All property types,1355.19
+2016,Dublin 10,All bedrooms,All property types,1062.59
+2016,"Ballyfermot, Dublin 10",All bedrooms,All property types,1049.07
+2016,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1035.38
+2016,Dublin 11,All bedrooms,All property types,1183.04
+2016,"Ballymun, Dublin 11",All bedrooms,All property types,1042.98
+2016,"Finglas, Dublin 11",All bedrooms,All property types,1180.91
+2016,"Glasnevin, Dublin 11",All bedrooms,All property types,1326.95
+2016,"Meakstown, Dublin 11",All bedrooms,All property types,1112.92
+2016,"St Margarets Road, Dublin 11",All bedrooms,All property types,1245.0
+2016,Dublin 12,All bedrooms,All property types,1256.94
+2016,"Crumlin, Dublin 12",All bedrooms,All property types,1258.68
+2016,"Drimnagh, Dublin 12",All bedrooms,All property types,1338.99
+2016,"Kimmage, Dublin 12",All bedrooms,All property types,1379.08
+2016,"Walkinstown, Dublin 12",All bedrooms,All property types,1201.29
+2016,Dublin 13,All bedrooms,All property types,1382.38
+2016,"Baldoyle, Dublin 13",All bedrooms,All property types,1314.54
+2016,"Balgriffin, Dublin 13",All bedrooms,All property types,1567.69
+2016,"Clongriffin, Dublin 13",All bedrooms,All property types,1274.1
+2016,"Donaghmede, Dublin 13",All bedrooms,All property types,1259.69
+2016,"Sutton, Dublin 13",All bedrooms,All property types,1622.13
+2016,Dublin 14,All bedrooms,All property types,1685.32
+2016,"Churchtown, Dublin 14",All bedrooms,All property types,1651.78
+2016,"Clonskeagh, Dublin 14",All bedrooms,All property types,1931.81
+2016,"Dundrum, Dublin 14",All bedrooms,All property types,1607.07
+2016,"Goatstown, Dublin 14",All bedrooms,All property types,1946.47
+2016,"Rathfarnham, Dublin 14",All bedrooms,All property types,1559.86
+2016,Dublin 15,All bedrooms,All property types,1267.46
+2016,"Ashtown, Dublin 15",All bedrooms,All property types,1282.19
+2016,"Blanchardstown, Dublin 15",All bedrooms,All property types,1220.94
+2016,"Carpenterstown, Dublin 15",All bedrooms,All property types,1303.64
+2016,"Castleknock, Dublin 15",All bedrooms,All property types,1441.61
+2016,"Clonee, Dublin 15",All bedrooms,All property types,1216.34
+2016,"Clonsilla, Dublin 15",All bedrooms,All property types,1257.53
+2016,"Coolmine, Dublin 15",All bedrooms,All property types,1203.68
+2016,"Mulhuddart, Dublin 15",All bedrooms,All property types,1107.05
+2016,"Ongar, Dublin 15",All bedrooms,All property types,1149.12
+2016,"Porterstown, Dublin 15",All bedrooms,All property types,1219.26
+2016,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1271.24
+2016,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1222.22
+2016,Dublin 16,All bedrooms,All property types,1563.63
+2016,"Ballinteer, Dublin 16",All bedrooms,All property types,1608.82
+2016,"Dundrum, Dublin 16",All bedrooms,All property types,1687.43
+2016,"Knocklyon, Dublin 16",All bedrooms,All property types,1475.59
+2016,"Rathfarnham, Dublin 16",All bedrooms,All property types,1563.87
+2016,"Sandyford, Dublin 16",All bedrooms,All property types,1371.21
+2016,Dublin 17,All bedrooms,All property types,1156.48
+2016,"Malahide Road, Dublin 17",All bedrooms,All property types,1180.66
+2016,"Northern Cross, Dublin 17",All bedrooms,All property types,1240.67
+2016,Dublin 18,All bedrooms,All property types,1605.82
+2016,"Cabinteely, Dublin 18",All bedrooms,All property types,1510.39
+2016,"Carrickmines, Dublin 18",All bedrooms,All property types,1616.15
+2016,"Foxrock, Dublin 18",All bedrooms,All property types,2222.21
+2016,"Leopardstown, Dublin 18",All bedrooms,All property types,1744.97
+2016,"Sandyford, Dublin 18",All bedrooms,All property types,1558.18
+2016,"Stepaside, Dublin 18",All bedrooms,All property types,1465.74
+2016,Dublin 20,All bedrooms,All property types,1236.51
+2016,"Chapelizod, Dublin 20",All bedrooms,All property types,1203.15
+2016,"Palmerstown, Dublin 20",All bedrooms,All property types,1319.58
+2016,"Clondalkin, Dublin 22",All bedrooms,All property types,1131.35
+2016,Dublin 24,All bedrooms,All property types,1187.3
+2016,"Ballycullen, Dublin 24",All bedrooms,All property types,1331.83
+2016,"Citywest, Dublin 24",All bedrooms,All property types,1228.45
+2016,"Firhouse, Dublin 24",All bedrooms,All property types,1320.81
+2016,"Tallaght, Dublin 24",All bedrooms,All property types,1177.98
+2017,Dublin,All bedrooms,All property types,1484.32
+2017,"Balbriggan, Dublin",All bedrooms,All property types,1117.92
+2017,"Blackrock, Dublin",All bedrooms,All property types,1876.85
+2017,"Booterstown, Dublin",All bedrooms,All property types,1899.4
+2017,"Dalkey, Dublin",All bedrooms,All property types,2231.82
+2017,"Donabate, Dublin",All bedrooms,All property types,1232.22
+2017,"Dun Laoghaire, Dublin",All bedrooms,All property types,1677.02
+2017,"Glenageary, Dublin",All bedrooms,All property types,1984.57
+2017,"Howth, Dublin",All bedrooms,All property types,1708.58
+2017,"Killiney, Dublin",All bedrooms,All property types,2044.12
+2017,"Kinsealy, Dublin",All bedrooms,All property types,1381.49
+2017,"Lucan, Dublin",All bedrooms,All property types,1375.91
+2017,"Lusk, Dublin",All bedrooms,All property types,1247.02
+2017,"Malahide, Dublin",All bedrooms,All property types,1746.46
+2017,"Monkstown, Dublin",All bedrooms,All property types,1671.18
+2017,"Mount Merrion, Dublin",All bedrooms,All property types,2273.18
+2017,"Portmarnock, Dublin",All bedrooms,All property types,1506.88
+2017,"Rathcoole, Dublin",All bedrooms,All property types,1301.19
+2017,"Rush, Dublin",All bedrooms,All property types,1162.34
+2017,"Saggart, Dublin",All bedrooms,All property types,1339.86
+2017,"Sandycove, Dublin",All bedrooms,All property types,2026.26
+2017,"Shankill, Dublin",All bedrooms,All property types,1514.29
+2017,"Skerries, Dublin",All bedrooms,All property types,1289.42
+2017,"Stillorgan, Dublin",All bedrooms,All property types,1806.03
+2017,"Swords, Dublin",All bedrooms,All property types,1344.14
+2017,Dublin 1,All bedrooms,All property types,1314.5
+2017,"I.F.S.C., Dublin 1",All bedrooms,All property types,2147.16
+2017,"Parnell Street, Dublin 1",All bedrooms,All property types,1481.12
+2017,"Spencer Dock, Dublin 1",All bedrooms,All property types,1925.8
+2017,"Summerhill, Dublin 1",All bedrooms,All property types,1147.81
+2017,Dublin 2,All bedrooms,All property types,1692.06
+2017,"Aungier Street, Dublin 2",All bedrooms,All property types,1404.25
+2017,"Charlemont Street, Dublin 2",All bedrooms,All property types,1756.84
+2017,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2291.88
+2017,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2862.2
+2017,"Hanover Quay, Dublin 2",All bedrooms,All property types,2025.36
+2017,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1629.7
+2017,"Pearse Street, Dublin 2",All bedrooms,All property types,1590.53
+2017,"Tara Street, Dublin 2",All bedrooms,All property types,1531.48
+2017,"Temple Bar, Dublin 2",All bedrooms,All property types,1589.56
+2017,"Townsend Street, Dublin 2",All bedrooms,All property types,1697.32
+2017,Dublin 3,All bedrooms,All property types,1348.92
+2017,"Clonliffe, Dublin 3",All bedrooms,All property types,1209.56
+2017,"Clontarf, Dublin 3",All bedrooms,All property types,1517.21
+2017,"Drumcondra, Dublin 3",All bedrooms,All property types,1420.12
+2017,"East Wall, Dublin 3",All bedrooms,All property types,1370.15
+2017,"Fairview, Dublin 3",All bedrooms,All property types,1226.55
+2017,"Marino, Dublin 3",All bedrooms,All property types,1634.75
+2017,"North Strand, Dublin 3",All bedrooms,All property types,1370.3
+2017,Dublin 4,All bedrooms,All property types,1813.77
+2017,"Ballsbridge, Dublin 4",All bedrooms,All property types,2041.53
+2017,"Donnybrook, Dublin 4",All bedrooms,All property types,1914.51
+2017,"Irishtown, Dublin 4",All bedrooms,All property types,1802.92
+2017,"Merrion, Dublin 4",All bedrooms,All property types,1665.15
+2017,"Pembroke, Dublin 4",All bedrooms,All property types,1714.13
+2017,"Ringsend, Dublin 4",All bedrooms,All property types,1696.81
+2017,"Sandymount, Dublin 4",All bedrooms,All property types,1909.7
+2017,Dublin 5,All bedrooms,All property types,1361.46
+2017,"Artane, Dublin 5",All bedrooms,All property types,1398.52
+2017,"Killester, Dublin 5",All bedrooms,All property types,1485.16
+2017,"Raheny, Dublin 5",All bedrooms,All property types,1477.17
+2017,Dublin 6,All bedrooms,All property types,1364.53
+2017,"Dartry, Dublin 6",All bedrooms,All property types,1823.34
+2017,"Harolds Cross, Dublin 6",All bedrooms,All property types,1478.4
+2017,"Milltown, Dublin 6",All bedrooms,All property types,1759.32
+2017,"Ranelagh, Dublin 6",All bedrooms,All property types,1550.68
+2017,"Rathgar, Dublin 6",All bedrooms,All property types,1387.75
+2017,"Rathmines, Dublin 6",All bedrooms,All property types,1177.56
+2017,"Terenure, Dublin 6",All bedrooms,All property types,1486.59
+2017,Dublin 6W,All bedrooms,All property types,1523.76
+2017,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1405.65
+2017,"Templeogue, Dublin 6W",All bedrooms,All property types,1818.27
+2017,"Terenure, Dublin 6W",All bedrooms,All property types,1665.51
+2017,Dublin 7,All bedrooms,All property types,1186.65
+2017,"Arbour Hill, Dublin 7",All bedrooms,All property types,1501.2
+2017,"Cabra, Dublin 7",All bedrooms,All property types,1150.12
+2017,"Navan Road, Dublin 7",All bedrooms,All property types,1430.29
+2017,"North Circular Road, Dublin 7",All bedrooms,All property types,1295.49
+2017,"Phibsboro, Dublin 7",All bedrooms,All property types,1056.72
+2017,"Smithfield, Dublin 7",All bedrooms,All property types,1467.16
+2017,"Stoneybatter, Dublin 7",All bedrooms,All property types,1412.89
+2017,Dublin 8,All bedrooms,All property types,1302.53
+2017,"Christchurch, Dublin 8",All bedrooms,All property types,1419.69
+2017,"Cork Street, Dublin 8",All bedrooms,All property types,1323.24
+2017,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1378.27
+2017,"Inchicore, Dublin 8",All bedrooms,All property types,1345.78
+2017,"Islandbridge, Dublin 8",All bedrooms,All property types,1706.37
+2017,"Kilmainham , Dublin 8",All bedrooms,All property types,1410.19
+2017,"Portobello, Dublin 8",All bedrooms,All property types,1316.87
+2017,"Rialto, Dublin 8",All bedrooms,All property types,1300.92
+2017,"South Circular Road, Dublin 8",All bedrooms,All property types,1260.94
+2017,"The Coombe, Dublin 8",All bedrooms,All property types,1319.97
+2017,Dublin 9,All bedrooms,All property types,1371.13
+2017,"Ballymun, Dublin 9",All bedrooms,All property types,1168.35
+2017,"Beaumont, Dublin 9",All bedrooms,All property types,1437.75
+2017,"Drumcondra, Dublin 9",All bedrooms,All property types,1426.96
+2017,"Glasnevin, Dublin 9",All bedrooms,All property types,1401.49
+2017,"Santry, Dublin 9",All bedrooms,All property types,1382.26
+2017,"Whitehall, Dublin 9",All bedrooms,All property types,1529.05
+2017,Dublin 10,All bedrooms,All property types,1098.85
+2017,"Ballyfermot, Dublin 10",All bedrooms,All property types,1165.49
+2017,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1155.25
+2017,Dublin 11,All bedrooms,All property types,1249.08
+2017,"Ballymun, Dublin 11",All bedrooms,All property types,1120.5
+2017,"Finglas, Dublin 11",All bedrooms,All property types,1280.06
+2017,"Glasnevin, Dublin 11",All bedrooms,All property types,1388.77
+2017,"Meakstown, Dublin 11",All bedrooms,All property types,1221.79
+2017,"St Margarets Road, Dublin 11",All bedrooms,All property types,1319.47
+2017,Dublin 12,All bedrooms,All property types,1302.54
+2017,"Crumlin, Dublin 12",All bedrooms,All property types,1326.36
+2017,"Drimnagh, Dublin 12",All bedrooms,All property types,1430.52
+2017,"Kimmage, Dublin 12",All bedrooms,All property types,1459.17
+2017,"Walkinstown, Dublin 12",All bedrooms,All property types,1319.34
+2017,Dublin 13,All bedrooms,All property types,1473.83
+2017,"Baldoyle, Dublin 13",All bedrooms,All property types,1425.9
+2017,"Balgriffin, Dublin 13",All bedrooms,All property types,1721.05
+2017,"Clongriffin, Dublin 13",All bedrooms,All property types,1386.01
+2017,"Donaghmede, Dublin 13",All bedrooms,All property types,1375.37
+2017,"Sutton, Dublin 13",All bedrooms,All property types,1727.0
+2017,Dublin 14,All bedrooms,All property types,1782.03
+2017,"Churchtown, Dublin 14",All bedrooms,All property types,1782.54
+2017,"Clonskeagh, Dublin 14",All bedrooms,All property types,1990.09
+2017,"Dundrum, Dublin 14",All bedrooms,All property types,1740.45
+2017,"Goatstown, Dublin 14",All bedrooms,All property types,2114.49
+2017,"Rathfarnham, Dublin 14",All bedrooms,All property types,1656.94
+2017,Dublin 15,All bedrooms,All property types,1331.43
+2017,"Ashtown, Dublin 15",All bedrooms,All property types,1392.26
+2017,"Blanchardstown, Dublin 15",All bedrooms,All property types,1324.04
+2017,"Carpenterstown, Dublin 15",All bedrooms,All property types,1420.54
+2017,"Castleknock, Dublin 15",All bedrooms,All property types,1573.54
+2017,"Clonee, Dublin 15",All bedrooms,All property types,1319.01
+2017,"Clonsilla, Dublin 15",All bedrooms,All property types,1363.54
+2017,"Coolmine, Dublin 15",All bedrooms,All property types,1241.73
+2017,"Mulhuddart, Dublin 15",All bedrooms,All property types,1209.47
+2017,"Ongar, Dublin 15",All bedrooms,All property types,1267.28
+2017,"Porterstown, Dublin 15",All bedrooms,All property types,1282.94
+2017,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1337.19
+2017,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1340.04
+2017,Dublin 16,All bedrooms,All property types,1589.69
+2017,"Ballinteer, Dublin 16",All bedrooms,All property types,1715.03
+2017,"Dundrum, Dublin 16",All bedrooms,All property types,1791.63
+2017,"Knocklyon, Dublin 16",All bedrooms,All property types,1573.97
+2017,"Rathfarnham, Dublin 16",All bedrooms,All property types,1673.42
+2017,"Sandyford, Dublin 16",All bedrooms,All property types,1470.43
+2017,Dublin 17,All bedrooms,All property types,1204.69
+2017,"Malahide Road, Dublin 17",All bedrooms,All property types,1373.87
+2017,"Northern Cross, Dublin 17",All bedrooms,All property types,1391.6
+2017,Dublin 18,All bedrooms,All property types,1691.0
+2017,"Cabinteely, Dublin 18",All bedrooms,All property types,1645.51
+2017,"Carrickmines, Dublin 18",All bedrooms,All property types,1786.04
+2017,"Foxrock, Dublin 18",All bedrooms,All property types,2461.7
+2017,"Leopardstown, Dublin 18",All bedrooms,All property types,1869.3
+2017,"Sandyford, Dublin 18",All bedrooms,All property types,1682.85
+2017,"Stepaside, Dublin 18",All bedrooms,All property types,1567.78
+2017,Dublin 20,All bedrooms,All property types,1289.44
+2017,"Chapelizod, Dublin 20",All bedrooms,All property types,1301.06
+2017,"Palmerstown, Dublin 20",All bedrooms,All property types,1398.36
+2017,"Clondalkin, Dublin 22",All bedrooms,All property types,1228.8
+2017,Dublin 24,All bedrooms,All property types,1245.14
+2017,"Ballycullen, Dublin 24",All bedrooms,All property types,1436.41
+2017,"Citywest, Dublin 24",All bedrooms,All property types,1333.48
+2017,"Firhouse, Dublin 24",All bedrooms,All property types,1402.81
+2017,"Tallaght, Dublin 24",All bedrooms,All property types,1294.39
+2018,Dublin,All bedrooms,All property types,1609.84
+2018,"Balbriggan, Dublin",All bedrooms,All property types,1203.7
+2018,"Blackrock, Dublin",All bedrooms,All property types,1984.48
+2018,"Booterstown, Dublin",All bedrooms,All property types,2049.24
+2018,"Dalkey, Dublin",All bedrooms,All property types,2466.07
+2018,"Donabate, Dublin",All bedrooms,All property types,1315.88
+2018,"Dun Laoghaire, Dublin",All bedrooms,All property types,1876.93
+2018,"Glenageary, Dublin",All bedrooms,All property types,2098.64
+2018,"Howth, Dublin",All bedrooms,All property types,1797.33
+2018,"Killiney, Dublin",All bedrooms,All property types,2168.76
+2018,"Kinsealy, Dublin",All bedrooms,All property types,1477.03
+2018,"Lucan, Dublin",All bedrooms,All property types,1567.52
+2018,"Lusk, Dublin",All bedrooms,All property types,1343.73
+2018,"Malahide, Dublin",All bedrooms,All property types,1925.37
+2018,"Monkstown, Dublin",All bedrooms,All property types,1741.88
+2018,"Mount Merrion, Dublin",All bedrooms,All property types,2354.39
+2018,"Portmarnock, Dublin",All bedrooms,All property types,1590.71
+2018,"Rathcoole, Dublin",All bedrooms,All property types,1388.63
+2018,"Rush, Dublin",All bedrooms,All property types,1311.06
+2018,"Saggart, Dublin",All bedrooms,All property types,1448.35
+2018,"Sandycove, Dublin",All bedrooms,All property types,2250.49
+2018,"Shankill, Dublin",All bedrooms,All property types,1633.9
+2018,"Skerries, Dublin",All bedrooms,All property types,1399.53
+2018,"Stillorgan, Dublin",All bedrooms,All property types,1884.4
+2018,"Swords, Dublin",All bedrooms,All property types,1435.18
+2018,Dublin 1,All bedrooms,All property types,1479.6
+2018,"I.F.S.C., Dublin 1",All bedrooms,All property types,2374.79
+2018,"Parnell Street, Dublin 1",All bedrooms,All property types,1662.22
+2018,"Spencer Dock, Dublin 1",All bedrooms,All property types,2079.6
+2018,"Summerhill, Dublin 1",All bedrooms,All property types,1474.06
+2018,Dublin 2,All bedrooms,All property types,1929.63
+2018,"Aungier Street, Dublin 2",All bedrooms,All property types,1648.45
+2018,"Charlemont Street, Dublin 2",All bedrooms,All property types,1841.35
+2018,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2428.65
+2018,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2898.25
+2018,"Hanover Quay, Dublin 2",All bedrooms,All property types,2190.18
+2018,"Lower Mount Street, Dublin 2",All bedrooms,All property types,1801.4
+2018,"Pearse Street, Dublin 2",All bedrooms,All property types,1714.4
+2018,"Tara Street, Dublin 2",All bedrooms,All property types,1532.77
+2018,"Temple Bar, Dublin 2",All bedrooms,All property types,1698.04
+2018,"Townsend Street, Dublin 2",All bedrooms,All property types,1774.49
+2018,Dublin 3,All bedrooms,All property types,1534.95
+2018,"Clonliffe, Dublin 3",All bedrooms,All property types,1401.57
+2018,"Clontarf, Dublin 3",All bedrooms,All property types,1629.79
+2018,"Drumcondra, Dublin 3",All bedrooms,All property types,1542.42
+2018,"East Wall, Dublin 3",All bedrooms,All property types,1589.21
+2018,"Fairview, Dublin 3",All bedrooms,All property types,1366.98
+2018,"Marino, Dublin 3",All bedrooms,All property types,1746.09
+2018,"North Strand, Dublin 3",All bedrooms,All property types,1441.68
+2018,Dublin 4,All bedrooms,All property types,2025.13
+2018,"Ballsbridge, Dublin 4",All bedrooms,All property types,2244.29
+2018,"Donnybrook, Dublin 4",All bedrooms,All property types,2002.11
+2018,"Irishtown, Dublin 4",All bedrooms,All property types,1942.8
+2018,"Merrion, Dublin 4",All bedrooms,All property types,1794.68
+2018,"Pembroke, Dublin 4",All bedrooms,All property types,2175.97
+2018,"Ringsend, Dublin 4",All bedrooms,All property types,1831.78
+2018,"Sandymount, Dublin 4",All bedrooms,All property types,2096.96
+2018,Dublin 5,All bedrooms,All property types,1446.8
+2018,"Artane, Dublin 5",All bedrooms,All property types,1560.25
+2018,"Killester, Dublin 5",All bedrooms,All property types,1713.06
+2018,"Raheny, Dublin 5",All bedrooms,All property types,1586.59
+2018,Dublin 6,All bedrooms,All property types,1491.63
+2018,"Dartry, Dublin 6",All bedrooms,All property types,1898.5
+2018,"Harolds Cross, Dublin 6",All bedrooms,All property types,1579.25
+2018,"Milltown, Dublin 6",All bedrooms,All property types,1980.77
+2018,"Ranelagh, Dublin 6",All bedrooms,All property types,1677.5
+2018,"Rathgar, Dublin 6",All bedrooms,All property types,1536.28
+2018,"Rathmines, Dublin 6",All bedrooms,All property types,1264.46
+2018,"Terenure, Dublin 6",All bedrooms,All property types,1413.68
+2018,Dublin 6W,All bedrooms,All property types,1692.73
+2018,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1512.04
+2018,"Templeogue, Dublin 6W",All bedrooms,All property types,1889.45
+2018,"Terenure, Dublin 6W",All bedrooms,All property types,1792.46
+2018,Dublin 7,All bedrooms,All property types,1277.79
+2018,"Arbour Hill, Dublin 7",All bedrooms,All property types,1580.26
+2018,"Cabra, Dublin 7",All bedrooms,All property types,1242.94
+2018,"Navan Road, Dublin 7",All bedrooms,All property types,1455.62
+2018,"North Circular Road, Dublin 7",All bedrooms,All property types,1273.25
+2018,"Phibsboro, Dublin 7",All bedrooms,All property types,1149.49
+2018,"Smithfield, Dublin 7",All bedrooms,All property types,1599.98
+2018,"Stoneybatter, Dublin 7",All bedrooms,All property types,1472.79
+2018,Dublin 8,All bedrooms,All property types,1439.39
+2018,"Christchurch, Dublin 8",All bedrooms,All property types,1568.13
+2018,"Cork Street, Dublin 8",All bedrooms,All property types,1432.59
+2018,"Inchicore, Dublin 8",All bedrooms,All property types,1412.34
+2018,"Islandbridge, Dublin 8",All bedrooms,All property types,1815.52
+2018,"Kilmainham , Dublin 8",All bedrooms,All property types,1535.38
+2018,"Portobello, Dublin 8",All bedrooms,All property types,1441.98
+2018,"Rialto, Dublin 8",All bedrooms,All property types,1382.94
+2018,"South Circular Road, Dublin 8",All bedrooms,All property types,1326.44
+2018,"The Coombe, Dublin 8",All bedrooms,All property types,1485.38
+2018,Dublin 9,All bedrooms,All property types,1510.81
+2018,"Ballymun, Dublin 9",All bedrooms,All property types,1290.78
+2018,"Beaumont, Dublin 9",All bedrooms,All property types,1599.46
+2018,"Drumcondra, Dublin 9",All bedrooms,All property types,1577.18
+2018,"Glasnevin, Dublin 9",All bedrooms,All property types,1535.9
+2018,"Santry, Dublin 9",All bedrooms,All property types,1495.94
+2018,"Whitehall, Dublin 9",All bedrooms,All property types,1555.14
+2018,Dublin 10,All bedrooms,All property types,1220.44
+2018,"Ballyfermot, Dublin 10",All bedrooms,All property types,1303.94
+2018,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1327.41
+2018,Dublin 11,All bedrooms,All property types,1324.1
+2018,"Ballymun, Dublin 11",All bedrooms,All property types,1169.71
+2018,"Finglas, Dublin 11",All bedrooms,All property types,1407.82
+2018,"Glasnevin, Dublin 11",All bedrooms,All property types,1452.51
+2018,"Meakstown, Dublin 11",All bedrooms,All property types,1305.56
+2018,"St Margarets Road, Dublin 11",All bedrooms,All property types,1402.58
+2018,Dublin 12,All bedrooms,All property types,1387.47
+2018,"Crumlin, Dublin 12",All bedrooms,All property types,1421.87
+2018,"Drimnagh, Dublin 12",All bedrooms,All property types,1512.98
+2018,"Kimmage, Dublin 12",All bedrooms,All property types,1568.32
+2018,"Walkinstown, Dublin 12",All bedrooms,All property types,1484.16
+2018,Dublin 13,All bedrooms,All property types,1558.15
+2018,"Baldoyle, Dublin 13",All bedrooms,All property types,1550.11
+2018,"Balgriffin, Dublin 13",All bedrooms,All property types,1838.01
+2018,"Clongriffin, Dublin 13",All bedrooms,All property types,1488.0
+2018,"Donaghmede, Dublin 13",All bedrooms,All property types,1438.15
+2018,"Sutton, Dublin 13",All bedrooms,All property types,1897.8
+2018,Dublin 14,All bedrooms,All property types,1899.6
+2018,"Churchtown, Dublin 14",All bedrooms,All property types,1990.72
+2018,"Clonskeagh, Dublin 14",All bedrooms,All property types,2095.11
+2018,"Dundrum, Dublin 14",All bedrooms,All property types,1903.79
+2018,"Goatstown, Dublin 14",All bedrooms,All property types,2168.81
+2018,"Rathfarnham, Dublin 14",All bedrooms,All property types,1752.66
+2018,Dublin 15,All bedrooms,All property types,1444.41
+2018,"Ashtown, Dublin 15",All bedrooms,All property types,1508.83
+2018,"Blanchardstown, Dublin 15",All bedrooms,All property types,1420.18
+2018,"Carpenterstown, Dublin 15",All bedrooms,All property types,1517.45
+2018,"Castleknock, Dublin 15",All bedrooms,All property types,1668.18
+2018,"Clonee, Dublin 15",All bedrooms,All property types,1439.63
+2018,"Clonsilla, Dublin 15",All bedrooms,All property types,1604.25
+2018,"Coolmine, Dublin 15",All bedrooms,All property types,1387.76
+2018,"Mulhuddart, Dublin 15",All bedrooms,All property types,1316.28
+2018,"Ongar, Dublin 15",All bedrooms,All property types,1385.74
+2018,"Porterstown, Dublin 15",All bedrooms,All property types,1527.93
+2018,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1427.11
+2018,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1468.69
+2018,Dublin 16,All bedrooms,All property types,1717.55
+2018,"Ballinteer, Dublin 16",All bedrooms,All property types,1832.24
+2018,"Dundrum, Dublin 16",All bedrooms,All property types,1865.64
+2018,"Knocklyon, Dublin 16",All bedrooms,All property types,1662.09
+2018,"Rathfarnham, Dublin 16",All bedrooms,All property types,1785.6
+2018,"Sandyford, Dublin 16",All bedrooms,All property types,1455.38
+2018,Dublin 17,All bedrooms,All property types,1303.25
+2018,"Malahide Road, Dublin 17",All bedrooms,All property types,1630.1
+2018,"Northern Cross, Dublin 17",All bedrooms,All property types,1501.23
+2018,Dublin 18,All bedrooms,All property types,1734.89
+2018,"Cabinteely, Dublin 18",All bedrooms,All property types,1752.89
+2018,"Carrickmines, Dublin 18",All bedrooms,All property types,1787.03
+2018,"Foxrock, Dublin 18",All bedrooms,All property types,2610.01
+2018,"Leopardstown, Dublin 18",All bedrooms,All property types,1990.34
+2018,"Sandyford, Dublin 18",All bedrooms,All property types,1760.95
+2018,"Stepaside, Dublin 18",All bedrooms,All property types,1644.1
+2018,Dublin 20,All bedrooms,All property types,1327.43
+2018,"Chapelizod, Dublin 20",All bedrooms,All property types,1420.45
+2018,"Palmerstown, Dublin 20",All bedrooms,All property types,1484.48
+2018,"Clondalkin, Dublin 22",All bedrooms,All property types,1361.29
+2018,Dublin 24,All bedrooms,All property types,1303.53
+2018,"Ballycullen, Dublin 24",All bedrooms,All property types,1526.21
+2018,"Citywest, Dublin 24",All bedrooms,All property types,1467.65
+2018,"Firhouse, Dublin 24",All bedrooms,All property types,1503.57
+2018,"Tallaght, Dublin 24",All bedrooms,All property types,1390.09
+2019,Dublin,All bedrooms,All property types,1694.79
+2019,"Balbriggan, Dublin",All bedrooms,All property types,1318.11
+2019,"Blackrock, Dublin",All bedrooms,All property types,2093.84
+2019,"Booterstown, Dublin",All bedrooms,All property types,2145.4
+2019,"Dalkey, Dublin",All bedrooms,All property types,2608.31
+2019,"Donabate, Dublin",All bedrooms,All property types,1481.9
+2019,"Dun Laoghaire, Dublin",All bedrooms,All property types,1943.69
+2019,"Glenageary, Dublin",All bedrooms,All property types,2336.77
+2019,"Howth, Dublin",All bedrooms,All property types,1901.98
+2019,"Killiney, Dublin",All bedrooms,All property types,2257.57
+2019,"Kinsealy, Dublin",All bedrooms,All property types,1592.13
+2019,"Lucan, Dublin",All bedrooms,All property types,1650.23
+2019,"Lusk, Dublin",All bedrooms,All property types,1424.43
+2019,"Malahide, Dublin",All bedrooms,All property types,2016.64
+2019,"Monkstown, Dublin",All bedrooms,All property types,1831.49
+2019,"Mount Merrion, Dublin",All bedrooms,All property types,2614.72
+2019,"Portmarnock, Dublin",All bedrooms,All property types,1709.0
+2019,"Rathcoole, Dublin",All bedrooms,All property types,1481.06
+2019,"Rush, Dublin",All bedrooms,All property types,1406.06
+2019,"Saggart, Dublin",All bedrooms,All property types,1589.29
+2019,"Sandycove, Dublin",All bedrooms,All property types,2184.15
+2019,"Shankill, Dublin",All bedrooms,All property types,1664.94
+2019,"Skerries, Dublin",All bedrooms,All property types,1472.67
+2019,"Stillorgan, Dublin",All bedrooms,All property types,1918.28
+2019,"Swords, Dublin",All bedrooms,All property types,1516.47
+2019,Dublin 1,All bedrooms,All property types,1598.89
+2019,"I.F.S.C., Dublin 1",All bedrooms,All property types,1849.57
+2019,"Parnell Street, Dublin 1",All bedrooms,All property types,1733.8
+2019,"Spencer Dock, Dublin 1",All bedrooms,All property types,2144.42
+2019,"Summerhill, Dublin 1",All bedrooms,All property types,1631.04
+2019,Dublin 2,All bedrooms,All property types,2176.48
+2019,"Aungier Street, Dublin 2",All bedrooms,All property types,1857.27
+2019,"Charlemont Street, Dublin 2",All bedrooms,All property types,1956.88
+2019,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2457.29
+2019,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2943.03
+2019,"Hanover Quay, Dublin 2",All bedrooms,All property types,2427.73
+2019,"Pearse Street, Dublin 2",All bedrooms,All property types,1799.15
+2019,"Temple Bar, Dublin 2",All bedrooms,All property types,1865.04
+2019,"Townsend Street, Dublin 2",All bedrooms,All property types,1862.96
+2019,Dublin 3,All bedrooms,All property types,1644.06
+2019,"Clonliffe, Dublin 3",All bedrooms,All property types,1476.05
+2019,"Clontarf, Dublin 3",All bedrooms,All property types,1690.6
+2019,"Drumcondra, Dublin 3",All bedrooms,All property types,1569.97
+2019,"East Wall, Dublin 3",All bedrooms,All property types,1790.9
+2019,"Fairview, Dublin 3",All bedrooms,All property types,1426.14
+2019,"Marino, Dublin 3",All bedrooms,All property types,1744.61
+2019,"North Strand, Dublin 3",All bedrooms,All property types,1562.48
+2019,Dublin 4,All bedrooms,All property types,2194.47
+2019,"Ballsbridge, Dublin 4",All bedrooms,All property types,2395.95
+2019,"Donnybrook, Dublin 4",All bedrooms,All property types,2092.43
+2019,"Irishtown, Dublin 4",All bedrooms,All property types,1939.89
+2019,"Merrion, Dublin 4",All bedrooms,All property types,1884.98
+2019,"Pembroke, Dublin 4",All bedrooms,All property types,2187.63
+2019,"Ringsend, Dublin 4",All bedrooms,All property types,1921.03
+2019,"Sandymount, Dublin 4",All bedrooms,All property types,2260.86
+2019,Dublin 5,All bedrooms,All property types,1571.75
+2019,"Artane, Dublin 5",All bedrooms,All property types,1635.99
+2019,"Killester, Dublin 5",All bedrooms,All property types,1750.26
+2019,"Raheny, Dublin 5",All bedrooms,All property types,1673.98
+2019,Dublin 6,All bedrooms,All property types,1605.39
+2019,"Dartry, Dublin 6",All bedrooms,All property types,2185.71
+2019,"Harolds Cross, Dublin 6",All bedrooms,All property types,1583.63
+2019,"Milltown, Dublin 6",All bedrooms,All property types,2040.73
+2019,"Ranelagh, Dublin 6",All bedrooms,All property types,1777.79
+2019,"Rathgar, Dublin 6",All bedrooms,All property types,1570.35
+2019,"Rathmines, Dublin 6",All bedrooms,All property types,1370.3
+2019,"Terenure, Dublin 6",All bedrooms,All property types,1733.24
+2019,Dublin 6W,All bedrooms,All property types,1789.26
+2019,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1569.87
+2019,"Templeogue, Dublin 6W",All bedrooms,All property types,1940.72
+2019,"Terenure, Dublin 6W",All bedrooms,All property types,1906.72
+2019,Dublin 7,All bedrooms,All property types,1412.29
+2019,"Arbour Hill, Dublin 7",All bedrooms,All property types,1683.31
+2019,"Cabra, Dublin 7",All bedrooms,All property types,1342.8
+2019,"Navan Road, Dublin 7",All bedrooms,All property types,1531.33
+2019,"North Circular Road, Dublin 7",All bedrooms,All property types,1352.56
+2019,"Phibsboro, Dublin 7",All bedrooms,All property types,1196.07
+2019,"Smithfield, Dublin 7",All bedrooms,All property types,1677.2
+2019,"Stoneybatter, Dublin 7",All bedrooms,All property types,1562.81
+2019,Dublin 8,All bedrooms,All property types,1564.75
+2019,"Christchurch, Dublin 8",All bedrooms,All property types,1633.41
+2019,"Cork Street, Dublin 8",All bedrooms,All property types,1519.18
+2019,"Inchicore, Dublin 8",All bedrooms,All property types,1477.23
+2019,"Islandbridge, Dublin 8",All bedrooms,All property types,1870.99
+2019,"Kilmainham , Dublin 8",All bedrooms,All property types,1592.13
+2019,"Portobello, Dublin 8",All bedrooms,All property types,1513.49
+2019,"Rialto, Dublin 8",All bedrooms,All property types,1462.42
+2019,"South Circular Road, Dublin 8",All bedrooms,All property types,1506.05
+2019,"The Coombe, Dublin 8",All bedrooms,All property types,1616.32
+2019,Dublin 9,All bedrooms,All property types,1630.25
+2019,"Ballymun, Dublin 9",All bedrooms,All property types,1415.0
+2019,"Beaumont, Dublin 9",All bedrooms,All property types,1692.33
+2019,"Drumcondra, Dublin 9",All bedrooms,All property types,1634.25
+2019,"Glasnevin, Dublin 9",All bedrooms,All property types,1604.85
+2019,"Santry, Dublin 9",All bedrooms,All property types,1600.76
+2019,"Whitehall, Dublin 9",All bedrooms,All property types,1668.18
+2019,Dublin 10,All bedrooms,All property types,1321.83
+2019,"Ballyfermot, Dublin 10",All bedrooms,All property types,1379.85
+2019,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1424.75
+2019,Dublin 11,All bedrooms,All property types,1416.03
+2019,"Ballymun, Dublin 11",All bedrooms,All property types,1416.18
+2019,"Finglas, Dublin 11",All bedrooms,All property types,1451.45
+2019,"Glasnevin, Dublin 11",All bedrooms,All property types,1525.01
+2019,"Meakstown, Dublin 11",All bedrooms,All property types,1419.97
+2019,"St Margarets Road, Dublin 11",All bedrooms,All property types,1411.34
+2019,Dublin 12,All bedrooms,All property types,1570.68
+2019,"Crumlin, Dublin 12",All bedrooms,All property types,1570.57
+2019,"Drimnagh, Dublin 12",All bedrooms,All property types,1604.51
+2019,"Kimmage, Dublin 12",All bedrooms,All property types,1644.91
+2019,"Walkinstown, Dublin 12",All bedrooms,All property types,1527.9
+2019,Dublin 13,All bedrooms,All property types,1634.28
+2019,"Baldoyle, Dublin 13",All bedrooms,All property types,1595.64
+2019,"Balgriffin, Dublin 13",All bedrooms,All property types,1894.99
+2019,"Clongriffin, Dublin 13",All bedrooms,All property types,1533.28
+2019,"Donaghmede, Dublin 13",All bedrooms,All property types,1440.04
+2019,"Sutton, Dublin 13",All bedrooms,All property types,1959.12
+2019,Dublin 14,All bedrooms,All property types,2016.21
+2019,"Churchtown, Dublin 14",All bedrooms,All property types,2191.18
+2019,"Clonskeagh, Dublin 14",All bedrooms,All property types,2214.05
+2019,"Dundrum, Dublin 14",All bedrooms,All property types,1895.67
+2019,"Goatstown, Dublin 14",All bedrooms,All property types,2335.8
+2019,"Rathfarnham, Dublin 14",All bedrooms,All property types,1914.21
+2019,Dublin 15,All bedrooms,All property types,1542.86
+2019,"Ashtown, Dublin 15",All bedrooms,All property types,1639.03
+2019,"Blanchardstown, Dublin 15",All bedrooms,All property types,1495.97
+2019,"Carpenterstown, Dublin 15",All bedrooms,All property types,1621.63
+2019,"Castleknock, Dublin 15",All bedrooms,All property types,1741.28
+2019,"Clonee, Dublin 15",All bedrooms,All property types,1497.26
+2019,"Clonsilla, Dublin 15",All bedrooms,All property types,1674.28
+2019,"Coolmine, Dublin 15",All bedrooms,All property types,1570.76
+2019,"Mulhuddart, Dublin 15",All bedrooms,All property types,1372.55
+2019,"Ongar, Dublin 15",All bedrooms,All property types,1430.62
+2019,"Porterstown, Dublin 15",All bedrooms,All property types,1592.19
+2019,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1482.86
+2019,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1555.86
+2019,Dublin 16,All bedrooms,All property types,1840.56
+2019,"Ballinteer, Dublin 16",All bedrooms,All property types,1878.41
+2019,"Dundrum, Dublin 16",All bedrooms,All property types,1906.73
+2019,"Knocklyon, Dublin 16",All bedrooms,All property types,1801.27
+2019,"Rathfarnham, Dublin 16",All bedrooms,All property types,1872.76
+2019,"Sandyford, Dublin 16",All bedrooms,All property types,1738.14
+2019,Dublin 17,All bedrooms,All property types,1414.19
+2019,"Malahide Road, Dublin 17",All bedrooms,All property types,1661.61
+2019,Dublin 18,All bedrooms,All property types,1859.13
+2019,"Cabinteely, Dublin 18",All bedrooms,All property types,1871.41
+2019,"Carrickmines, Dublin 18",All bedrooms,All property types,1887.13
+2019,"Foxrock, Dublin 18",All bedrooms,All property types,2646.68
+2019,"Leopardstown, Dublin 18",All bedrooms,All property types,2029.04
+2019,"Sandyford, Dublin 18",All bedrooms,All property types,1815.71
+2019,"Stepaside, Dublin 18",All bedrooms,All property types,1741.59
+2019,Dublin 20,All bedrooms,All property types,1371.42
+2019,"Chapelizod, Dublin 20",All bedrooms,All property types,1466.11
+2019,"Palmerstown, Dublin 20",All bedrooms,All property types,1545.8
+2019,"Clondalkin, Dublin 22",All bedrooms,All property types,1473.34
+2019,Dublin 24,All bedrooms,All property types,1410.27
+2019,"Ballycullen, Dublin 24",All bedrooms,All property types,1610.76
+2019,"Citywest, Dublin 24",All bedrooms,All property types,1535.19
+2019,"Firhouse, Dublin 24",All bedrooms,All property types,1628.97
+2019,"Tallaght, Dublin 24",All bedrooms,All property types,1463.65
+2020,Dublin,All bedrooms,All property types,1737.36
+2020,"Balbriggan, Dublin",All bedrooms,All property types,1373.24
+2020,"Blackrock, Dublin",All bedrooms,All property types,2135.1
+2020,"Booterstown, Dublin",All bedrooms,All property types,2219.34
+2020,"Dalkey, Dublin",All bedrooms,All property types,2544.47
+2020,"Donabate, Dublin",All bedrooms,All property types,1611.03
+2020,"Dun Laoghaire, Dublin",All bedrooms,All property types,1984.83
+2020,"Glenageary, Dublin",All bedrooms,All property types,2475.32
+2020,"Howth, Dublin",All bedrooms,All property types,1910.81
+2020,"Killiney, Dublin",All bedrooms,All property types,2331.93
+2020,"Kinsealy, Dublin",All bedrooms,All property types,1628.23
+2020,"Lucan, Dublin",All bedrooms,All property types,1671.8
+2020,"Lusk, Dublin",All bedrooms,All property types,1495.67
+2020,"Malahide, Dublin",All bedrooms,All property types,2048.83
+2020,"Monkstown, Dublin",All bedrooms,All property types,1850.61
+2020,"Mount Merrion, Dublin",All bedrooms,All property types,2658.42
+2020,"Portmarnock, Dublin",All bedrooms,All property types,1844.15
+2020,"Rathcoole, Dublin",All bedrooms,All property types,1533.8
+2020,"Rush, Dublin",All bedrooms,All property types,1438.07
+2020,"Saggart, Dublin",All bedrooms,All property types,1614.56
+2020,"Sandycove, Dublin",All bedrooms,All property types,2188.12
+2020,"Shankill, Dublin",All bedrooms,All property types,1777.12
+2020,"Skerries, Dublin",All bedrooms,All property types,1503.39
+2020,"Stillorgan, Dublin",All bedrooms,All property types,1985.52
+2020,"Swords, Dublin",All bedrooms,All property types,1548.07
+2020,Dublin 1,All bedrooms,All property types,1650.77
+2020,"I.F.S.C., Dublin 1",All bedrooms,All property types,1849.21
+2020,"Parnell Street, Dublin 1",All bedrooms,All property types,1728.19
+2020,"Spencer Dock, Dublin 1",All bedrooms,All property types,2136.25
+2020,"Summerhill, Dublin 1",All bedrooms,All property types,1608.67
+2020,Dublin 2,All bedrooms,All property types,2166.85
+2020,"Charlemont Street, Dublin 2",All bedrooms,All property types,2072.26
+2020,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2461.34
+2020,"Grand Canal Square, Dublin 2",All bedrooms,All property types,2857.7
+2020,"Hanover Quay, Dublin 2",All bedrooms,All property types,2410.99
+2020,"Pearse Street, Dublin 2",All bedrooms,All property types,1781.72
+2020,"Tara Street, Dublin 2",All bedrooms,All property types,1742.33
+2020,"Temple Bar, Dublin 2",All bedrooms,All property types,1820.38
+2020,"Townsend Street, Dublin 2",All bedrooms,All property types,1792.04
+2020,Dublin 3,All bedrooms,All property types,1684.15
+2020,"Clonliffe, Dublin 3",All bedrooms,All property types,1520.44
+2020,"Clontarf, Dublin 3",All bedrooms,All property types,1727.48
+2020,"Drumcondra, Dublin 3",All bedrooms,All property types,1566.77
+2020,"East Wall, Dublin 3",All bedrooms,All property types,1786.57
+2020,"Fairview, Dublin 3",All bedrooms,All property types,1456.01
+2020,"Marino, Dublin 3",All bedrooms,All property types,1751.01
+2020,"North Strand, Dublin 3",All bedrooms,All property types,1690.68
+2020,Dublin 4,All bedrooms,All property types,2224.72
+2020,"Ballsbridge, Dublin 4",All bedrooms,All property types,2416.56
+2020,"Donnybrook, Dublin 4",All bedrooms,All property types,2073.35
+2020,"Irishtown, Dublin 4",All bedrooms,All property types,2003.66
+2020,"Merrion, Dublin 4",All bedrooms,All property types,2002.54
+2020,"Pembroke, Dublin 4",All bedrooms,All property types,2156.86
+2020,"Ringsend, Dublin 4",All bedrooms,All property types,1953.05
+2020,"Sandymount, Dublin 4",All bedrooms,All property types,2257.64
+2020,Dublin 5,All bedrooms,All property types,1682.26
+2020,"Artane, Dublin 5",All bedrooms,All property types,1632.25
+2020,"Killester, Dublin 5",All bedrooms,All property types,1812.72
+2020,"Raheny, Dublin 5",All bedrooms,All property types,1719.09
+2020,Dublin 6,All bedrooms,All property types,1633.02
+2020,"Dartry, Dublin 6",All bedrooms,All property types,2381.88
+2020,"Harolds Cross, Dublin 6",All bedrooms,All property types,1675.7
+2020,"Milltown, Dublin 6",All bedrooms,All property types,2046.08
+2020,"Ranelagh, Dublin 6",All bedrooms,All property types,1776.02
+2020,"Rathgar, Dublin 6",All bedrooms,All property types,1539.45
+2020,"Rathmines, Dublin 6",All bedrooms,All property types,1404.7
+2020,"Terenure, Dublin 6",All bedrooms,All property types,1868.17
+2020,Dublin 6W,All bedrooms,All property types,1851.25
+2020,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1685.72
+2020,"Templeogue, Dublin 6W",All bedrooms,All property types,2029.33
+2020,"Terenure, Dublin 6W",All bedrooms,All property types,1891.29
+2020,Dublin 7,All bedrooms,All property types,1498.06
+2020,"Arbour Hill, Dublin 7",All bedrooms,All property types,1812.32
+2020,"Cabra, Dublin 7",All bedrooms,All property types,1343.58
+2020,"Navan Road, Dublin 7",All bedrooms,All property types,1582.37
+2020,"North Circular Road, Dublin 7",All bedrooms,All property types,1511.75
+2020,"Phibsboro, Dublin 7",All bedrooms,All property types,1186.17
+2020,"Smithfield, Dublin 7",All bedrooms,All property types,1734.4
+2020,"Stoneybatter, Dublin 7",All bedrooms,All property types,1577.85
+2020,Dublin 8,All bedrooms,All property types,1640.25
+2020,"Christchurch, Dublin 8",All bedrooms,All property types,1609.3
+2020,"Cork Street, Dublin 8",All bedrooms,All property types,1605.83
+2020,"Inchicore, Dublin 8",All bedrooms,All property types,1523.47
+2020,"Islandbridge, Dublin 8",All bedrooms,All property types,1865.49
+2020,"Kilmainham , Dublin 8",All bedrooms,All property types,1587.41
+2020,"Portobello, Dublin 8",All bedrooms,All property types,1471.07
+2020,"Rialto, Dublin 8",All bedrooms,All property types,1536.84
+2020,"South Circular Road, Dublin 8",All bedrooms,All property types,1584.38
+2020,Dublin 9,All bedrooms,All property types,1631.08
+2020,"Ballymun, Dublin 9",All bedrooms,All property types,1500.89
+2020,"Beaumont, Dublin 9",All bedrooms,All property types,1710.25
+2020,"Drumcondra, Dublin 9",All bedrooms,All property types,1575.94
+2020,"Glasnevin, Dublin 9",All bedrooms,All property types,1570.78
+2020,"Santry, Dublin 9",All bedrooms,All property types,1764.35
+2020,"Whitehall, Dublin 9",All bedrooms,All property types,1674.57
+2020,Dublin 10,All bedrooms,All property types,1371.56
+2020,"Ballyfermot, Dublin 10",All bedrooms,All property types,1411.63
+2020,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1426.75
+2020,Dublin 11,All bedrooms,All property types,1483.67
+2020,"Ballymun, Dublin 11",All bedrooms,All property types,1470.42
+2020,"Finglas, Dublin 11",All bedrooms,All property types,1458.99
+2020,"Glasnevin, Dublin 11",All bedrooms,All property types,1651.82
+2020,"Meakstown, Dublin 11",All bedrooms,All property types,1520.72
+2020,Dublin 12,All bedrooms,All property types,1679.84
+2020,"Crumlin, Dublin 12",All bedrooms,All property types,1598.78
+2020,"Drimnagh, Dublin 12",All bedrooms,All property types,1669.85
+2020,"Kimmage, Dublin 12",All bedrooms,All property types,1710.53
+2020,"Walkinstown, Dublin 12",All bedrooms,All property types,1588.85
+2020,Dublin 13,All bedrooms,All property types,1752.02
+2020,"Baldoyle, Dublin 13",All bedrooms,All property types,1653.86
+2020,"Balgriffin, Dublin 13",All bedrooms,All property types,1929.24
+2020,"Clongriffin, Dublin 13",All bedrooms,All property types,1685.55
+2020,"Donaghmede, Dublin 13",All bedrooms,All property types,1553.05
+2020,"Sutton, Dublin 13",All bedrooms,All property types,2045.61
+2020,Dublin 14,All bedrooms,All property types,2128.3
+2020,"Churchtown, Dublin 14",All bedrooms,All property types,2262.38
+2020,"Clonskeagh, Dublin 14",All bedrooms,All property types,2257.86
+2020,"Dundrum, Dublin 14",All bedrooms,All property types,1985.03
+2020,"Goatstown, Dublin 14",All bedrooms,All property types,2429.59
+2020,"Rathfarnham, Dublin 14",All bedrooms,All property types,2008.73
+2020,Dublin 15,All bedrooms,All property types,1598.5
+2020,"Ashtown, Dublin 15",All bedrooms,All property types,1722.11
+2020,"Blanchardstown, Dublin 15",All bedrooms,All property types,1541.36
+2020,"Carpenterstown, Dublin 15",All bedrooms,All property types,1646.93
+2020,"Castleknock, Dublin 15",All bedrooms,All property types,1793.69
+2020,"Clonee, Dublin 15",All bedrooms,All property types,1547.19
+2020,"Clonsilla, Dublin 15",All bedrooms,All property types,1633.3
+2020,"Coolmine, Dublin 15",All bedrooms,All property types,1558.43
+2020,"Mulhuddart, Dublin 15",All bedrooms,All property types,1412.51
+2020,"Ongar, Dublin 15",All bedrooms,All property types,1476.08
+2020,"Porterstown, Dublin 15",All bedrooms,All property types,1557.72
+2020,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1517.02
+2020,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1629.82
+2020,Dublin 16,All bedrooms,All property types,1951.77
+2020,"Ballinteer, Dublin 16",All bedrooms,All property types,1898.82
+2020,"Dundrum, Dublin 16",All bedrooms,All property types,1937.19
+2020,"Knocklyon, Dublin 16",All bedrooms,All property types,1836.22
+2020,"Rathfarnham, Dublin 16",All bedrooms,All property types,2020.94
+2020,"Sandyford, Dublin 16",All bedrooms,All property types,1887.36
+2020,Dublin 17,All bedrooms,All property types,1454.72
+2020,"Malahide Road, Dublin 17",All bedrooms,All property types,1621.6
+2020,Dublin 18,All bedrooms,All property types,1941.74
+2020,"Cabinteely, Dublin 18",All bedrooms,All property types,1905.48
+2020,"Carrickmines, Dublin 18",All bedrooms,All property types,1999.46
+2020,"Foxrock, Dublin 18",All bedrooms,All property types,2723.25
+2020,"Leopardstown, Dublin 18",All bedrooms,All property types,2041.03
+2020,"Sandyford, Dublin 18",All bedrooms,All property types,1840.3
+2020,"Stepaside, Dublin 18",All bedrooms,All property types,1747.04
+2020,Dublin 20,All bedrooms,All property types,1434.22
+2020,"Chapelizod, Dublin 20",All bedrooms,All property types,1470.74
+2020,"Palmerstown, Dublin 20",All bedrooms,All property types,1583.38
+2020,"Clondalkin, Dublin 22",All bedrooms,All property types,1495.75
+2020,Dublin 24,All bedrooms,All property types,1469.96
+2020,"Ballycullen, Dublin 24",All bedrooms,All property types,1675.34
+2020,"Citywest, Dublin 24",All bedrooms,All property types,1717.1
+2020,"Firhouse, Dublin 24",All bedrooms,All property types,1726.98
+2020,"Tallaght, Dublin 24",All bedrooms,All property types,1487.15
+2021,Dublin,All bedrooms,All property types,1771.39
+2021,"Balbriggan, Dublin",All bedrooms,All property types,1402.82
+2021,"Blackrock, Dublin",All bedrooms,All property types,2154.88
+2021,"Booterstown, Dublin",All bedrooms,All property types,2226.27
+2021,"Dalkey, Dublin",All bedrooms,All property types,2474.6
+2021,"Donabate, Dublin",All bedrooms,All property types,1655.93
+2021,"Dun Laoghaire, Dublin",All bedrooms,All property types,2059.83
+2021,"Glenageary, Dublin",All bedrooms,All property types,2441.75
+2021,"Howth, Dublin",All bedrooms,All property types,1899.48
+2021,"Killiney, Dublin",All bedrooms,All property types,2257.69
+2021,"Kinsealy, Dublin",All bedrooms,All property types,1637.3
+2021,"Lucan, Dublin",All bedrooms,All property types,1750.37
+2021,"Lusk, Dublin",All bedrooms,All property types,1499.32
+2021,"Malahide, Dublin",All bedrooms,All property types,2101.88
+2021,"Monkstown, Dublin",All bedrooms,All property types,1821.94
+2021,"Mount Merrion, Dublin",All bedrooms,All property types,2723.04
+2021,"Portmarnock, Dublin",All bedrooms,All property types,1823.17
+2021,"Rathcoole, Dublin",All bedrooms,All property types,1557.64
+2021,"Rush, Dublin",All bedrooms,All property types,1493.19
+2021,"Saggart, Dublin",All bedrooms,All property types,1628.1
+2021,"Sandycove, Dublin",All bedrooms,All property types,2297.39
+2021,"Shankill, Dublin",All bedrooms,All property types,1856.11
+2021,"Skerries, Dublin",All bedrooms,All property types,1590.53
+2021,"Stillorgan, Dublin",All bedrooms,All property types,2040.22
+2021,"Swords, Dublin",All bedrooms,All property types,1604.05
+2021,Dublin 1,All bedrooms,All property types,1582.22
+2021,"I.F.S.C., Dublin 1",All bedrooms,All property types,1811.65
+2021,"Parnell Street, Dublin 1",All bedrooms,All property types,1752.75
+2021,"Spencer Dock, Dublin 1",All bedrooms,All property types,2135.27
+2021,"Summerhill, Dublin 1",All bedrooms,All property types,1582.44
+2021,Dublin 2,All bedrooms,All property types,2052.72
+2021,"Charlemont Street, Dublin 2",All bedrooms,All property types,2081.34
+2021,"Grand Canal Dock, Dublin 2",All bedrooms,All property types,2384.98
+2021,"Hanover Quay, Dublin 2",All bedrooms,All property types,2370.54
+2021,"Pearse Street, Dublin 2",All bedrooms,All property types,1746.01
+2021,"Tara Street, Dublin 2",All bedrooms,All property types,1697.46
+2021,"Temple Bar, Dublin 2",All bedrooms,All property types,1755.86
+2021,"Townsend Street, Dublin 2",All bedrooms,All property types,1734.2
+2021,Dublin 3,All bedrooms,All property types,1668.27
+2021,"Clonliffe, Dublin 3",All bedrooms,All property types,1477.55
+2021,"Clontarf, Dublin 3",All bedrooms,All property types,1788.33
+2021,"Drumcondra, Dublin 3",All bedrooms,All property types,1567.29
+2021,"East Wall, Dublin 3",All bedrooms,All property types,1751.06
+2021,"Fairview, Dublin 3",All bedrooms,All property types,1473.94
+2021,"Marino, Dublin 3",All bedrooms,All property types,1751.53
+2021,"North Strand, Dublin 3",All bedrooms,All property types,1682.39
+2021,Dublin 4,All bedrooms,All property types,2167.72
+2021,"Ballsbridge, Dublin 4",All bedrooms,All property types,2400.51
+2021,"Donnybrook, Dublin 4",All bedrooms,All property types,2097.84
+2021,"Irishtown, Dublin 4",All bedrooms,All property types,2050.14
+2021,"Merrion, Dublin 4",All bedrooms,All property types,2065.61
+2021,"Pembroke, Dublin 4",All bedrooms,All property types,2181.93
+2021,"Ringsend, Dublin 4",All bedrooms,All property types,1941.18
+2021,"Sandymount, Dublin 4",All bedrooms,All property types,2208.64
+2021,Dublin 5,All bedrooms,All property types,1629.55
+2021,"Artane, Dublin 5",All bedrooms,All property types,1697.86
+2021,"Killester, Dublin 5",All bedrooms,All property types,1804.89
+2021,"Raheny, Dublin 5",All bedrooms,All property types,1777.04
+2021,Dublin 6,All bedrooms,All property types,1596.25
+2021,"Dartry, Dublin 6",All bedrooms,All property types,2128.65
+2021,"Harolds Cross, Dublin 6",All bedrooms,All property types,1860.75
+2021,"Milltown, Dublin 6",All bedrooms,All property types,2057.73
+2021,"Ranelagh, Dublin 6",All bedrooms,All property types,1780.89
+2021,"Rathgar, Dublin 6",All bedrooms,All property types,1532.72
+2021,"Rathmines, Dublin 6",All bedrooms,All property types,1422.24
+2021,Dublin 6W,All bedrooms,All property types,1822.9
+2021,"Harolds Cross, Dublin 6W",All bedrooms,All property types,1784.35
+2021,"Templeogue, Dublin 6W",All bedrooms,All property types,2022.35
+2021,"Terenure, Dublin 6W",All bedrooms,All property types,1860.23
+2021,Dublin 7,All bedrooms,All property types,1499.48
+2021,"Arbour Hill, Dublin 7",All bedrooms,All property types,1773.95
+2021,"Cabra, Dublin 7",All bedrooms,All property types,1305.38
+2021,"North Circular Road, Dublin 7",All bedrooms,All property types,1553.01
+2021,"Phibsboro, Dublin 7",All bedrooms,All property types,1162.9
+2021,"Smithfield, Dublin 7",All bedrooms,All property types,1769.79
+2021,"Stoneybatter, Dublin 7",All bedrooms,All property types,1654.85
+2021,Dublin 8,All bedrooms,All property types,1621.67
+2021,"Christchurch, Dublin 8",All bedrooms,All property types,1573.29
+2021,"Cork Street, Dublin 8",All bedrooms,All property types,1573.68
+2021,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1799.31
+2021,"Inchicore, Dublin 8",All bedrooms,All property types,1542.34
+2021,"Islandbridge, Dublin 8",All bedrooms,All property types,1916.36
+2021,"Kilmainham , Dublin 8",All bedrooms,All property types,1604.05
+2021,"Portobello, Dublin 8",All bedrooms,All property types,1432.45
+2021,"Rialto, Dublin 8",All bedrooms,All property types,1509.5
+2021,"South Circular Road, Dublin 8",All bedrooms,All property types,1614.25
+2021,Dublin 9,All bedrooms,All property types,1563.25
+2021,"Ballymun, Dublin 9",All bedrooms,All property types,1575.99
+2021,"Beaumont, Dublin 9",All bedrooms,All property types,1761.54
+2021,"Drumcondra, Dublin 9",All bedrooms,All property types,1421.04
+2021,"Glasnevin, Dublin 9",All bedrooms,All property types,1567.92
+2021,"Santry, Dublin 9",All bedrooms,All property types,1832.02
+2021,"Whitehall, Dublin 9",All bedrooms,All property types,1731.37
+2021,Dublin 10,All bedrooms,All property types,1347.98
+2021,"Ballyfermot, Dublin 10",All bedrooms,All property types,1487.04
+2021,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1408.95
+2021,Dublin 11,All bedrooms,All property types,1503.0
+2021,"Finglas, Dublin 11",All bedrooms,All property types,1505.15
+2021,"Meakstown, Dublin 11",All bedrooms,All property types,1580.03
+2021,Dublin 12,All bedrooms,All property types,1707.35
+2021,"Crumlin, Dublin 12",All bedrooms,All property types,1617.75
+2021,"Drimnagh, Dublin 12",All bedrooms,All property types,1723.67
+2021,"Kimmage, Dublin 12",All bedrooms,All property types,1743.01
+2021,"Walkinstown, Dublin 12",All bedrooms,All property types,1717.14
+2021,Dublin 13,All bedrooms,All property types,1788.17
+2021,"Baldoyle, Dublin 13",All bedrooms,All property types,1686.62
+2021,"Balgriffin, Dublin 13",All bedrooms,All property types,1918.61
+2021,"Clongriffin, Dublin 13",All bedrooms,All property types,1844.89
+2021,"Donaghmede, Dublin 13",All bedrooms,All property types,1752.34
+2021,"Sutton, Dublin 13",All bedrooms,All property types,2074.26
+2021,Dublin 14,All bedrooms,All property types,2108.91
+2021,"Churchtown, Dublin 14",All bedrooms,All property types,2283.36
+2021,"Clonskeagh, Dublin 14",All bedrooms,All property types,2314.98
+2021,"Goatstown, Dublin 14",All bedrooms,All property types,2350.59
+2021,"Rathfarnham, Dublin 14",All bedrooms,All property types,2022.88
+2021,Dublin 15,All bedrooms,All property types,1607.37
+2021,"Ashtown, Dublin 15",All bedrooms,All property types,1759.01
+2021,"Blanchardstown, Dublin 15",All bedrooms,All property types,1565.03
+2021,"Carpenterstown, Dublin 15",All bedrooms,All property types,1646.68
+2021,"Castleknock, Dublin 15",All bedrooms,All property types,1841.54
+2021,"Clonee, Dublin 15",All bedrooms,All property types,1556.92
+2021,"Clonsilla, Dublin 15",All bedrooms,All property types,1666.97
+2021,"Coolmine, Dublin 15",All bedrooms,All property types,1513.28
+2021,"Mulhuddart, Dublin 15",All bedrooms,All property types,1393.04
+2021,"Ongar, Dublin 15",All bedrooms,All property types,1513.16
+2021,"Porterstown, Dublin 15",All bedrooms,All property types,1618.86
+2021,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1620.48
+2021,"Tyrrelstown, Dublin 15",All bedrooms,All property types,1768.73
+2021,Dublin 16,All bedrooms,All property types,2012.67
+2021,"Ballinteer, Dublin 16",All bedrooms,All property types,1897.87
+2021,"Dundrum, Dublin 16",All bedrooms,All property types,1980.5
+2021,"Knocklyon, Dublin 16",All bedrooms,All property types,1889.91
+2021,"Rathfarnham, Dublin 16",All bedrooms,All property types,2057.43
+2021,Dublin 17,All bedrooms,All property types,1499.97
+2021,"Malahide Road, Dublin 17",All bedrooms,All property types,1631.15
+2021,Dublin 18,All bedrooms,All property types,1939.64
+2021,"Cabinteely, Dublin 18",All bedrooms,All property types,1906.01
+2021,"Carrickmines, Dublin 18",All bedrooms,All property types,1904.22
+2021,"Foxrock, Dublin 18",All bedrooms,All property types,2714.97
+2021,"Leopardstown, Dublin 18",All bedrooms,All property types,2043.25
+2021,"Sandyford, Dublin 18",All bedrooms,All property types,1866.06
+2021,"Stepaside, Dublin 18",All bedrooms,All property types,1744.48
+2021,Dublin 20,All bedrooms,All property types,1427.33
+2021,"Chapelizod, Dublin 20",All bedrooms,All property types,1507.65
+2021,"Palmerstown, Dublin 20",All bedrooms,All property types,1688.33
+2021,"Clondalkin, Dublin 22",All bedrooms,All property types,1521.9
+2021,Dublin 24,All bedrooms,All property types,1581.85
+2021,"Ballycullen, Dublin 24",All bedrooms,All property types,1725.28
+2021,"Citywest, Dublin 24",All bedrooms,All property types,1884.48
+2021,"Firhouse, Dublin 24",All bedrooms,All property types,1747.39
+2021,"Tallaght, Dublin 24",All bedrooms,All property types,1552.39
+2022,Dublin,All bedrooms,All property types,1859.01
+2022,"Balbriggan, Dublin",All bedrooms,All property types,1468.26
+2022,"Blackrock, Dublin",All bedrooms,All property types,2254.52
+2022,"Booterstown, Dublin",All bedrooms,All property types,2317.21
+2022,"Dalkey, Dublin",All bedrooms,All property types,2703.17
+2022,"Donabate, Dublin",All bedrooms,All property types,1634.01
+2022,"Dun Laoghaire, Dublin",All bedrooms,All property types,2099.61
+2022,"Glenageary, Dublin",All bedrooms,All property types,2438.41
+2022,"Howth, Dublin",All bedrooms,All property types,1986.45
+2022,"Killiney, Dublin",All bedrooms,All property types,2205.23
+2022,"Kinsealy, Dublin",All bedrooms,All property types,1737.05
+2022,"Lucan, Dublin",All bedrooms,All property types,1863.67
+2022,"Lusk, Dublin",All bedrooms,All property types,1641.62
+2022,"Malahide, Dublin",All bedrooms,All property types,2200.3
+2022,"Monkstown, Dublin",All bedrooms,All property types,1873.97
+2022,"Mount Merrion, Dublin",All bedrooms,All property types,2933.85
+2022,"Portmarnock, Dublin",All bedrooms,All property types,2013.92
+2022,"Rathcoole, Dublin",All bedrooms,All property types,1648.02
+2022,"Rush, Dublin",All bedrooms,All property types,1603.28
+2022,"Saggart, Dublin",All bedrooms,All property types,1721.28
+2022,"Sandycove, Dublin",All bedrooms,All property types,2427.38
+2022,"Shankill, Dublin",All bedrooms,All property types,1819.79
+2022,"Skerries, Dublin",All bedrooms,All property types,1635.5
+2022,"Stillorgan, Dublin",All bedrooms,All property types,2061.17
+2022,"Swords, Dublin",All bedrooms,All property types,1674.96
+2022,"I.F.S.C., Dublin 1",All bedrooms,All property types,1902.76
+2022,"Parnell Street, Dublin 1",All bedrooms,All property types,1700.45
+2022,"Spencer Dock, Dublin 1",All bedrooms,All property types,2252.86
+2022,"Summerhill, Dublin 1",All bedrooms,All property types,1521.45
+2022,"Charlemont Street, Dublin 2",All bedrooms,All property types,2120.69
+2022,"Hanover Quay, Dublin 2",All bedrooms,All property types,2394.24
+2022,"Pearse Street, Dublin 2",All bedrooms,All property types,1819.57
+2022,"Temple Bar, Dublin 2",All bedrooms,All property types,1820.89
+2022,"Townsend Street, Dublin 2",All bedrooms,All property types,1812.28
+2022,"Clonliffe, Dublin 3",All bedrooms,All property types,1537.11
+2022,"Clontarf, Dublin 3",All bedrooms,All property types,1829.68
+2022,"Drumcondra, Dublin 3",All bedrooms,All property types,1613.23
+2022,"East Wall, Dublin 3",All bedrooms,All property types,1826.62
+2022,"Fairview, Dublin 3",All bedrooms,All property types,1568.32
+2022,"Marino, Dublin 3",All bedrooms,All property types,1886.06
+2022,"North Strand, Dublin 3",All bedrooms,All property types,1723.77
+2022,"Ballsbridge, Dublin 4",All bedrooms,All property types,2395.12
+2022,"Donnybrook, Dublin 4",All bedrooms,All property types,2250.92
+2022,"Irishtown, Dublin 4",All bedrooms,All property types,2059.61
+2022,"Merrion, Dublin 4",All bedrooms,All property types,2105.73
+2022,"Pembroke, Dublin 4",All bedrooms,All property types,2152.15
+2022,"Ringsend, Dublin 4",All bedrooms,All property types,1968.01
+2022,"Sandymount, Dublin 4",All bedrooms,All property types,2321.82
+2022,"Artane, Dublin 5",All bedrooms,All property types,1861.22
+2022,"Killester, Dublin 5",All bedrooms,All property types,1988.71
+2022,"Raheny, Dublin 5",All bedrooms,All property types,1865.34
+2022,"Dartry, Dublin 6",All bedrooms,All property types,2064.86
+2022,"Harolds Cross, Dublin 6",All bedrooms,All property types,1996.61
+2022,"Milltown, Dublin 6",All bedrooms,All property types,2104.71
+2022,"Ranelagh, Dublin 6",All bedrooms,All property types,1824.67
+2022,"Rathgar, Dublin 6",All bedrooms,All property types,1571.13
+2022,"Rathmines, Dublin 6",All bedrooms,All property types,1487.52
+2022,"Templeogue, Dublin 6W",All bedrooms,All property types,2102.55
+2022,"Terenure, Dublin 6W",All bedrooms,All property types,1966.21
+2022,"Arbour Hill, Dublin 7",All bedrooms,All property types,1796.96
+2022,"Cabra, Dublin 7",All bedrooms,All property types,1325.79
+2022,"North Circular Road, Dublin 7",All bedrooms,All property types,1667.35
+2022,"Phibsboro, Dublin 7",All bedrooms,All property types,1145.91
+2022,"Smithfield, Dublin 7",All bedrooms,All property types,1867.88
+2022,"Stoneybatter, Dublin 7",All bedrooms,All property types,1754.72
+2022,"Christchurch, Dublin 8",All bedrooms,All property types,1592.01
+2022,"Cork Street, Dublin 8",All bedrooms,All property types,1619.06
+2022,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1682.67
+2022,"Inchicore, Dublin 8",All bedrooms,All property types,1626.57
+2022,"Islandbridge, Dublin 8",All bedrooms,All property types,1966.79
+2022,"Kilmainham , Dublin 8",All bedrooms,All property types,1646.48
+2022,"Portobello, Dublin 8",All bedrooms,All property types,1467.13
+2022,"Rialto, Dublin 8",All bedrooms,All property types,1572.71
+2022,"South Circular Road, Dublin 8",All bedrooms,All property types,1665.65
+2022,"Ballymun, Dublin 9",All bedrooms,All property types,1525.85
+2022,"Beaumont, Dublin 9",All bedrooms,All property types,1808.38
+2022,"Glasnevin, Dublin 9",All bedrooms,All property types,1717.38
+2022,"Santry, Dublin 9",All bedrooms,All property types,1895.13
+2022,"Whitehall, Dublin 9",All bedrooms,All property types,1773.09
+2022,"Ballyfermot, Dublin 10",All bedrooms,All property types,1653.4
+2022,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1532.31
+2022,"Finglas, Dublin 11",All bedrooms,All property types,1581.59
+2022,"Crumlin, Dublin 12",All bedrooms,All property types,1753.29
+2022,"Drimnagh, Dublin 12",All bedrooms,All property types,1754.17
+2022,"Kimmage, Dublin 12",All bedrooms,All property types,1786.82
+2022,"Walkinstown, Dublin 12",All bedrooms,All property types,1792.74
+2022,"Baldoyle, Dublin 13",All bedrooms,All property types,1752.69
+2022,"Balgriffin, Dublin 13",All bedrooms,All property types,1907.24
+2022,"Clongriffin, Dublin 13",All bedrooms,All property types,1898.95
+2022,"Donaghmede, Dublin 13",All bedrooms,All property types,1700.36
+2022,"Sutton, Dublin 13",All bedrooms,All property types,2086.97
+2022,"Churchtown, Dublin 14",All bedrooms,All property types,2366.42
+2022,"Clonskeagh, Dublin 14",All bedrooms,All property types,2368.42
+2022,"Goatstown, Dublin 14",All bedrooms,All property types,2462.86
+2022,"Ashtown, Dublin 15",All bedrooms,All property types,1754.58
+2022,"Blanchardstown, Dublin 15",All bedrooms,All property types,1655.04
+2022,"Carpenterstown, Dublin 15",All bedrooms,All property types,1683.09
+2022,"Castleknock, Dublin 15",All bedrooms,All property types,1894.4
+2022,"Clonee, Dublin 15",All bedrooms,All property types,1649.22
+2022,"Clonsilla, Dublin 15",All bedrooms,All property types,1729.45
+2022,"Mulhuddart, Dublin 15",All bedrooms,All property types,1558.87
+2022,"Ongar, Dublin 15",All bedrooms,All property types,1583.69
+2022,"Porterstown, Dublin 15",All bedrooms,All property types,1686.83
+2022,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1673.74
+2022,"Ballinteer, Dublin 16",All bedrooms,All property types,1933.12
+2022,"Dundrum, Dublin 16",All bedrooms,All property types,2096.99
+2022,"Knocklyon, Dublin 16",All bedrooms,All property types,1943.97
+2022,"Rathfarnham, Dublin 16",All bedrooms,All property types,2003.77
+2022,"Malahide Road, Dublin 17",All bedrooms,All property types,1644.34
+2022,"Cabinteely, Dublin 18",All bedrooms,All property types,1932.72
+2022,"Carrickmines, Dublin 18",All bedrooms,All property types,1901.34
+2022,"Foxrock, Dublin 18",All bedrooms,All property types,2852.01
+2022,"Leopardstown, Dublin 18",All bedrooms,All property types,2066.72
+2022,"Sandyford, Dublin 18",All bedrooms,All property types,1883.64
+2022,"Stepaside, Dublin 18",All bedrooms,All property types,1823.02
+2022,"Chapelizod, Dublin 20",All bedrooms,All property types,1597.82
+2022,"Palmerstown, Dublin 20",All bedrooms,All property types,1699.16
+2022,"Clondalkin, Dublin 22",All bedrooms,All property types,1572.68
+2022,"Ballycullen, Dublin 24",All bedrooms,All property types,1751.64
+2022,"Citywest, Dublin 24",All bedrooms,All property types,1888.39
+2022,"Firhouse, Dublin 24",All bedrooms,All property types,1820.55
+2022,"Tallaght, Dublin 24",All bedrooms,All property types,1609.83
+2023,Dublin,All bedrooms,All property types,1969.25
+2023,"Balbriggan, Dublin",All bedrooms,All property types,1521.65
+2023,"Blackrock, Dublin",All bedrooms,All property types,2382.2
+2023,"Booterstown, Dublin",All bedrooms,All property types,2499.45
+2023,"Dalkey, Dublin",All bedrooms,All property types,2617.65
+2023,"Donabate, Dublin",All bedrooms,All property types,1680.11
+2023,"Dun Laoghaire, Dublin",All bedrooms,All property types,2132.21
+2023,"Glenageary, Dublin",All bedrooms,All property types,2874.49
+2023,"Howth, Dublin",All bedrooms,All property types,2113.65
+2023,"Killiney, Dublin",All bedrooms,All property types,2376.7
+2023,"Kinsealy, Dublin",All bedrooms,All property types,1912.52
+2023,"Lucan, Dublin",All bedrooms,All property types,2037.43
+2023,"Lusk, Dublin",All bedrooms,All property types,1779.74
+2023,"Malahide, Dublin",All bedrooms,All property types,2246.39
+2023,"Monkstown, Dublin",All bedrooms,All property types,1957.88
+2023,"Mount Merrion, Dublin",All bedrooms,All property types,3110.68
+2023,"Portmarnock, Dublin",All bedrooms,All property types,2257.83
+2023,"Rathcoole, Dublin",All bedrooms,All property types,1732.34
+2023,"Rush, Dublin",All bedrooms,All property types,1682.28
+2023,"Saggart, Dublin",All bedrooms,All property types,1833.49
+2023,"Sandycove, Dublin",All bedrooms,All property types,2498.34
+2023,"Shankill, Dublin",All bedrooms,All property types,1959.85
+2023,"Skerries, Dublin",All bedrooms,All property types,1735.64
+2023,"Stillorgan, Dublin",All bedrooms,All property types,2220.66
+2023,"Swords, Dublin",All bedrooms,All property types,1711.54
+2023,"I.F.S.C., Dublin 1",All bedrooms,All property types,1982.76
+2023,"Parnell Street, Dublin 1",All bedrooms,All property types,1765.88
+2023,"Spencer Dock, Dublin 1",All bedrooms,All property types,2353.77
+2023,"Summerhill, Dublin 1",All bedrooms,All property types,1610.31
+2023,"Charlemont Street, Dublin 2",All bedrooms,All property types,2249.77
+2023,"Pearse Street, Dublin 2",All bedrooms,All property types,1885.68
+2023,"Temple Bar, Dublin 2",All bedrooms,All property types,1921.95
+2023,"Townsend Street, Dublin 2",All bedrooms,All property types,1879.86
+2023,"Clonliffe, Dublin 3",All bedrooms,All property types,1605.55
+2023,"Clontarf, Dublin 3",All bedrooms,All property types,1898.61
+2023,"Drumcondra, Dublin 3",All bedrooms,All property types,1674.54
+2023,"East Wall, Dublin 3",All bedrooms,All property types,1914.88
+2023,"Fairview, Dublin 3",All bedrooms,All property types,1655.13
+2023,"Marino, Dublin 3",All bedrooms,All property types,2019.83
+2023,"North Strand, Dublin 3",All bedrooms,All property types,1815.09
+2023,"Ballsbridge, Dublin 4",All bedrooms,All property types,2493.06
+2023,"Donnybrook, Dublin 4",All bedrooms,All property types,2364.64
+2023,"Irishtown, Dublin 4",All bedrooms,All property types,2095.01
+2023,"Merrion, Dublin 4",All bedrooms,All property types,2134.06
+2023,"Pembroke, Dublin 4",All bedrooms,All property types,2233.23
+2023,"Ringsend, Dublin 4",All bedrooms,All property types,2147.6
+2023,"Sandymount, Dublin 4",All bedrooms,All property types,2447.66
+2023,"Artane, Dublin 5",All bedrooms,All property types,2048.41
+2023,"Killester, Dublin 5",All bedrooms,All property types,2051.25
+2023,"Raheny, Dublin 5",All bedrooms,All property types,1937.13
+2023,"Dartry, Dublin 6",All bedrooms,All property types,2027.99
+2023,"Harolds Cross, Dublin 6",All bedrooms,All property types,2010.57
+2023,"Milltown, Dublin 6",All bedrooms,All property types,2185.41
+2023,"Ranelagh, Dublin 6",All bedrooms,All property types,1866.4
+2023,"Rathgar, Dublin 6",All bedrooms,All property types,1650.51
+2023,"Rathmines, Dublin 6",All bedrooms,All property types,1569.32
+2023,"Templeogue, Dublin 6W",All bedrooms,All property types,2185.58
+2023,"Terenure, Dublin 6W",All bedrooms,All property types,2077.28
+2023,"Arbour Hill, Dublin 7",All bedrooms,All property types,1939.3
+2023,"Cabra, Dublin 7",All bedrooms,All property types,1556.02
+2023,"North Circular Road, Dublin 7",All bedrooms,All property types,1715.4
+2023,"Smithfield, Dublin 7",All bedrooms,All property types,1956.16
+2023,"Stoneybatter, Dublin 7",All bedrooms,All property types,1796.72
+2023,"Christchurch, Dublin 8",All bedrooms,All property types,1679.01
+2023,"Cork Street, Dublin 8",All bedrooms,All property types,1706.0
+2023,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1759.14
+2023,"Inchicore, Dublin 8",All bedrooms,All property types,1679.71
+2023,"Islandbridge, Dublin 8",All bedrooms,All property types,1953.7
+2023,"Kilmainham , Dublin 8",All bedrooms,All property types,1790.67
+2023,"Portobello, Dublin 8",All bedrooms,All property types,1590.74
+2023,"Rialto, Dublin 8",All bedrooms,All property types,1629.34
+2023,"South Circular Road, Dublin 8",All bedrooms,All property types,1752.34
+2023,"Ballymun, Dublin 9",All bedrooms,All property types,1502.47
+2023,"Beaumont, Dublin 9",All bedrooms,All property types,1972.13
+2023,"Glasnevin, Dublin 9",All bedrooms,All property types,1809.96
+2023,"Santry, Dublin 9",All bedrooms,All property types,1929.7
+2023,"Whitehall, Dublin 9",All bedrooms,All property types,1887.02
+2023,"Ballyfermot, Dublin 10",All bedrooms,All property types,1705.63
+2023,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1634.73
+2023,"Finglas, Dublin 11",All bedrooms,All property types,1719.46
+2023,"Crumlin, Dublin 12",All bedrooms,All property types,1830.12
+2023,"Drimnagh, Dublin 12",All bedrooms,All property types,1856.7
+2023,"Kimmage, Dublin 12",All bedrooms,All property types,1845.73
+2023,"Walkinstown, Dublin 12",All bedrooms,All property types,1843.78
+2023,"Baldoyle, Dublin 13",All bedrooms,All property types,1877.45
+2023,"Balgriffin, Dublin 13",All bedrooms,All property types,1957.27
+2023,"Clongriffin, Dublin 13",All bedrooms,All property types,1784.38
+2023,"Sutton, Dublin 13",All bedrooms,All property types,2293.0
+2023,"Churchtown, Dublin 14",All bedrooms,All property types,2419.08
+2023,"Clonskeagh, Dublin 14",All bedrooms,All property types,2424.43
+2023,"Goatstown, Dublin 14",All bedrooms,All property types,2679.0
+2023,"Ashtown, Dublin 15",All bedrooms,All property types,1818.1
+2023,"Blanchardstown, Dublin 15",All bedrooms,All property types,1736.96
+2023,"Carpenterstown, Dublin 15",All bedrooms,All property types,1723.73
+2023,"Castleknock, Dublin 15",All bedrooms,All property types,1947.32
+2023,"Clonee, Dublin 15",All bedrooms,All property types,1693.26
+2023,"Clonsilla, Dublin 15",All bedrooms,All property types,1806.69
+2023,"Mulhuddart, Dublin 15",All bedrooms,All property types,1622.03
+2023,"Ongar, Dublin 15",All bedrooms,All property types,1753.61
+2023,"Porterstown, Dublin 15",All bedrooms,All property types,1668.64
+2023,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1750.47
+2023,"Ballinteer, Dublin 16",All bedrooms,All property types,2071.35
+2023,"Dundrum, Dublin 16",All bedrooms,All property types,2171.1
+2023,"Knocklyon, Dublin 16",All bedrooms,All property types,2105.51
+2023,"Rathfarnham, Dublin 16",All bedrooms,All property types,2080.68
+2023,"Malahide Road, Dublin 17",All bedrooms,All property types,1693.89
+2023,"Cabinteely, Dublin 18",All bedrooms,All property types,2012.63
+2023,"Carrickmines, Dublin 18",All bedrooms,All property types,2057.69
+2023,"Foxrock, Dublin 18",All bedrooms,All property types,3040.06
+2023,"Leopardstown, Dublin 18",All bedrooms,All property types,2115.04
+2023,"Sandyford, Dublin 18",All bedrooms,All property types,2118.43
+2023,"Stepaside, Dublin 18",All bedrooms,All property types,1902.43
+2023,"Chapelizod, Dublin 20",All bedrooms,All property types,1643.74
+2023,"Palmerstown, Dublin 20",All bedrooms,All property types,1753.01
+2023,"Clondalkin, Dublin 22",All bedrooms,All property types,1637.55
+2023,"Ballycullen, Dublin 24",All bedrooms,All property types,1864.21
+2023,"Citywest, Dublin 24",All bedrooms,All property types,1891.76
+2023,"Firhouse, Dublin 24",All bedrooms,All property types,1949.92
+2023,"Tallaght, Dublin 24",All bedrooms,All property types,1639.79
+2024,Dublin,All bedrooms,All property types,2076.77
+2024,"Balbriggan, Dublin",All bedrooms,All property types,1634.13
+2024,"Blackrock, Dublin",All bedrooms,All property types,2508.05
+2024,"Booterstown, Dublin",All bedrooms,All property types,2474.39
+2024,"Dalkey, Dublin",All bedrooms,All property types,2716.59
+2024,"Donabate, Dublin",All bedrooms,All property types,1864.65
+2024,"Dun Laoghaire, Dublin",All bedrooms,All property types,2182.54
+2024,"Glenageary, Dublin",All bedrooms,All property types,2841.79
+2024,"Howth, Dublin",All bedrooms,All property types,2145.02
+2024,"Killiney, Dublin",All bedrooms,All property types,2526.31
+2024,"Kinsealy, Dublin",All bedrooms,All property types,2070.13
+2024,"Lucan, Dublin",All bedrooms,All property types,2147.5
+2024,"Lusk, Dublin",All bedrooms,All property types,1957.27
+2024,"Malahide, Dublin",All bedrooms,All property types,2351.55
+2024,"Monkstown, Dublin",All bedrooms,All property types,2097.05
+2024,"Mount Merrion, Dublin",All bedrooms,All property types,3779.36
+2024,"Portmarnock, Dublin",All bedrooms,All property types,2362.69
+2024,"Rathcoole, Dublin",All bedrooms,All property types,1774.1
+2024,"Rush, Dublin",All bedrooms,All property types,1812.63
+2024,"Saggart, Dublin",All bedrooms,All property types,1952.57
+2024,"Sandycove, Dublin",All bedrooms,All property types,2577.71
+2024,"Shankill, Dublin",All bedrooms,All property types,2035.34
+2024,"Skerries, Dublin",All bedrooms,All property types,1820.61
+2024,"Stillorgan, Dublin",All bedrooms,All property types,2330.78
+2024,"Swords, Dublin",All bedrooms,All property types,1806.67
+2024,"I.F.S.C., Dublin 1",All bedrooms,All property types,2050.07
+2024,"Parnell Street, Dublin 1",All bedrooms,All property types,1846.14
+2024,"Spencer Dock, Dublin 1",All bedrooms,All property types,2361.37
+2024,"Summerhill, Dublin 1",All bedrooms,All property types,1692.38
+2024,"Charlemont Street, Dublin 2",All bedrooms,All property types,2240.73
+2024,"Pearse Street, Dublin 2",All bedrooms,All property types,1963.65
+2024,"Temple Bar, Dublin 2",All bedrooms,All property types,2146.05
+2024,"Townsend Street, Dublin 2",All bedrooms,All property types,1952.19
+2024,"Clonliffe, Dublin 3",All bedrooms,All property types,1550.39
+2024,"Clontarf, Dublin 3",All bedrooms,All property types,1989.71
+2024,"Drumcondra, Dublin 3",All bedrooms,All property types,1764.7
+2024,"East Wall, Dublin 3",All bedrooms,All property types,2014.21
+2024,"Fairview, Dublin 3",All bedrooms,All property types,1752.03
+2024,"Marino, Dublin 3",All bedrooms,All property types,2331.39
+2024,"North Strand, Dublin 3",All bedrooms,All property types,1811.88
+2024,"Ballsbridge, Dublin 4",All bedrooms,All property types,2564.22
+2024,"Donnybrook, Dublin 4",All bedrooms,All property types,2398.66
+2024,"Irishtown, Dublin 4",All bedrooms,All property types,2188.15
+2024,"Merrion, Dublin 4",All bedrooms,All property types,2131.54
+2024,"Pembroke, Dublin 4",All bedrooms,All property types,2457.5
+2024,"Ringsend, Dublin 4",All bedrooms,All property types,2217.69
+2024,"Sandymount, Dublin 4",All bedrooms,All property types,2605.58
+2024,"Artane, Dublin 5",All bedrooms,All property types,2149.53
+2024,"Killester, Dublin 5",All bedrooms,All property types,2260.51
+2024,"Raheny, Dublin 5",All bedrooms,All property types,2087.85
+2024,"Dartry, Dublin 6",All bedrooms,All property types,2205.73
+2024,"Harolds Cross, Dublin 6",All bedrooms,All property types,2059.48
+2024,"Milltown, Dublin 6",All bedrooms,All property types,2258.34
+2024,"Ranelagh, Dublin 6",All bedrooms,All property types,2004.87
+2024,"Rathgar, Dublin 6",All bedrooms,All property types,1747.38
+2024,"Rathmines, Dublin 6",All bedrooms,All property types,1623.16
+2024,"Templeogue, Dublin 6W",All bedrooms,All property types,2364.32
+2024,"Terenure, Dublin 6W",All bedrooms,All property types,2067.82
+2024,"Arbour Hill, Dublin 7",All bedrooms,All property types,2089.02
+2024,"Cabra, Dublin 7",All bedrooms,All property types,1632.13
+2024,"North Circular Road, Dublin 7",All bedrooms,All property types,1853.49
+2024,"Smithfield, Dublin 7",All bedrooms,All property types,2007.22
+2024,"Stoneybatter, Dublin 7",All bedrooms,All property types,1832.62
+2024,"Christchurch, Dublin 8",All bedrooms,All property types,1776.14
+2024,"Cork Street, Dublin 8",All bedrooms,All property types,1793.97
+2024,"Dolphins Barn, Dublin 8",All bedrooms,All property types,1946.94
+2024,"Inchicore, Dublin 8",All bedrooms,All property types,1820.36
+2024,"Islandbridge, Dublin 8",All bedrooms,All property types,2014.13
+2024,"Kilmainham , Dublin 8",All bedrooms,All property types,1879.06
+2024,"Portobello, Dublin 8",All bedrooms,All property types,1672.74
+2024,"Rialto, Dublin 8",All bedrooms,All property types,1732.13
+2024,"South Circular Road, Dublin 8",All bedrooms,All property types,1799.5
+2024,"Ballymun, Dublin 9",All bedrooms,All property types,1681.88
+2024,"Beaumont, Dublin 9",All bedrooms,All property types,2069.39
+2024,"Glasnevin, Dublin 9",All bedrooms,All property types,1911.26
+2024,"Santry, Dublin 9",All bedrooms,All property types,1997.45
+2024,"Whitehall, Dublin 9",All bedrooms,All property types,1970.06
+2024,"Ballyfermot, Dublin 10",All bedrooms,All property types,1787.38
+2024,"Cherry Orchard, Dublin 10",All bedrooms,All property types,1642.14
+2024,"Finglas, Dublin 11",All bedrooms,All property types,1829.25
+2024,"Crumlin, Dublin 12",All bedrooms,All property types,1885.42
+2024,"Drimnagh, Dublin 12",All bedrooms,All property types,1972.28
+2024,"Kimmage, Dublin 12",All bedrooms,All property types,1893.92
+2024,"Walkinstown, Dublin 12",All bedrooms,All property types,2108.68
+2024,"Baldoyle, Dublin 13",All bedrooms,All property types,2072.42
+2024,"Balgriffin, Dublin 13",All bedrooms,All property types,1975.01
+2024,"Clongriffin, Dublin 13",All bedrooms,All property types,1837.89
+2024,"Sutton, Dublin 13",All bedrooms,All property types,2337.01
+2024,"Churchtown, Dublin 14",All bedrooms,All property types,2474.27
+2024,"Clonskeagh, Dublin 14",All bedrooms,All property types,2554.18
+2024,"Goatstown, Dublin 14",All bedrooms,All property types,2942.08
+2024,"Ashtown, Dublin 15",All bedrooms,All property types,1930.42
+2024,"Blanchardstown, Dublin 15",All bedrooms,All property types,1836.92
+2024,"Castleknock, Dublin 15",All bedrooms,All property types,2073.09
+2024,"Clonee, Dublin 15",All bedrooms,All property types,1845.41
+2024,"Clonsilla, Dublin 15",All bedrooms,All property types,1905.09
+2024,"Mulhuddart, Dublin 15",All bedrooms,All property types,1688.88
+2024,"Ongar, Dublin 15",All bedrooms,All property types,1875.36
+2024,"Porterstown, Dublin 15",All bedrooms,All property types,1701.88
+2024,"Royal Canal Park, Dublin 15",All bedrooms,All property types,1928.74
+2024,"Ballinteer, Dublin 16",All bedrooms,All property types,2280.17
+2024,"Dundrum, Dublin 16",All bedrooms,All property types,2276.32
+2024,"Knocklyon, Dublin 16",All bedrooms,All property types,2206.55
+2024,"Rathfarnham, Dublin 16",All bedrooms,All property types,2181.0
+2024,"Malahide Road, Dublin 17",All bedrooms,All property types,1805.41
+2024,"Cabinteely, Dublin 18",All bedrooms,All property types,2112.15
+2024,"Carrickmines, Dublin 18",All bedrooms,All property types,2337.88
+2024,"Foxrock, Dublin 18",All bedrooms,All property types,3354.92
+2024,"Leopardstown, Dublin 18",All bedrooms,All property types,2152.8
+2024,"Sandyford, Dublin 18",All bedrooms,All property types,2282.0
+2024,"Stepaside, Dublin 18",All bedrooms,All property types,1961.5
+2024,"Chapelizod, Dublin 20",All bedrooms,All property types,1728.54
+2024,"Palmerstown, Dublin 20",All bedrooms,All property types,1963.33
+2024,"Clondalkin, Dublin 22",All bedrooms,All property types,1754.55
+2024,"Ballycullen, Dublin 24",All bedrooms,All property types,2056.47
+2024,"Citywest, Dublin 24",All bedrooms,All property types,2142.6
+2024,"Firhouse, Dublin 24",All bedrooms,All property types,2043.37
+2024,"Tallaght, Dublin 24",All bedrooms,All property types,1747.85
